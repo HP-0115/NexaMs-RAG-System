@@ -1,0 +1,8 @@
+docling
+llama-parse
+llama-index
+python-dotenv
+nest_asyncio
+llama-index-embeddings-huggingface
+torch
+transformers
