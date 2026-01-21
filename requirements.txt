@@ -1,8 +1,22 @@
-docling
-llama-parse
-llama-index
-python-dotenv
-nest_asyncio
+# --- CORE FRAMEWORK ---
+llama-index-core>=0.10.0
+llama-index>=0.10.0
+
+# --- LLM & EMBEDDING PROVIDERS ---
+llama-index-llms-groq
 llama-index-embeddings-huggingface
-torch
+llama-index-vector-stores-pinecone
+llama-index-postprocessor-sbert-rerank
+
+# --- INFRASTRUCTURE & UTILS ---
+pinecone>=7.0.0,<8.0.0
+python-dotenv
+nest-asyncio
 transformers
+torch
+sentence-transformers
+
+# --- DATA INGESTION (PDF & OCR) ---
+docling
+rapidocr-onnxruntime
+pypdf
