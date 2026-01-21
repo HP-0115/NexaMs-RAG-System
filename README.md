@@ -78,4 +78,4 @@ graph LR
 * **OCR:** Docling + RapidOCR
 
 ---
-*Built as a scalable AI Engineering Portfolio Project.*
+
