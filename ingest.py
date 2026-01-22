@@ -1,16 +1,28 @@
 """
-Nexa Data Ingestion Pipeline
-----------------------------
-Converts raw PDF manuals into semantic Markdown.
-Uses Docling with RapidOCR for high-fidelity table extraction.
-Implements 'Memory-Safe Chunking' to handle large PDFs on consumer hardware.
+Nexa Ingestion Engine (V2: Multimodal Vision)
+-----------------------------------------------
+This pipeline converts raw PDF manuals into semantic Markdown with AI-generated image descriptions.
+
+KEY FEATURES:
+1. TEXT EXTRACTION: Uses Docling with forced RapidOCR to handle complex/corrupt text layers.
+2. VISION INTELLIGENCE: integrates 'SmolVLM' (Vision Language Model) to "see" and describe technical diagrams.
+3. INCREMENTAL PROCESSING: Skips files that have already been processed to save time.
+
+USAGE:
+    python ingest.py
 """
 
 import os
 import shutil
-import time
-import gc
-from pypdf import PdfReader, PdfWriter
+import torch
+import fitz  # PyMuPDF
+from PIL import Image
+import io
+
+# Hugging Face (Vision Intelligence)
+from transformers import AutoProcessor, AutoModelForVision2Seq
+
+# Docling (Text & Layout Analysis)
 from docling.document_converter import DocumentConverter, PdfFormatOption
 from docling.datamodel.base_models import InputFormat
 from docling.datamodel.pipeline_options import PdfPipelineOptions, RapidOcrOptions
@@ -19,123 +31,179 @@ from docling.datamodel.pipeline_options import PdfPipelineOptions, RapidOcrOptio
 PDF_DIR = "data/raw_pdfs"
 OUTPUT_DIR = "data/parsed_docs"
 TEMP_DIR = "data/temp_chunks"
-PAGES_PER_CHUNK = 5  # Reduce this if running out of RAM
+BATCH_SIZE = 5  # Pages processed per batch to manage memory
+MODEL_ID = "HuggingFaceTB/SmolVLM-256M-Instruct"
 
-def clear_temp_directory():
-    """Resets the temporary directory for chunk processing."""
-    if os.path.exists(TEMP_DIR):
-        shutil.rmtree(TEMP_DIR)
-    os.makedirs(TEMP_DIR)
+# --- 1. INITIALIZE VISION MODEL (SmolVLM) ---
+print(f"--> [Init] Loading Vision Model ({MODEL_ID})...")
+device = "mps" if torch.backends.mps.is_available() else "cpu"
+torch_dtype = torch.float16 if device == "mps" else torch.float32
 
-def get_ocr_converter():
-    """
-    Configures Docling with RapidOCR.
-    Optimized for local execution (Mac M1/M2/M3 compatible).
-    Enables table structure recognition and cell matching.
-    """
-    pipeline_options = PdfPipelineOptions()
-    pipeline_options.do_ocr = True
-    pipeline_options.do_table_structure = True
-    pipeline_options.table_structure_options.do_cell_matching = True
-    
-    # RapidOCR is faster and more stable than Tesseract for this use case
-    ocr_options = RapidOcrOptions()
-    ocr_options.force_full_page_ocr = True 
-    pipeline_options.ocr_options = ocr_options
+processor = AutoProcessor.from_pretrained(MODEL_ID)
+vision_model = AutoModelForVision2Seq.from_pretrained(
+    MODEL_ID,
+    torch_dtype=torch_dtype,
+    trust_remote_code=True
+).to(device)
 
-    return DocumentConverter(
-        format_options={
-            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
-        }
-    )
+# --- 2. INITIALIZE TEXT ENGINE (Docling + RapidOCR) ---
+print("--> [Init] Loading Text Engine (RapidOCR)...")
+pipeline_opts = PdfPipelineOptions()
+pipeline_opts.do_ocr = True
+pipeline_opts.do_table_structure = True
+pipeline_opts.table_structure_options.do_cell_matching = True
 
-def process_file_chunked(file_path, output_path):
+# CRITICAL: Force full-page OCR to read pixels rather than potentially corrupt PDF text layers
+pipeline_opts.ocr_options = RapidOcrOptions(force_full_page_ocr=True)
+
+doc_converter = DocumentConverter(
+    format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_opts)}
+)
+
+def analyze_diagram_only(pil_image):
     """
-    Splits PDF into small chunks, processes them individually, and merges the result.
-    This prevents memory overflows on large manuals (300+ pages).
+    Invokes the Vision Model to describe a specific image crop.
+    Returns a text description of the technical diagram or icon.
     """
-    clear_temp_directory()
+    # Resize image if too large to prevent VRAM OOM
+    max_dim = 1024
+    if max(pil_image.size) > max_dim:
+        pil_image.thumbnail((max_dim, max_dim))
+
+    messages = [
+        {
+            "role": "user",
+            "content": [
+                {"type": "image"},
+                {"type": "text", "text": "Describe this specific technical diagram or icon. List labels if visible."}
+            ]
+        },
+    ]
+    try:
+        prompt = processor.apply_chat_template(messages, add_generation_prompt=True)
+        inputs = processor(text=prompt, images=pil_image, return_tensors="pt").to(device)
+        generated_ids = vision_model.generate(**inputs, max_new_tokens=128)
+        text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
+        # Clean up the output to get just the description
+        return text.split("Assistant:")[-1].strip()
+    except Exception:
+        return ""
+
+def process_batch(pdf_path, start_page, end_page, fitz_doc_original):
+    """
+    Processes a specific range of pages (batch) from the PDF.
+    Combines Text Extraction (Docling) with Image Analysis (SmolVLM).
+    """
+    # 1. Create a temporary mini-PDF for this batch
+    if not os.path.exists(TEMP_DIR): os.makedirs(TEMP_DIR)
+    temp_pdf_path = os.path.join(TEMP_DIR, "batch.pdf")
     
-    print("    [Init] Loading AI Vision Model (Docling + RapidOCR)...")
-    converter = get_ocr_converter()
-    
-    reader = PdfReader(file_path)
-    total_pages = len(reader.pages)
-    print(f"--> Processing: {os.path.basename(file_path)} ({total_pages} pages)")
-    
-    full_markdown = []
-    
-    # Process in batches
-    for i in range(0, total_pages, PAGES_PER_CHUNK):
-        chunk_num = i // PAGES_PER_CHUNK + 1
-        start_page = i
-        end_page = min(i + PAGES_PER_CHUNK, total_pages)
+    new_doc = fitz.open()
+    new_doc.insert_pdf(fitz_doc_original, from_page=start_page, to_page=end_page-1)
+    new_doc.save(temp_pdf_path)
+    new_doc.close()
+
+    # 2. Run Docling Text Extraction
+    try:
+        conv_result = doc_converter.convert(temp_pdf_path)
+    except Exception as e:
+        print(f"      [!] OCR Error: {e}")
+        return ""
+
+    batch_markdown = []
+
+    # 3. Iterate through pages to merge Text + Vision
+    for i, page in enumerate(conv_result.document.pages.values()):
+        real_page_num = start_page + i + 1
         
-        print(f"    Batch {chunk_num}: Pages {start_page+1} to {end_page}...")
-        batch_start_time = time.time()
-
-        # Create temporary mini-PDF
-        chunk_pdf_path = os.path.join(TEMP_DIR, f"chunk_{chunk_num}.pdf")
-        writer = PdfWriter()
-        for page_num in range(start_page, end_page):
-            writer.add_page(reader.pages[page_num])
+        # Get the text content
+        page_md = conv_result.document.export_to_markdown(page_no=page.page_no)
         
-        with open(chunk_pdf_path, "wb") as f:
-            writer.write(f)
-
-        # Convert mini-PDF to Markdown
+        # 4. Vision Pass: Detect and describe diagrams
+        vision_text = ""
         try:
-            result = converter.convert(chunk_pdf_path)
-            chunk_text = result.document.export_to_markdown()
-            full_markdown.append(chunk_text)
+            original_page = fitz_doc_original[real_page_num - 1]
+            images = original_page.get_images()
             
-            elapsed = time.time() - batch_start_time
-            print(f"      -> Done in {elapsed:.2f}s")
+            # Logic: Find the largest image on the page (likely the main diagram)
+            largest_img = None
+            max_area = 0
+            for img in images:
+                xref = img[0]
+                base = fitz_doc_original.extract_image(xref)
+                pil = Image.open(io.BytesIO(base["image"]))
+                area = pil.width * pil.height
+                
+                # Filter: Ignore tiny icons/logos (< 250x250 pixels)
+                if area > max_area and area > (250*250):
+                    largest_img = pil
+                    max_area = area
             
-        except Exception as e:
-            print(f"      [!] Error on Batch {chunk_num}: {e}")
-            full_markdown.append("") # Keep alignment
+            if largest_img:
+                print(f"      [Vision] Analyzing Diagram on Page {real_page_num}...", end="\r")
+                caption = analyze_diagram_only(largest_img)
+                
+                # Filter lazy answers
+                if caption and "Yes" not in caption[:5]: 
+                    vision_text = f"\n\n> **[AI DIAGRAM ANALYSIS]:** {caption}\n\n"
+        except Exception:
+            pass # Fail silently on vision errors to keep text intact
 
-        # Free memory immediately
-        gc.collect()
+        batch_markdown.append(f"## Page {real_page_num}\n{page_md}{vision_text}\n---\n")
 
-    # Merge and Save
-    print("    Merging and cleaning up...")
-    final_text = "\n\n---\n\n".join(full_markdown)
+    return "\n".join(batch_markdown)
+
+def process_pdf(pdf_path, output_path):
+    """
+    Main loop for a single PDF file.
+    """
+    filename = os.path.basename(pdf_path)
+    fitz_doc = fitz.open(pdf_path)
+    total_pages = len(fitz_doc)
     
+    print(f"--> Processing: {filename} ({total_pages} pages)")
+    
+    # Write Header
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write(final_text)
-    
-    shutil.rmtree(TEMP_DIR)
-    print(f"--> Success! Saved to: {output_path}\n")
+        f.write(f"# MANUAL: {filename}\n\n")
+
+    # Process in Batches
+    for start in range(0, total_pages, BATCH_SIZE):
+        end = min(start + BATCH_SIZE, total_pages)
+        print(f"    Batch {start+1}-{end} / {total_pages}...", end="\r")
+        
+        batch_content = process_batch(pdf_path, start, end, fitz_doc)
+        
+        with open(output_path, "a", encoding="utf-8") as f:
+            f.write(batch_content)
+            
+        # Clear VRAM (Important for MPS/CUDA)
+        if device == "mps":
+            torch.mps.empty_cache() 
+        elif device == "cuda":
+            torch.cuda.empty_cache()
+
+    print(f"\n--> Done! Saved: {output_path}")
 
 def main():
-    if not os.path.exists(OUTPUT_DIR):
-        os.makedirs(OUTPUT_DIR)
+    if not os.path.exists(OUTPUT_DIR): os.makedirs(OUTPUT_DIR)
+    if os.path.exists(TEMP_DIR): shutil.rmtree(TEMP_DIR)
     
-    if not os.path.exists(PDF_DIR):
-        print(f"[Error] Source directory '{PDF_DIR}' not found.")
-        return
-
     files = [f for f in os.listdir(PDF_DIR) if f.endswith(".pdf")]
+    print(f"--> Found {len(files)} PDFs in queue.")
     
-    if not files:
-        print(f"No PDFs found in {PDF_DIR}. Please add vehicle manuals.")
-        return
-
-    print(f"Found {len(files)} PDFs. Starting Ingestion Pipeline...")
-
-    for pdf_file in files:
-        pdf_path = os.path.join(PDF_DIR, pdf_file)
-        md_filename = pdf_file.replace(".pdf", ".md")
-        md_path = os.path.join(OUTPUT_DIR, md_filename)
+    for f in files:
+        pdf_path = os.path.join(PDF_DIR, f)
+        expected_output_path = os.path.join(OUTPUT_DIR, f.replace(".pdf", ".md"))
         
-        # Incremental Processing: Skip if already done
-        if os.path.exists(md_path) and os.path.getsize(md_path) > 100:
-             print(f"Skipping {pdf_file} (Already parsed).")
-             continue
-
-        process_file_chunked(pdf_path, md_path)
+        # Incremental Check: Skip if already done
+        if os.path.exists(expected_output_path):
+            print(f"--> [SKIP] {f} already processed.")
+            continue
+            
+        process_pdf(pdf_path, expected_output_path)
+    
+    if os.path.exists(TEMP_DIR): shutil.rmtree(TEMP_DIR)
 
 if __name__ == "__main__":
     main()

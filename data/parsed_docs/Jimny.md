@@ -1,3 +1,6 @@
+# MANUAL: Jimny.pdf
+
+## Page 1
 ## OWNER'SMANUAL
 
 - Refer for vehicleusage at all times
@@ -6,7 +9,9 @@
 NEXA
 
 Part No.99011M80T05-74W February,2025 ENG
+---
 
+## Page 2
 ## This owner's manual applies to the JIMNY series.
 
 <!-- image -->
@@ -17,6 +22,12 @@ Copyright @ Maruti Suzuki India Limited.2025 All Rights Reserved
 
 No part of this document may be reproduced or transmitted in any form or by any means, electronic or mechanical, for any purpose, without the express written permission of Suzuki Motor Corporation.
 
+> **[DIAGRAM]:** U.S.A.
+
+
+---
+
+## Page 3
 ## FOREWORD
 
 ThedigitalOwner'sManualisanessential partofyourvehiclearichdocumentwhich familiarizes you with the vehicle by providing information such as features, warnings, operations and equipment description etc. Please read this manualcarefully before cleandreviewthemanualfromtimeto time.ltisrecommendedtodownloadthis manual(from"MarutiSuzukiRewards' mobile application with your registered mobile number)and save a soft copy of the same for easy access all times. Please visitMARUTISUZUKIauthorisedworkshopforavailinganyservice. Toprolong thelife of your vehicle and reduce maintenance cost, the periodic maintenancemustbecarriedoutaccording to"PERIODICMAINTENANCE ANDMAINTENANCE"sectionofthismanual.Itisessentialforpreventingtrouble and accidents to ensure your satisfaction and safety. Daily inspection and care as per "DAILY the"OPERATINGYOURVEHICLE"SeCtion of this manual is essential for prolongingthe life of the vehicle and for safe
@@ -34,7 +45,9 @@ To that end, we encourage every vehicle owner to recycle, trade-in or properly d
 Allinformationinthismanualisbased onthelatestproduct informationavailableatthetimeofpublication.Dueto improvements or other changes,there maybediscrepanciesbetweeninformation in this manual and your vehicle. MARUTISUZUKIINDIALIMITED reserves the right to make production changes atany time,without notice and without incurring any obligationto make the sameorsimilar changes to vehiclespreviouslybuiltorsold.
 
 This vehicle may not comply with standards or regulations of other countries. Before attempting to register this vehicle in any other country, check all applicable regulations and make any necessarymodifications.
+---
 
+## Page 4
 ## IMPORTANT
 
 <!-- image -->
@@ -89,7 +102,9 @@ Improper installation of mobile communication equipment such as cellular telepho
 ## NOTICE
 
 The diagnostic connector of your vehicleispreparedonlyfor the spe cific diagnostic tool for inspection and service purpose. Connecting any othertoolordevicemayinterfere with electronic parts operations and cause running out of batteries.
+---
 
+## Page 5
 ## ""WARNING'"
 
 <!-- image -->
@@ -119,9 +134,8 @@ If the vehicle is stuck in deep water, do not start/crankthevehicleuntilthelevel
 NOTE:
 
 IF THE VEHICLE IS SUBMERGED IN WATER,REPORTTOTHENEAREST AUTHORIZEDWORKSHOP.
-
 ---
-
+## Page 6
 ## "CAUTION"
 
 1. Retro-fitment of LPG / CNG kit may deteriorate vehicle performance, reduce engine &amp; engine related component's life and alsowarrantywill benullandvoidforsuchvehicles.
@@ -140,7 +154,9 @@ IF THE VEHICLE IS SUBMERGED IN WATER,REPORTTOTHENEAREST AUTHORIZEDWORKSHOP.
 18. Avoid entry inside vehicle immediately once after you have begun refueling. You can generate a build up of static electricity by touching, rubbing or sliding against any item or fabric capable of producing static electricity. Static electricity discharge can ignite fuel vapors and may causing a fire.
 19. Do not check the engine room / open the hood near the fire area (Outside the vehicle). Fuel, washer fluid, etc. are flammable oilsthatmaycausefire.
 16. 20.Avoid driving when vehicle has met with an accident . Before driving, Please contact with authorized MSIL dealership.
+---
 
+## Page 7
 ## To experience and use the Digital Owner's Manual, download Maruti Suzuki app
 
 <!-- image -->
@@ -163,6 +179,18 @@ Now, the Owner's Manual is available on your mobile phone for reference at all t
 
 <!-- image -->
 
+> **[DIAGRAM]:** [Top] [Bottom]
+
+This is a screenshot of a software application. The main visual element is a large, rectangular icon with rounded edges. The icon is designed in a gradient of gray and white, with a white outline. The background of the icon is a gradient of light gray at the top to dark gray at the bottom.
+
+The top part of the icon has the words "GET IT ON" in bold, white letters. Below this, there is a horizontal line, and the words "Google Play" are displayed in a smaller, white font.
+
+The bottom part of the icon has the words "
+
+
+---
+
+## Page 8
 ## WARRANTYPOLICY
 
 Maruti Suzuki India Limited(hereinafter called "Maruti Suzuki"), warrantsthateachnewMarutiSuzukivehicledistributedinIndia byMarutiSuzukiandsoldbyaMarutiSuzukiauthorizeddealer willbefree,undernormaluse andservice,fromanydefectsin material and workmanship at the time of manufacture SUBJECT TOTHEFOLLOWINGTERMSANDCONDITIONS:
@@ -196,7 +224,9 @@ This warranty shall not apply to:
 - (C) Any vehicle which has been used for competition, rallies or racing.
 
 (* - If there is a complaint related to tyre, the customer may contact respectivetyremanufacturer.)
+---
 
+## Page 9
 - （e) Any defect/ damage caused by misuse,negligence,abnormal use, insufficient care, vandalism, theft, riot, fire, flooding not limited to entry of water in the components resulting in engine seizure,hydrostatic lock, etc. or external damages to the body/ components.
 - (f) Any damage resulting due to usage of adulterated fuel/ lubricants/ oil/ coolant/ fluids/ polishing products and fuel/ lubricants/oil/coolant/fluidsusedother thanthosespecifiedin the Owner's Manual.
 - (g) Any vehicle which has been modified or altered, including without limitation, the installation of performance accessories, enlargements of lights, other changes and external/ consequential reasons.
@@ -218,7 +248,9 @@ This warranty shall not apply to:
 - Any damage(s) caused to vehicle including battery/ tyre due to parking of the vehicle in idle condition for long duration of time periods.
 - (x) Anyvehicleonwhichtheretro-fitment isnotauthorizedand/ or type approved as per the standards prescribed by the relevant authority including but not limited to Automotive Standards of India.
 - (y) Any vehicle on which the retro-fitment is such which directly or indirectly causes any damage to the vehicle or affects the functions of the vehicle in any manner whatsoever.
+---
 
+## Page 10
 ## (5) Extent of Warranty:
 
 This warranty is the entire written warranty given by Maruti Suzuki forMarutiSuzukivehicles andnodealer oritsorhis agent or employee is authorized toextend or enlarge this warranty and no dealer or its or his agent or employee is authorized to make any oral warranty or representation or assurance on behalf of Maruti Suzuki.
@@ -257,9 +289,8 @@ This Warranty is applicable only in India and not transferable to anyothercountr
 ## NOTE:
 
 Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurbished)partsforundertakingrectificationof recalledvehiclesintermsofapplicablelaws.
-
 ---
-
+## Page 11
 ## SERVICESTATIONGUIDE
 
 1. Engine hood (see section 7)
@@ -276,7 +307,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 80T000010
 
 <!-- image -->
+---
 
+## Page 12
 ## TABLEOFCONTENTS
 
 | QUICK GUIDE               |   1 |
@@ -293,7 +326,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | APPEARANCE CARE           |  11 |
 | SPECIFICATIONS            |  12 |
 | SERVICENETWORK            |  13 |
+---
 
+## Page 13
 <!-- image -->
 
 59RN00020
@@ -307,7 +342,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | FAQ.                            |       |
 
 1-24
+---
 
+## Page 14
 ## llustrated Table of Contents
 
 ## Exterior
@@ -338,11 +375,12 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 80T010030
-
-<!-- image -->
-
 ---
 
+## Page 15
+<!-- image -->
+---
+## Page 16
 ## Interior, Rear
 
 - (1) Assist Grip (P.7-13)
@@ -354,7 +392,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 80T010070
+---
 
+## Page 17
 ## Interior, Front
 
 - (2) Front Passenger's Front Airbag (P.2-41)
@@ -374,7 +414,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 80T010090
+---
 
+## Page 18
 ## Instrument Panel 1
 
 - (2) Heated Rear Window Switch (Manual Heating and Air Conditioning System) (P.3-30)
@@ -393,7 +435,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 80T010130
 
 <!-- image -->
+---
 
+## Page 19
 ## Instrument Panel 2
 
 - (1) ENG A-STOP OFF Switch (P.5-26)
@@ -408,7 +452,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 80T010140
+---
 
+## Page 20
 ## Luggage Compartment
 
 - (2) Wheel Wrench (P.10-4)
@@ -417,9 +463,8 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 - (4) Jack (P.10-4)
 
 <!-- image -->
-
 ---
-
+## Page 21
 ## Key
 
 - (1) Keyless Push Start System Remote Controller (P.3-10) Keyless Push Start System (P.5-10) Starting Engine (P.5-15)
@@ -431,13 +476,17 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 55T010010
+---
 
+## Page 22
 ## Warning Lights and Indicators Warning Lights
 
 80TM01003
 
 <!-- image -->
+---
 
+## Page 23
 - If a warning light continues to be lit or is blinking, there may be a problem with the vehicle or the system. Carefully read the following reference information and consult with a Maruti Suzuki authorized workshop.
 - It is considered normal that warning lights and indicators marked with an asterisk (*) are lit when turn the ignition switch to "ON" position or pressing the engine switch to change the ignition mode to ON (i.e., high engine coolant temperature warning light initially lights
 - For the ENG A-STOP system, there is the particular condition that a warning light or an indicator is lit.
@@ -462,7 +511,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | (4)             | ￥               | Red     | Charge Warning Light              |
 | (5)             |                 | Red     | Engine Oil Pressure Warning Light |
 | (6)             |                 | Orange  | Master Warning Indicator Light    |
+---
 
+## Page 24
 <!-- image -->
 
 <!-- image -->
@@ -489,20 +540,23 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | (12)            |                 | Orange  | Transmission Warning Light (Automatic Transmission models) |
 | (13)            |                 | Red     | Open Door Warning Light                                    |
 | (14)            |                 | Red     | Airbag Warning Light                                       |
+---
 
+## Page 25
 | Warning light   | Warning light   | Color   | Name                                                                           |
 |-----------------|-----------------|---------|--------------------------------------------------------------------------------|
 | (15)            |                 | Red     | Driver's Seat Belt Reminder Light / Front Passenger's Seat Belt Reminder Light |
 | (16)            | R               | White   | Rear Seat Passenger's Seat Belt Reminder Light (Left / Right)                  |
-
 ---
-
+## Page 26
 ## Indicators
 
 80TM01004
 
 <!-- image -->
+---
 
+## Page 27
 <!-- image -->
 
 <!-- image -->
@@ -517,7 +571,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | (22)        |             | *  | Green ENG A-STOP Indicator Light                    |
 | (23)        | A OFF       | 大  | Orange ENG A-STOP OFF Indicator Light               |
 | (24)        | OFF         |    | Orange ESP? OFF Indicator Light                     |
+---
 
+## Page 28
 <!-- image -->
 
 | Indicator   | Indicator   | Color   | Name                                                                |
@@ -526,7 +582,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | (26)        | 0/D OFF     |         | White "O/D OFF" Indicator Light (for Automatic Transmission models) |
 | (27)        |             | Green   | Hill Descent Control Indicator Light                                |
 | (28)        |             |         | Red Security System Indicator                                       |
+---
 
+## Page 29
 ## Warning Buzzer
 
 - . *1: The master warning A in the instrument cluster blinks. At the same time, the message will be shown on the information display to inform the driver of the vehicle condition and the remedy.
@@ -543,7 +601,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | Whentheignition switch is in“ON" position  or．the engine   switch is pressed to change the ignition mode to ON | · Chime (once)                                   | *1                                   | The steering wheel lock has not been released. With load not applied, turn the steering wheel to the left or right so as to turn the ignition switch or press the engine switch again.                                                                                                                                                                 |
 
 <!-- image -->
+---
 
+## Page 30
 <!-- image -->
 
 <!-- image -->
@@ -562,9 +622,8 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 |                                                                                                               | Beeping at short inter- valsforapprox.35sec- onds     | R Blinks *1          | The driver does not wear his/her seat belt. Stop the vehicle in a safe place and wear your seat belt. The front or rear passenger(s) does not wear his/her seat belt. Weartheseatbelt. |
 |                                                                                                               | Interior buzzer                                       | Lights up *1         | The parking brake has not been released. Stop the vehicle in asafeplaceandreleasetheparkingbrake.                                                                                      |
 |                                                                                                               | 3 beeps repeating at short intervals                  | Lights up *1         | The parking brake has not been released. Stop the vehicle in asafeplaceandreleasetheparkingbrake.                                                                                      |
-
 ---
-
+## Page 31
 | When                                        | Warning buzzer                                                                                                        | Instrumentcluster   | Cause and remedy                                                                                                                                                             |
 |---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | When driving                                | Interior buzzer                                                                                                       | Lights up *1        | One of the doors is not completely closed. Stop the vehicle in a safe place and close all doors completely.                                                                  |
@@ -572,7 +631,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | When opening the driver's door              | Interior buzzer ·Continuous beep                                                                                      | Lights up *1        | The headlights and/or the position lights are left on. Turn them off.                                                                                                        |
 | When  stopping  or backing up the vehi- cle | Interior buzzer                                                                                                       |                     | Rear parking sensors detect an obstacle on the rear side of the vehicle. Check the surrounding area directly with your eyes and the mirrors, and back up the vehicle slowly. |
 | When  stopping  or backing up the vehi- cle | · Short beeps at long intervals, short beeps at short intervals, short beepsatveryshort intervals, or continuous beep |                     | Rear parking sensors detect an obstacle on the rear side of the vehicle. Check the surrounding area directly with your eyes and the mirrors, and back up the vehicle slowly. |
+---
 
+## Page 32
 ## For Manual Transmission models
 
 | When                                                                                         | Warning buzzer   | Instrument cluster   | Cause and remedy                                                                                                                                                                                                                                                                                                                   |
@@ -581,7 +642,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | When the engineisInterior buzzer stoppedautomati- cally by the ENG A-· 2 Beeps STOP system   |                  |                      | Place the gearshift lever in "N" (Neutral) position.                                                                                                                                                                                                                                                                               |
 | When the engine is stoppedautomati- cally by the ENG A-· 5 beeps STOPsystem                  | sInteriorbuzzer  | and Lights up        | The engine stalled because the following operations were per- formed. · The driver's seat belt is unfastened. · The driver's door is opened. Close the door and buckle the seat belt, and then turn the igni- tion switch or press the engine switch to restart the engine.                                                        |
 | When the engine isInterior buzzer stoppedautomati- cally by the ENG A-· 2 beeps STOP system  |                  | Lights up            | The driver's seatbelt is unfastened.You canrestart the engine by depressing the clutch pedal when the seat belt is fastened.                                                                                                                                                                                                       |
+---
 
+## Page 33
 ## For Automatic Transmission models
 
 ## ForvehiclewithENGA-STOPsystem
@@ -594,7 +657,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 <!-- image -->
+---
 
+## Page 34
 ## For Vehicle Without Keyless Push Start System
 
 | When                           | Warning buzzer                   | Instrument cluster   | Cause and remedy                                                                              |
@@ -613,7 +678,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 <!-- image -->
 
 <!-- image -->
+---
 
+## Page 35
 <!-- image -->
 
 <!-- image -->
@@ -630,9 +697,8 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | When opening the driver's door                                       | · Beeping at short inter- vals        |                      | Press the engine switch to change the ignition mode from ACC to LOCK (OFF).                                                                                                                                                                                                        |
 | When opening the driver's door                                       | Interiorbuzzer                        |                      | The steering lock fails to engage due to a fault in the system when the ignition mode is turned to LOCK (OFF) by pressing the engine switch. Have the vehicle inspected by a Maruti Suzuki authorized workshop.                                                                    |
 | When opening the driver's door                                       | ·Continuous short beeps               |                      | The steering lock fails to engage due to a fault in the system when the ignition mode is turned to LOCK (OFF) by pressing the engine switch. Have the vehicle inspected by a Maruti Suzuki authorized workshop.                                                                    |
-
 ---
-
+## Page 36
 <!-- image -->
 
 <!-- image -->
@@ -643,7 +709,9 @@ Notwithstanding the warranty obligations, Maruti Suzuki may reusereworked(refurb
 | When pushing the requestswitch                    | ·Beeping at short inter- valsforapprox.2sec- onds                    |                      | Theremotecontrollerisleftinsidethevehicle Taketheremotecontrolleroutsidethevehicle.                        |
 | When pushing the requestswitch                    |                                                                      | Lights up *2         | Any door (including the tailgate) is open. Close all doorscompletely                                       |
 | When pushing LOCK button on the remote controller | Exteriorbuzzer · Beeping at short inter- vals for approx.2 sec- onds | Lights up *2         | Any door (including the tailgate) is open. Close all doorscompletely                                       |
+---
 
+## Page 37
 ## FAQ Q&amp;A
 
 Refer to the following list of frequently asked questions.
@@ -659,7 +727,9 @@ Refer to the following list of frequently asked questions.
 - Q. How can I clear fog on the inside of the windshield and door glass areas?
 - A. Use the defroster switch. Refer to "Manual Heating and Air Conditioning System" or "Automatic Heating and Air ConditioningSystem"inthe"OTHERCONTROLSANDEQUIPMENT"section.
 - Q. How can I clear fog on the inside of the rear window glass?
+---
 
+## Page 38
 ## QUICKGUIDE
 
 ## Tyres
@@ -680,14 +750,18 @@ Refer to the following list of frequently asked questions.
 
 - Q. The ENG A-STOP system does not work. What should I do?
 2. A.Refer to“ENGA-STOP"in the“OPERATINGYOUR VEHICLE"section.
+---
 
+## Page 39
 ## Electricalequipment
 
 - Q. The headlights or brake lights do not light up. What should I do?
 - A. Check the light bulbs. Refer to "Bulb Replacement" in the "INSPECTION AND MAINTENANCE" section and "Specifications" in the"SPECIFICATIONS" section.
 3. Q.I cannot use an electrical device. What should I do?
 4. A.Check the fuses. Refer to “Fuses"in the"INSPECTION AND MAINTENANCE" section.
+---
 
+## Page 40
 59RN02300
 
 <!-- image -->
@@ -714,9 +788,8 @@ Refer to the following list of frequently asked questions.
 | Function of Airbags                                 | 2-45   |
 | When Starting the Engine                            | 2-53   |
 | When Loading the Luggage                            | 2-54   |
-
 ---
-
+## Page 41
 ## FORSAFEDRIVING
 
 ## Driver's Seat Floor Floor Mats
@@ -753,7 +826,9 @@ Failure to take the following precautions may result in the driver's side floor 
 <!-- image -->
 
 Do not leave empty cans, etc. at your feet.Theseobjectsmayinterferewith pedal operation and cause accidents.
+---
 
+## Page 42
 ## Seat Belts and Child Restraint Systems
 
 59RN02300
@@ -785,7 +860,9 @@ Do not leave empty cans, etc. at your feet.Theseobjectsmayinterferewith pedal op
 59RN02380
 
 <!-- image -->
+---
 
+## Page 43
 ## WARNING
 
 - Never allow persons to ridein the cargo area of a vehicle. In the event ofanaccident,there is amuch greater risk of injury for persons who are not riding in a seat with their seat beltsecurelyfastened.
@@ -824,7 +901,9 @@ Do not leave empty cans, etc. at your feet.Theseobjectsmayinterferewith pedal op
 - Children aged 12 and under should ride properly restrained in the rear seat.
 
 ## WARNING
+---
 
+## Page 44
 ## WARNING
 
 ## (Continued)
@@ -857,7 +936,9 @@ Do not leave empty cans, etc. at your feet.Theseobjectsmayinterferewith pedal op
 - ·Make sure that you place the lap portion ofthebeltaslowaspossibleacross the pelvis.
 - Confirm that the belt is not twisted in any way,andremoveanyslack.
 - The upper belt should rest on the area midwaybetweentheshoulderandthe base of the neck.
+---
 
+## Page 45
 <!-- image -->
 
 77R20050
@@ -891,9 +972,8 @@ Do not place a cushion, etc. betweenthe seatback andyour back.
 - Do not leave cigarette lighters or spray cans on the floor. If a cigarette lighter or spray can is on the floor, it may light accidentally when luggage is loaded or the seat is adjusted, causing a fire.
 
 ## WARNING
-
 ---
-
+## Page 46
 <!-- image -->
 
 80T020260
@@ -919,7 +999,9 @@ To operate the seat back smoothly, pull the seat back adjustment lever (2) in up
 <!-- image -->
 
 Head restraints are designed to help reduce the risk of neck injuries in the case of an accident. Adjust the head restraint to thepositionwhichplaces the centerof the head restraint closest to the top of your ears. If this is not possible for very tall passengers, adjust the head restraint as high as possible.
+---
 
+## Page 47
 ## WARNING
 
 - Ifyoudrive thevehiclewiththe head restraint removed, a passenger's backward tilting cannot be prevented in a collision from the backward and the impact to a passenger'sheadcannotbereduced ina sudden braking or a collision. This may cause severe injury. Neverdrive thevehicle withthe head restraints removed.
@@ -960,7 +1042,9 @@ The lock lever is located under the steering column. To adjust the steering whee
 Never attempt to adjust the steering wheelwhilethevehicleismovingor you could lose control of the vehicle.
 
 77R30230
+---
 
+## Page 48
 ## Mirrors
 
 ## WARNING
@@ -999,7 +1083,9 @@ When driving at night, you can move the selector tab(3)to the night position to 
 <!-- image -->
 
 Do not modify the inside rearview mirror or install a non-genuine wide mirror. It could result in injury during accident.
+---
 
+## Page 49
 ## OutsideRearviewMirrors
 
 Adjust the outside rearview mirrors so you can just see the side of your vehicle in the mirrors.
@@ -1043,7 +1129,9 @@ The switch to control the electric mirrors is located on the instrument panel.Yo
 
 - (1) Unfold
 - (2) fold
+---
 
+## Page 50
 78RB20202
 
 <!-- image -->
@@ -1078,9 +1166,8 @@ Moving mirrors can pinch and injure a hand.Do not allow anyone's hand to get nea
 - Toavoidexcessiveseatbeltslack, whichreducestheeffectivenessof theseatbeltsasasafetydevice, checkthattheseatsareadjusted beforetheseatbeltsarefastened.
 - All seatbacks should always be in an upright position when driving, orseatbelteffectivenessmaybe reduced. Seat belts are designed to offer maximum protection when seatbacks are in the upright position.
 - Do not place any object under the rearseatequippedwiththeseat positionadjustmentlever.Ifan objectbecomescaughtunderthe rear seat, the seat will not be latched.
-
 ---
-
+## Page 51
 80T020290
 
 <!-- image -->
@@ -1123,7 +1210,9 @@ NOTE:
 Itmaybenecessarytofoldforwardthe seatback toprovideenoughoverhead clearancetoremovetheheadrestraint.
 
 ## WARNING
+---
 
+## Page 52
 80T020120
 
 <!-- image -->
@@ -1154,7 +1243,9 @@ To fold the rear seats forward:
 80T020100
 
 <!-- image -->
+---
 
+## Page 53
 ## NOTICE
 
 After folding the rear seatback forward, do not allow any foreign material to enter the lock opening. This maycausedamageto theinsideof the lock and prevent the seatback from being locked securely.
@@ -1201,7 +1292,9 @@ After returning the seat,move the seatbackforward andbackward tocheckthat it is 
 ## NOTE:
 
 After returning therear seatback,check that theseatbeltsarenot twisted orcaught intherearseatback.
+---
 
+## Page 54
 ## Safety for Child
 
 For safety, carefully drive at lower speed than usual.
@@ -1232,7 +1325,9 @@ For safety, carefully drive at lower speed than usual.
 Do not allow a child to put hand out of thewindowor leanon a door.
 
 - Donot allow the hands orfeet,etc., ofachildnearmovablepartsinside a vehicle, such as the seat rails. Otherwise, there is the possibility of injury.
+---
 
+## Page 55
 ## FORSAFEDRIVING
 
 ## A Child Needs toWear SeatBelt
@@ -1265,9 +1360,8 @@ Do not allow two or more people to use a single seat belt.
 
 - The seat belts of this vehicle are designed to be suitable for occupants of adult size.If the shoulder straprests on theneck or chinof a childrather than the shoulder,orif the lap portion of the belt does not rest 'securely on the hipbone, ensure thatthe child isseated ina child restraint system placed in the rearseat.Failure toproperlyuse a seatbeltmayresultinserious injury to the child.
 - ·Useachild restraint system securelyfastened totherearseat foranychild thatcannotholdtheir head upright or sit on their own.
-
 ---
-
+## Page 56
 ## Do not Let a Child Play with Seat Belt
 
 69RHS161
@@ -1303,7 +1397,9 @@ Only an adult should open or close each door or window and adjust seats, not to 
 When you leave the vehicle, make sure toturn theignition switch to "OFF" position or press the engine switchtochangetheignitionmode to OFF, keep the key with you and leave the vehicle with your child.
 
 ## WARNING
+---
 
+## Page 57
 ## Donot Leta Child StickHis/her HeadorHandsoutoftheWindow
 
 69RHS163
@@ -1331,7 +1427,9 @@ Ensure that a child does not put their hands or heads, etc., out the windows.Oth
 ## WARNING
 
 The luggage areas do not feature a structure that can accommodatepeople. Do not allow a child to ride in such areas.Otherwise,there is the danger of accidents due to sudden braking, etc. Do not let a child play in luggage areas even while the vehicle is stopped on theroad.
+---
 
+## Page 58
 ## Seat Belt
 
 ## A Child Needs toWear SeatBelt
@@ -1360,7 +1458,9 @@ The seat belt has an emergency locking retractor (ELR), which is designed to loc
 59RN02310
 
 <!-- image -->
+---
 
+## Page 59
 59RN02320
 
 <!-- image -->
@@ -1383,7 +1483,9 @@ To fasten the seat belt, sit up straight and far back into the seat, pull the la
 When fastening the rear seat belt, always use the closest buckle to you. If you use the buckle for your next rear seat position by mistake,the rear seat belt may not function properly.
 
 78RB02085
+---
 
+## Page 60
 59RN02340
 
 <!-- image -->
@@ -1407,9 +1509,8 @@ Use theseatbeltcorrectly.Otherwise, in a sudden braking or a collision, the body
 - ·If the seatbelt rests onthe abdomen, this area may sustain heavy pressure when you get a strong impact.
 - ·If the seat belt is twisted or contains excessive slack, there is danger of heavy pressure focused on certain body areas.
 - ·If the seat belt does not rest firmly over the shoulder, you may be thrown forward when you get a strong impact.
-
 ---
-
+## Page 61
 ## SeatBeltReminder
 
 <!-- image -->
@@ -1429,7 +1530,9 @@ Itis absolutely essentialthatthe driver, front passenger and rear passenger fast
 
 - ·Along with the seat belt reminder light, a remindermessageshallalsocomeon the information display (if equipped), for unrestraineddriverand/orfrontpassenger.
 - Thedriver'sseatbeltreminder light/ frontpassenger'sseatbeltreminderlight isforboththedriverandfrontpassenger.
+---
 
+## Page 62
 ## Driver'sseatbeltreminder
 
 If thedriver'sseatbeltremainsunbuckled when the ignition switch is turned to"ON" positionortheengineswitchispressed to change the ignition mode to ON，the reminderworksasfollows:
@@ -1462,7 +1565,9 @@ Theseatbeltremindersensor(2)detects whether a person is sitting in the front sea
 (Continued)
 
 - If you spill liquid such as liquid aromatics,softdrinksor juice on the front passenger's seat cushion,the sensor of the front passenger's seatbeltreminderlocatedinthe seat cushioncanbe damaged. Immediately wipe it dry with a soft cloth when spilled.
+---
 
+## Page 63
 ## NOTICE
 
 ## (Continued)
@@ -1497,7 +1602,9 @@ Thereminderwillbeautomaticallycanceled when all the rear seat belts are buckled 
 <!-- image -->
 
 Periodicallycheckiftheseatbeltswork properly and are not damaged. Check the webbing,buckles,latch plates,retractors, anchorages and guide loops. Replace any seat belts which do not work properly or are damaged.
+---
 
+## Page 64
 ## WARNING
 
 - Inspectallseatbeltassemblies afteranycollision.Anyseatbelt assembly which was in use during a collision(other than a very minor one）should be replaced,even if damagetotheassemblyisnot obvious.Any seat belt assembly even which was not in use during a collision must be replaced if the seatbeltpretensionerswereactivated.Thepretensionersandthe loadlimiter onlyfunctiononce.In case they did not activate, consult withaMarutiSuzukiauthorized workshop.
@@ -1525,7 +1632,9 @@ Caring for seat belts is the same as caring for any type of regular cloth materi
 ## WARNING
 
 Donotusebleach,solventor dyes on seat belts. Doing so may cause stains, discoloration and strength deterioration, and the seat belt may not function properly.
+---
 
+## Page 65
 ## Seat Belt Pretensioner System (Only for Front Seat)
 
 55T020520
@@ -1554,9 +1663,8 @@ The pretensioner system or the airbag system may not work properly if any of the
 
 - 1) If the air bag warning light on the instrumentclusterdoes notcome onbriefly, whentheignitionswitchisturnedtothe "ON" position or the engine switch is pressed to change the ignition mode to "ON".
 2. 2)If the air bag light comes on and stays onfor more than10 seconds,when the
-
 ---
-
+## Page 66
 ignition switch is turned to the "ON" position or the engine switch is pressed to change the ignition mode to "ON".
 
 3) If the air bag light comes on while driving.
@@ -1588,7 +1696,9 @@ If you do not handle a pretensioner properly for disposal, the pretensioner syst
 69RHS167
 
 In the event of a strong impact coming fromthe front,the seat belt force limiter operates in two stages (driver's seat) and onestage(frontandrearpassenger's seat)toreduceaforcetotheshoulder strap,thuslessening theimpact being sustained by the front passengers.
+---
 
+## Page 67
 80T020160
 
 <!-- image -->
@@ -1616,7 +1726,9 @@ The following types of child restraint system are available generally.
 <!-- image -->
 
 59RN02350
+---
 
+## Page 68
 ## Booster seat
 
 59RN02290
@@ -1641,7 +1753,9 @@ Observe any statutory regulation about childrestraints.
 - Ifchildrestraintsystemsarenot installed properly, children or other occupants could be seriously injuredintheeventofanaccident. Secure the child restraint system firmly according to both this manual and the instruction provided by child restraint system's manufacturer.
 
 (Continued)
+---
 
+## Page 69
 ## WARNING
 
 (Continued)
@@ -1652,7 +1766,9 @@ Observe any statutory regulation about childrestraints.
 Donotrecline theseatbackwhena child restraint system is installed on the seat.
 
 - If you use the child restraint systemwhichwasseverelydamaged by an accident, etc., it may not providethebest performance.This may cause severe injury to a child. If the child restraint system was severelydamagedbyanaccident, etc.,donot reuse the child restraint system even though its appearance looks normal.
+---
 
+## Page 70
 ## Child Restraint Systems for India Child Restraint
 
 The suitability of each passenger's seat position for carriage of children and fitting of child restraint system is shown in the table below. Whenever you carry children up to 12 years of age, properly use the child restraints which conform to AlS 072, the standard for child restraints, referring to the table.
@@ -1676,9 +1792,8 @@ X =Seat position not suitable for children in this mass group
 
 - ·‘universal' is the category in the AlS 072.
 - 'Outboard'indicateswindowsideseat.
-
 ---
-
+## Page 71
 ## Securing Child Restraint System by Seat Belt
 
 Choose the appropriate seat for the child's age and physical size.
@@ -1713,7 +1828,9 @@ This section explains securing the child restraint system in therearseat.
 80T020120
 
 - 1) When the child restraint system contacts the head restraint,adjust the height of the head restraint or remove it for fitting the child restraint system.
+---
 
+## Page 72
 ## WARNING
 
 If the child restraint system contacts the head restraint, the child restraint system cannot be secured firmly. This may cause severe injury to a child in a collision.
@@ -1739,7 +1856,9 @@ When installing the child restraint system, adjust the head restraint heighttoth
 ## WARNING
 
 Failure to securely fasten a child restraint systemvia the seat belt locking mechanism or a locking clip may cause serious injury to a child when suddenbraking or a collision occurs.
+---
 
+## Page 73
 - 7） Shake the child restraint system back and forth, and left and right to check if it is securely in position.
 - ·If you cannot ensure secure positioning, check the instruction manual that came with the child restraint system or consult the dealer where you purchased the seat.
 
@@ -1766,7 +1885,9 @@ Install theISOFIX type childrestraintsystemaccording to theinstructionsprovided 
 - (2) Top tether anchorage
 
 Your vehicle is equipped with the top tether anchorages.Usethetoptetherstrapof the child restraint according to the instructions provided by the child restraint system manufacturer.
+---
 
+## Page 74
 ## Here is a general instruction:
 
 ## ACAUTION
@@ -1796,7 +1917,9 @@ When installing the child restraint system, adjust the head restraint height to 
 <!-- image -->
 
 - 2) Place the child restraint in the rear seat, inserting the connecting bars(3)to the lower anchorages (1) between the seat cushionandtheseatback.
+---
 
+## Page 75
 80T020340
 
 <!-- image -->
@@ -1831,9 +1954,8 @@ Some child restraint systems require the use of a top tether strap. Top tether a
 The number of the top tether anchorage brackets provided in your vehicle depends on the vehicle specification. Install the child restraint system as follows:
 
 - 1） Secure the child restraint on the rear seat using theproceduredescribed above for securing a restraint system that does not require a top tether strap.
-
 ---
-
+## Page 76
 - 2) Hook the top tether strap to the top tether anchorage and tighten the top tether strap according to the instructions provided by the child restraint systemmanufacturer.Attachthetoptether strap to the corresponding top tether anchoragelocateddirectlybehind the child restraint. Do not attach the top tether strap to the luggage restraint loops (if equipped).
 
 ## WARNING
@@ -1850,7 +1972,9 @@ Do not attach the child restraint top tether strap to the luggage restraint loop
 ## WARNING
 
 If the seat belt,etc.gets stuck in the child restraint system, it may not be secured properly and this may cause severe injury to a child in a collision. When youinstall the childrestraint system, check that obstacles and the seatbeltdonotexistnear theISOFIX anchorages and the top tether anchorages.
+---
 
+## Page 77
 ## Supplemental Restraint System (Airbags)
 
 ## WARNING
@@ -1871,7 +1995,9 @@ Your vehicle is equipped with a supplemental restraint system consisting of the 
 <!-- image -->
 
 80T020210
+---
 
+## Page 78
 ## What is SRS Airbag System?
 
 SRS stands for "Supplemental Restraint System". This system aims to restrain passengers in their seats for safety.
@@ -1913,7 +2039,9 @@ In a frontal angle collision,the side airbags (ifequipped)andside curtainairbags
 Front airbags are not designed to inflate in rear impacts,side impacts,rollovers or minor frontal collisions,since they would offer noprotectioninthose types of accidents.Since anairbagdeploysonly one time during an accident, seat belts are needed torestrainoccupantsfromfurther movements during the accident.
 
 Therefore, an airbag is not a substitute for seat belts. To maximize your protection, always fasten your seat belts.'Be aware that no system can prevent all possible injuries that may occurin an accident.
+---
 
+## Page 79
 ## Side airbags (if equipped) and side curtain airbags (if equipped)
 
 68KM090
@@ -1945,7 +2073,9 @@ Even when you drive the vehicle equipped with SRS airbag system, make sure tofas
 <!-- image -->
 
 There is a possibility of major impact from the front airbags when the airbags activate and deploy instantaneously, the driver and the passenger should sit deeply into their seats andtouchtheirbackslightly tothe seatback.In addition,the seat should be positioned so that it is not too far forward.
+---
 
+## Page 80
 59RN02190
 
 <!-- image -->
@@ -1976,9 +2106,8 @@ There is a possibility of major impact from the front airbags when the airbags a
 <!-- image -->
 
 For the vehicle with side airbags or side curtain airbags, do not attach accessories suchascupholdersor hangers near the door. Also, do not leanumbrellasagainst the door.
-
 ---
-
+## Page 81
 ## Warning Label of SRS Airbag for Front Passenger's Seat
 
 72M00150
@@ -2006,7 +2135,9 @@ NEVER use a rearward facing child restraint on a seat protected by an ACTIVEAIRB
 77R30410
 
 <!-- image -->
+---
 
+## Page 82
 ## Side airbags (if equipped)
 
 <!-- image -->
@@ -2040,7 +2171,9 @@ Do not smash the airbag stored place or apply a strong impact to it.
 <!-- image -->
 
 Refer to "Seat Belts and Child Restraint Systems" section for details on securing your child.
+---
 
+## Page 83
 ## Handling for Airbags
 
 ## For Proper SRS Airbag System Operation
@@ -2079,7 +2212,9 @@ The following situations may give a negative impact to the airbag system. In the
 - -Replacementof thefrontseat and repairs around the seat
 - Repairs around the center pillar
 - Repairs around the front pillar, the back pillar or the roof side
+---
 
+## Page 84
 ## Driver's front airbag precautions
 
 69RHS022
@@ -2114,7 +2249,9 @@ The following situations may give a negative impact to the airbag system. In the
 69RHS171
 
 <!-- image -->
+---
 
+## Page 85
 ## WARNING
 
 - As the airbag may not provide the bestperformance and itmayresult in severe injury in case of emergency, observethefollowing points.
@@ -2138,9 +2275,8 @@ Do not attach accessories such as cup holders or hangers near the door. Also, do
 A seat belt helps keep you in the proper position for maximum protection when an airbag inflates. Adjust your seat as far back as possible while still maintaining control of thevehicle.Sit fullyback inyour seat; sit up straight; do not lean over the steeringwheel or dashboard.Front occupants should not lean on or sleep against the door.Refer to"Seat Adjustment" section and"Seat Belts and Child Restraint Systems"sectioninthissectionfordetails onproper seat and seat belt adjustments.
 
 In a frontal collision, the collision sensors willdetectrapiddeceleration，and if the controller judges that the deceleration represents a severe frontal collision,the controller will trigger the inflators. The inflators inflate the appropriate airbags with nitrogen or argon gas. The inflated airbags provideacushionforyourheadandupper body.The airbag inflates and deflates so quickly that you may not even realize that it has activated. The airbagwill neither hinder your view nor make it harder to exit the vehicle.
-
 ---
-
+## Page 86
 <!-- image -->
 
 80T020350
@@ -2168,7 +2304,9 @@ In a frontal collision, the collision sensors willdetectrapiddeceleration，and 
 - For vehicles with side airbags, do notuse non-genuine seat covers on the front seats, because non-genuine seat covers may obstruct the inflationof side airbags.Maruti Suzuki highly recommends Maruti Suzuki-genuine seat covers to be used when covering thefrontseats of suchvehicleswithside airbags. Also,near the door, do not place cup holders,hangers or any other objectsanddonotleananumbrella, as these objects could be propelled by the airbag in the event of a collision. Either of these conditions may cause severe injury.
 
 ## WARNING
+---
 
+## Page 87
 ## WARNING
 
 ## (Continued)
@@ -2195,7 +2333,9 @@ Special procedures are required for servicingorreplacinganairbag.Forthatreason, 
 To prevent damage or unintended inflation of the airbag system, check that the batteryisdisconnectedand theignitionswitch has been in"LOCK"position or the ignition modehasbeeninLOCK(OFF)for atleast 90 seconds before performing any electricalservice workonyour Maruti Suzuki vehicle.Do not touch airbag system components or wires. The wires are wrapped withyellowtapeoryellowtubing,andthe couplersareyellowforeasyidentification.
 
 Serviceonoraroundairbagcomponents or wiring must beperformed onlyby Maruti Suzukiauthorizedworkshop.Improper service could result in unintended airbag deploymentor couldrender the airbag inoperative.Eitherof thesetwoconditions may result in severe injury.
+---
 
+## Page 88
 <!-- image -->
 
 76J30450
@@ -2218,7 +2358,9 @@ Receiving a strong impact to the lower body of your vehicle, the front airbags m
 <!-- image -->
 
 - ·Hitting a curb or medial strip
+---
 
+## Page 89
 76J30480
 
 <!-- image -->
@@ -2251,7 +2393,9 @@ Also, front airbags may not inflate in many cases when the collision angle is gr
 76J30520.
 
 <!-- image -->
+---
 
+## Page 90
 76J30530
 
 <!-- image -->
@@ -2282,9 +2426,8 @@ Front airbags do not inflate in rear impacts, side impacts or rollovers, etc. Ho
 <!-- image -->
 
 76J30580
-
 ---
-
+## Page 91
 ## Side Airbags (if equipped) and Side Curtain Airbags (if equipped) Deployment Conditions
 
 Side airbags and side curtain airbags deploy (inflation)
@@ -2320,7 +2463,9 @@ Side airbags and side curtain airbags may inflate even in a frontal collision, i
 76J30490
 
 <!-- image -->
+---
 
+## Page 92
 ## Side airbags and side curtain airbags may not inflate
 
 77R30890
@@ -2351,7 +2496,9 @@ Side airbags and side curtain airbags may inflate even in a frontal collision, i
 Collision with a utility pole or stumpage
 
 <!-- image -->
+---
 
+## Page 93
 ## Side airbags and side curtain airbags donot inflate
 
 <!-- image -->
@@ -2385,7 +2532,9 @@ Otherwise,it may result in severe health problems or death in the worst case.
 - Do not park with the engine running for a long period of time, even in an open area.In case of long periods, danger of choking and death onbeing inside the vehicle is apossibilitywhentheengineis running.If it isnecessary tosit for ashorttimeinaparkedvehicle with the engine running, check that theairintakeselectorissetto "FRESH AIR" and the blower is at high speed.
 
 (Continued)
+---
 
+## Page 94
 ## (Continued)
 
 - ·Avoid operating the vehicle with the tailgate or trunk open. If it is necessary to do so,check that the allwindows are closed,and the blower is at high speed with the air intakeselectorsetto"FRESHAIR".
@@ -2414,7 +2563,9 @@ Do not take a nap with the engine running. Otherwise, it may result in an accide
 Loading too much luggage in the vehicle may have negative effects to the vehicle body or driving performance.
 
 <!-- image -->
+---
 
+## Page 95
 <!-- image -->
 
 59RN02240
@@ -2438,9 +2589,8 @@ Do not pile up luggage in the vehicle.
 - Ifanimalsmoveaboutinthevehicle,it mayinterfere with driver's view. Also, in a sudden braking, it mayresult in an accident.
 
 When you bring animals into the vehicle,make sure thatanimals do not move about.
-
 ---
-
+## Page 96
 <!-- image -->
 
 60G404
@@ -2463,7 +2613,9 @@ When you bring animals into the vehicle,make sure thatanimals do not move about.
 | HeatedRearWindowSwitch                                                         | 3-30  |
 
 3
+---
 
+## Page 97
 ## Keys
 
 Your vehicle comes with a pair of identical keys. Keep one of the keys as a spare key in a safe place. One key can open all of the locks on the vehicle.
@@ -2495,7 +2647,9 @@ For detail of immobilizer system, "Immobilizer System"inthe"OPERATING YOUR VEHIC
 - To prevent fire or theft, stop the engineandlockthedoorswhen leaving thevehicle.
 - Whenyoukeepthe tailgateopen with the engine running, exhaust gases will enter the vehicle and cause carbon monoxide poisoning. This may cause severe health problems or deathin theworstcase.Do not keep the tailgate open with the engine running.
 - When opening a door, be careful of thesurroundingarea.Anaccident, suchasacollisionwiththevehicle or a pedestrian behind your vehicle, may occur. Be very careful when opening a door especially on a windy day.
+---
 
+## Page 98
 ## ACAUTION
 
 <!-- image -->
@@ -2528,7 +2682,9 @@ To lock a front door from outside the vehicle:
 To unlock a front door from outside the vehicle, insert the key and turn the top of thekeytoward therear of thevehicle.
 
 59RN03180
+---
 
+## Page 99
 <!-- image -->
 
 - (1) LOCK
@@ -2560,7 +2716,9 @@ To lock all doors simultaneously, insert the key in the driver's door lock and t
 To unlock all doors simultaneously, insert the key in the driver's door lock and turn the top of the key toward the rear of the vehicle.
 
 59RN03180
+---
 
+## Page 100
 ## Child-proof Locks (rear door)
 
 <!-- image -->
@@ -2606,8 +2764,11 @@ You can lock and unlock the tailgate by using the key in the driver's door lock.
 
 To open the tailgate, pull up the tailgate handle (1) and pull the tailgate.
 
----
+> **[DIAGRAM]:** This is a technical diagram or icon.
 
+
+---
+## Page 101
 ## Unlocking from inside the vehicle
 
 If you cannot unlock the tailgate by using thekey in the driver's door lock due to a discharged lead-acid battery or malfunction, follow the procedure below to unlatch the tailgatefrom inside thevehicle.
@@ -2637,6 +2798,21 @@ If the tailgate cannot be unlatched by pulling up the tailgate handle, have the 
 
 Check that there is noone near the tailgate when pushing open the tailgate from inside the vehicle.
 
+> **[DIAGRAM]:** 1. A 3D model of a vehicle.
+2. The vehicle is shown from the side.
+3. The vehicle has a front grille, a rear grille, and a rear spoiler.
+4. The vehicle has a front bumper, a rear bumper, and a rear grille.
+5. The vehicle has a rear window.
+6. The vehicle has a rear spoiler.
+7. The vehicle has a rear bumper.
+8. The vehicle has a rear grille.
+9. The vehicle has a rear window.
+10. The vehicle has a
+
+
+---
+
+## Page 102
 ## Keyless Entry System Transmitter / Keyless Push Start System Remote Controller
 
 55T030010
@@ -2663,7 +2839,9 @@ Radiowaves from thekeyless push start system antenna(s) may interfere with opera
 - (2) UNLOCK button
 
 You can lock or unlock all doors (including the tailgate) simultaneously by operating thetransmitternear thevehicle.
+---
 
+## Page 103
 ## BEFOREDRIVING
 
 ## Central door locking system
@@ -2698,7 +2876,9 @@ Thetransmitteris asensitiveelectronic instrument. To avoid damaging the transmit
 
 - Do not expose it to impacts, moistureorhightemperaturesuchas byleavingitonthedashboard under direct sunlight.
 - Keep the transmitter away from magnetic objects such as a television.
+---
 
+## Page 104
 ## Car locator function (if equipped)
 
 The turn signal lights will blink for about 27.5 seconds.Also,the sirenwill sound for about27.5seconds atthesame time.
@@ -2740,7 +2920,9 @@ To replace the battery of the transmitter:
 73S020010
 
 <!-- image -->
+---
 
+## Page 105
 ## WARNING
 
 Swallowing a lithium battery may cause serious internal injury. Do not allow anyone to swallow alithium battery.Keeplithiumbatteriesaway from children and pets.If swallowed, contact a physician immediately.
@@ -2769,9 +2951,8 @@ Be careful not to lose your key and to leave it in thelocked vehicle.
 When you take the remote controller in an airplane, do not press the lock buttonortheunlockbutton.When youput the remotecontroller ina bag, place it so that either of these buttons is not pressed easily. If either of these buttons is pressed,radio wave may interfere with operation of the airplane.
 
 *The remote controller is an electronicdevicewhichhasarestriction onitsuseinthe airplane.
-
 ---
-
+## Page 106
 ## KeylessPushStartSystem Remote Controller (if equipped)
 
 The remote controller enables the following operations:
@@ -2807,7 +2988,9 @@ NOTE:
 - The doorlocks cannot be operated with theremotecontrolleriftheignitionmode is other than the "LOCK"(OFF).
 - When any door is open,if you push LOCKbuttonontheremotecontroller, theexteriorbuzzerwillsoundanddoors cannotbelocked.
 - If you lose one of theremotecontrollers, askyourMarutiSuzukiauthorizedworkshop as soon as possible for a replacement.Have eyour MarutiSuzuki authorized workshop for programthe newremotecontrollercodeinyourvehicle's memory so that the old code is erased.
+---
 
+## Page 107
 ## Carlocator function
 
 This function helps in locating the vehicle. PushbothofLOCK button(1）and UNLOCKbutton(2)for morethan3seconds. The turn signal lights will blink for about 27.5 seconds.Also,the sirenwill soundforabout27.5secondsatthesame time.
@@ -2847,7 +3030,9 @@ Whenalldoorsareunlocked:
 - ·To lock all doors, push one of the requestswitchesonce.
 
 The turn signal lights will flash once and thesirenwillsoundoncewhenthedoors are locked.
+---
 
+## Page 108
 Tounlock all doors:
 
 - To unlock all doors, push one of the request switches once.
@@ -2894,7 +3079,9 @@ Theremotecontrollerisasensitive electronicinstrument.To avoid damaging the remot
 The keyless push start system may not functioncorrectlyincertainenvironments orundercertainoperatingconditionssuch as the following:
 
 - ·Whentherearestrongsignalscoming from a television, power station or a cellular phone.
+---
 
+## Page 109
 - ·Whentheremotecontrollerisincontact withorcoveredbyametalobject.
 - ·When the remote controller is placed near an electronic device such as personal computer.
 - ·When a radio wave type remote keyless entry is used nearby.
@@ -2931,7 +3118,9 @@ The exteriorbuzzerbeepsfor about 2seconds in the following conditions to warn yo
 Press the request switch again after doing the following:
 
 With the ignition mode changed to LOCK (OFF) by pressing the engine switch, bring out theremotecontrollerif it is insidethe vehicle andcheck that alldoors arecompletely closed.
+---
 
+## Page 110
 ## Reminderfunction
 
 77R40040
@@ -2967,9 +3156,8 @@ Swallowing a lithium batterymay cause serious internal injury or death in the wo
 
 - Theremotecontrollerisasensitive electronicinstrument.Toavoid damaging it, do not expose it to dust or moisture or tamper with internal parts.
 - Whenyou replace thebatteryby yourself, touch a metallic part and remove static electricity toprevent damaging the remote controller.
-
 ---
-
+## Page 111
 ## NOTE:
 
 - ·Used batteries must be disposed of properly according to applicablerules or regulations and must not be disposed of withordinaryhousehold trash.
@@ -2998,7 +3186,9 @@ Youmaydamagetheremotecontroller when replacing its battery. Ask your Maruti Suzu
 55T030490
 
 <!-- image -->
+---
 
+## Page 112
 80JM133
 
 <!-- image -->
@@ -3039,7 +3229,9 @@ When the system is armed, the indicator (1）continues to blink at intervals of 
 
 - ·To prevent the alarm from being accidentally triggered,avoid arming it while anyone remains inside the vehicle.The alarmwillbe triggeredif anyperson inside opens the door, tailgate, engine hood, or the warning may be triggered.
 - The security system is not armed when alldoorsarelockedusingthekeyfrom
+---
 
+## Page 113
 - outside,usingthedoorlockknobsorthe centraldoorlockingswitchfrominside.
 - ·If any door is not operated within approximately30secondsafterthedoorshave beenunlockedusingthekeylessentry system transmitter, keyless push start system remote controller or request switch,the doors are automatically locked again. When the doors are locked, the security system will be armed.
 - ·If the security system indicator (1) blinks when theignitionswitchisin the"ON" positionor theignitionmodeis"ON" theremaybesomethingwrongwiththe securitysystem.AskyourMarutiSuzuki authorizedworkshopforinspection.
@@ -3067,7 +3259,9 @@ If thealarmwastriggeredandyouthen turn the ignition switch to"ON" position or th
 
 - If the engine hood is opened, all turn signal lights blink, and the siren sounds for about 27.5 seconds. The security system indicator continues to blink during this time.
 - ·If any of the doors or tailgate are opened withoutunlockingby thekeyless entry system transmitter, keyless push start systemremotecontrollerorrequest switch, all turn signal lights start to blink and the interior buzzer beeps intermittently. After 5 seconds，the siren will soundfor about27.5 seconds.The security systemindicator continuesto blink during this time.
+---
 
+## Page 114
 ## Windows
 
 ## ElectricWindow Controls
@@ -3101,7 +3295,9 @@ The floor console has switches (3) and (4) to operate the rear left and right pa
 <!-- image -->
 
 To open a window, push the top part of the switch. To close the window, lift up the top part of the switch.
+---
 
+## Page 115
 ## Off-delay timer function for the driver's window
 
 After you turn the ignition switch to"ACC" or "LOCK" position or press the engine switch to change ON mode to ACC or LOCK (OFF) mode, you can open or close thedriver'swindowwithin30seconds.
@@ -3134,8 +3330,11 @@ To open a window, push the top part of the switch. To close the window, lift up 
 
 (Continued)
 
----
+> **[DIAGRAM]:** This is an image of a door handle.
 
+
+---
+## Page 116
 ## (Continued)
 
 - -Whenyou openor closethe front passenger's window or the rear windows on the driver's side, checkthattheotherpassengers andchildrendonottaketheir hands and faces outside the vehicle,before thewindowoperation. Also,make sure to inform them that you will perform the window operation.
@@ -3166,7 +3365,9 @@ The driver's window is equipped with a pinching preventionfunction.Thisfunction 
 The function may not detect the object depending on shape, size, hardness and position of the object caught by the closing window. This may cause severe injury.
 
 Be very careful when opening or closing the windows.
+---
 
+## Page 117
 ## ACAUTION
 
 - The pinching prevention function doesnotoperatewhileyouare holding the window switch in UP position.
@@ -3204,7 +3405,9 @@ IftheAUTO-DOWN/UPfeaturewillnot work after initialization, there might be someth
 80T030280
 
 <!-- image -->
+---
 
+## Page 118
 Your vehicle's lighting system is controlled by two main systems: the lighting switch and the auto-on headlight system (when the lighting switch is in "AUTO" position).
 
 The two systems work together to operate your lights as shown in the following chart:
@@ -3236,7 +3439,9 @@ This function works when the ignition switch is turned to"ON" position or the en
 The light sensor (5) for sensing the amount of outside light is installed on the passenger's seat side of instrument panel.
 
 <!-- image -->
+---
 
+## Page 119
 ## NOTE:
 
 - ·Avoidcoveringthelightsensorareaof thewindshieldwithasticker.Thesticker mayimpairtheperformanceofthesensorandmakethesystemunabletocontroloperationofthelightscorrectly.
@@ -3271,7 +3476,9 @@ Conditions for auto-on headlight system operation:
 - 3)You turn the ignition switch to "ON" position or press the engine switch to change the ignitionmode toON.
 
 This system is activated by a signal from the light sensor (5) on the passenger side of instrument panel.Do not cover the sensor (5). Otherwise, the system will not work correctly.
+---
 
+## Page 120
 ## WARNING
 
 It takes about 5 seconds for the light sensor to react to a change in lighting conditions.Tohelp avoid an accident due to reduced visibility, turn on your headlights before driving into a tunnel, parking structure, etc.
@@ -3311,9 +3518,8 @@ In some countries the lighting operation maybedifferentfromtheabovedescription a
 <!-- image -->
 
 Level the headlight beam according to the loadconditionofyourvehicleby turning this switch. The chart shows the appropriate switch position for different vehicle load conditions.
-
 ---
-
+## Page 121
 | VehicleLoadCondition                 |   Switch Position |
 |--------------------------------------|-------------------|
 | Driver only                          |               0   |
@@ -3348,7 +3554,9 @@ With the ignition switch in "ON" position or the ignition mode ON,move the lever
 - Turning right: Move the lever downward
 - Turning left: Move the lever upward.
 - When you move the lever, the turn signal lightsandtheturnsignallightindicators on the instrument cluster will flash simultaneously.
+---
 
+## Page 122
 - When you move the lever to its original position, the turn signal lights and the turn signal light indicators on the instrumentclusterwillbeturnedoff.
 - The turn signal controi lever in the above figure is a typical example; the actual equipment depends on the vehicle type.
 - When changing lanes, if you lightly press theturnsignalcontrolleverinthedirections (a) or (b) in which you want to change lanes, the turn signal lights and turn signal light indicators on the instrumentclusterwillflashonlywhiletheturn signalcontrolleverispressed.
@@ -3384,9 +3592,13 @@ You can use the hazard warning switch to warntheotherdriversofpossibleriskof tra
 - ·Push the hazard warning switch to activate the hazard warning lights. The turn signal lights and the turn signal indicatorsontheinstrumentcluster willflash simultaneously.
 - Theinstrumentpanel inthe abovefigure is a typical example; the actual equipment depends on the vehicle type.
 - Pushtheswitchagaintoturnoff thehazardwarningswitch.
+---
 
+## Page 123
 <!-- image -->
+---
 
+## Page 124
 ## When the operative wipers suddenly stop
 
 If this happens, perform the following operations:
@@ -3420,7 +3632,9 @@ You can operate the windshield wipers by moving the lever (1) upward or downward
 <!-- image -->
 
 The lever is equipped with the "INT TIME" control.Turn the control forward or rearward to adjust the intermittent wiper operation to the desired interval.
+---
 
+## Page 125
 ## WindshieldWasher
 
 <!-- image -->
@@ -3459,9 +3673,8 @@ You can operate the rear window wiper by twisting the lever (2) as shown in the 
 ## NOTICE
 
 Clear ice or snow from the rear window andrear wiper blade before using the rear wiper. Accumulated ice or snow could prevent the wiper blade from moving, causing damage to the wiper motor.
-
 ---
-
+## Page 126
 ## Rear Window Washer
 
 76TS30560
@@ -3492,7 +3705,9 @@ Type 2
 78RB02064
 
 When therearwindow is misted,pushthis switch (1) to clear the window.
+---
 
+## Page 127
 Anindicator light will come onwhen the defogger is on. The defogger will work only when the engine is running. To turn off the defogger, push the switch (1) again.
 
 ## NOTICE
@@ -3503,7 +3718,9 @@ The heated rear window use a large amount of electricity. Turn off the switchaft
 
 - ·The defogger will work only when the engine is running.
 - ·Thedefoggerwillautomaticallyturn off afterthedefoggerremainsonfor15minutes to prevent discharging of theleadacid battery.
+---
 
+## Page 128
 <!-- image -->
 
 59RN04640
@@ -3517,7 +3734,9 @@ The heated rear window use a large amount of electricity. Turn off the switchaft
 | Warning and Indicator Lights 4-25    |
 
 4
+---
 
+## Page 129
 ## INSTRUMENT CLUSTER
 
 ## Instrument Cluster
@@ -3532,7 +3751,9 @@ The heated rear window use a large amount of electricity. Turn off the switchaft
 80TM04006
 
 <!-- image -->
+---
 
+## Page 130
 ## Speedometer
 
 The speedometer indicates vehicle speed.
@@ -3567,8 +3788,17 @@ To minimize the possibility of damage to catalytic converter or other components
 
 <!-- image -->
 
----
+> **[DIAGRAM]:** The image is a bar chart titled "Brightness." The chart compares the brightness of different locations on a scale of 0 to 100, with each bar representing a different location. The x-axis represents the distance in kilometers, while the y-axis lists the names of the locations.
 
+Here is the detailed description of the bar chart:
+
+1. **Title**: The title of the chart is "Brightness."
+2. **X-Axis**: The x-axis is labeled "Distance in kilometers."
+3. **Y-Axis**: The y-axis is labeled "Brightness
+
+
+---
+## Page 131
 ## INSTRUMENTCLUSTER
 
 When the ignition switch is in"ON" position or the ignition mode is ON,the instrument panel lights come on.
@@ -3603,7 +3833,9 @@ Youcanusetheinformationswitchto switch the display indication when the ignition 
 
 - (1)Information switch
 - (2) Indicator selector knob
+---
 
+## Page 132
 ## To switch to the setting mode
 
 - 1）Push and hold theinformation switch (1) when the vehicle is stationary.
@@ -3658,7 +3890,9 @@ Warning and indicator messages / Fuel consumption / Driving range / Average spee
 ## Display (D)
 
 Selector position (for Automatic transmissionmodels）/Gearshift indicator(if equipped)
+---
 
+## Page 133
 ## INSTRUMENTCLUSTER
 
 ## Display (E)
@@ -3709,7 +3943,9 @@ To change the unit of temperature, refer to "Setting mode" in this section.
 52RM20880
 
 <!-- image -->
+---
 
+## Page 134
 ## Fuel Consumption / Driving Range / Average Speed / Driving Time
 
 When there are no warning or indicator messages on the display (C), you can select one of the following indications to appear on the display: instantaneous fuel consumption, average fuel consumption, driving range, average speed, driving time or no indication.
@@ -3737,7 +3973,9 @@ The value of fuel consumption, driving rangeandaveragespeedshownonthe display ar
 - drivingcondition
 - vehiclecondition
 - amalfunctionwhichcausesthemalfunctionindicatorlight tocome on orblinks
+---
 
+## Page 135
 ## INSTRUMENTCLUSTER
 
 ## Instantaneousfuel consumption
@@ -3790,9 +4028,8 @@ When you refuel, the driving range is updated. However, if you only add a small 
 
 - When you reconnect the terminals to the lead-acidbattery，thevalueofdriving range willbe shownafter driving for a periodoftime.
 - ·If you refuel when the ignition switch is "ON" or the ignition mode is ON, the drivingrange maynotindicate the correct value.
-
 ---
-
+## Page 136
 - ·Iftherearesubstantialchangesinthe driving pattern or vehicle usage, the displayedrangemayvarysignificantly.
 
 ## Average speed
@@ -3826,7 +4063,9 @@ The display (D) shows some of the following indications.
 - (5) Gearshift indicator
 
 Refer to"Gearshift indicator"in"OPERATINGYOURVEHICLE"section.
+---
 
+## Page 137
 ## TripMeter/ Odometer
 
 The display (E) shows one of the following indications; odometer, trip meter A or trip meter B.
@@ -3864,7 +4103,9 @@ Theodometerrecords thetotaldistance thevehicle has been driven.
 ## Fuel Gauge
 
 The display (F) shows the fuel gauge. Refer to "Fuel gauge" in this section.
+---
 
+## Page 138
 ## Setting Mode
 
 When the ignition switch is in"ON"position or the ignitionmode is ON and thevehicle is stationary, you can enter the setting mode of the information display by pushing and holding the indicator selector knob (3) for a while.
@@ -3922,6 +4163,12 @@ Whenyou change theunits that temperature is displayed in, the automatic heating 
 - ·To change the hour indication, turn the indicator selector knob (3) left or right repeatedlywhenthehourindication appears as reversed color. To change the hour indication quickly, turn and hold indicator selector knob(3).Toset the hour indication, push the indicator selector knob (3) and the minute indication appearsasreversedcolor.
 - ·To change the minute indication, turn the indicator selector knob(3) left or right repeatedlywhentheminuteindication appears as reversed color. To change the minute indication quickly, turn and hold indicator selector knob (3). To set the minute indication, push the indicator selector knob (3).
 
+> **[DIAGRAM]:** The
+
+
+---
+
+## Page 139
 ## (Selecting12H/24Hformat)
 
 - ·Switchthetimeindicationbetween12hour and 24-hour format by selecting "Clock setting" in "Setting mode". Then, select"12H"or"24H".
@@ -3967,7 +4214,9 @@ the stop time will be shorter, leading to morecomfortablecabinconditionby air co
 ## Default (Initialization setting)
 
 If you select "YES" and push the indicator selector knob (3),all settings will be reinitialized.
+---
 
+## Page 140
 ## Warning and Indicator Messages
 
 In some cases, the internal buzzer may also sound at the same time to alert you.
@@ -3989,9 +4238,8 @@ When the display shows warning and indicator messages, the master warning indica
 - ·If a message is displayed, and other problemsrequiring a message occur, the messageforeachoftheproblemswill bealternatelydisplayedaboutevery5 seconds.
 - ·When the problem that causes a message to appear is corrected, the message will disappear.
 - When you push and hold the indicator selectorknob(3）forseveralseconds whileamessageisdisplayed,themessage will disappear temporarily.If the problem that caused the message is not corrected，the message willappear againafterseveralseconds.
-
 ---
-
+## Page 141
 ## Warning and indicator messages
 
 When ignition switch is in “ACC" or "LOCK" position or ignition mode is ACC or LOCK (OFF)
@@ -4002,7 +4250,9 @@ When ignition switch is in “ACC" or "LOCK" position or ignition mode is ACC or
 |---------------------------------|----------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | 80T040280                       |                                  |                                          | A door or tailgate is not properly closed. Stop the vehicle in a safe place and close the door or tailgate properly. |
 | LIGHTS ON 61MM0A172             | Blinks                           | Continuous beep (from inte- rior buzzer) | The headlights and/or the position lights are left on. Turn them off.                                                |
+---
 
+## Page 142
 ## Vehiclewithkeylesspushstartsystem
 
 | Warning and indicator message                                | Master warning indicator light   | Sound                                                                        | Cause and remedy                                                                                                    |
@@ -4012,25 +4262,30 @@ When ignition switch is in “ACC" or "LOCK" position or ignition mode is ACC or
 | Manualtransmission PRESS BRAKE AND CLUTCH TO START 61MM0A166 | Off                              |                                                                              | The engine switch is pressed  without depressing the brake and clutchpedals.Try again as instructed by the message. |
 
 *1:This message will disappear for a while even if the problem that caused the message to appear is not corrected.
+---
 
+## Page 143
 | Warning and indicator message                          | Master warning indicator light   | Sound                                | Cause and remedy                                                                                                                                                               |
 |--------------------------------------------------------|----------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Automatic Transmission PRESS BRAKE SHIFT TO P TO START | Off                              |                                      | The engine switch is pressed with the gear- shift lever in a position other than “P" or “N" or without depressing the brake pedal. Shift into “P" and depress the brake pedal. |
 | AutomaticTransmission GEARSHIFT NOT IN PARK            |                                  |                                      | The engine switch is pressed with the gear- shift lever in a position other than “P". Shift into “P" and depress the brake pedal.                                              |
 | SERVICE STEERING LOCK SYSTEM 61MM0A168                 | Blinks                           | Beep (one time from interior buzzer) | There is a problem with the steering lock system. Have your vehicle inspected by a Maruti Suzuki authorized workshop.                                                          |
+---
 
+## Page 144
 | Warning and indicator message   | Master warning indicator light   | Sound                                           | Cause and remedy                                                                                                                                                                                                                                                                      |
 |---------------------------------|----------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | SERVICE START SYSTEM 75RM215    | Blinks                           | Beep (one time from interior buzzer)            | Thereisaproblemwiththeimmobilizer/ keyless push start system. Also, the vehicle battery voltage may be decreased. When the message is displayed even if you starttheenginewithnormalvoltageofthe vehicle battery, have your vehicle inspected by a Maruti Suzuki authorized workshop. |
 | KEY FOB NOT DETECTED 75RM216    | Blinks                           | Beep (two times from inte- rior/exteriorbuzzer) | The remote controller may be outside the vehicle or its battery may be discharged. Bring the remote controller in the vehicle or touchtheengineswitchwiththeremote controller. If the message still appears, replace the remote controller battery.                                   |
+---
 
+## Page 145
 | Warning and indicator message   | Master warning indicator light   | Sound                                                                                         | Cause and remedy                                                                                                                                                                                                                                        |
 |---------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | KEY FOB NOT DETECTED 75RM216    | Blinks                           | Beep(five times from inte- rior/exteriorbuzzer) and then Beep (one time from interior buzzer) | When the engine switch was in ACC or ON mode,theremotecontrollerwasdetected. However, when you started the vehicle, the remote controller was not detected. Bring the remote controller in the detectable area and try to push the engine switch again. |
 | KEY FOB NOT DETECTED 75RM216    | Blinks                           | Beep (five times from exte- rior buzzer)                                                      | When you started the engine or the engine switch is in ACC or ON mode, you opened orclosedanyofthedoorsandtheremote controller was out of the detectable area. Bring the remote controller in the detectable area.                                      |
-
 ---
-
+## Page 146
 ## When ignition switch is in "ON" position or ignition mode is ON All models
 
 | Warning and indicator message       | Master warning indicator light   | Sound                                                     | Cause and remedy                                                                                                        |
@@ -4038,17 +4293,23 @@ When ignition switch is in “ACC" or "LOCK" position or ignition mode is ACC or
 | 80T040280                           | Blinks (only while driving)      | Beep (one time from interior buzzer) (only while driving) | A door or tailgate is not properly closed. Stop the vehicle in a safe place and close the door or tailgate properly. *1 |
 | BRAKE RELEASE PARKING BRAKE 75RM268 | Blinks                           | Continuous beep (from inte- rior buzzer)                  | The parking brake is not released. Stop the vehicle ina safe placeand release the parking brake.                        |
 | LOW FUEL 75RM213                    | Off                              | Beep (one time from interior buzzer)                      | Fuel level is low. Refill it as soon as possi- ble. *1                                                                  |
+---
 
+## Page 147
 | Warning and indicator message                                                     | Master warning indicator light   | Sound                                | Cause and remedy                                                                                                                           |
 |-----------------------------------------------------------------------------------|----------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
 | ICE POSSIBLE DRIVE WITHCARE 78RB02047                                             |                                  |                                      | The road may be icy. Drive very carefully *1                                                                                               |
 | ESP SERVICE ESP SYSTEM 75RM223                                                    | Blinks                           | Beep (one time from interior buzzer) | There may be a problem with ESP? sys- tem. Haveyourvehicle inspectedbyaMaruti Suzuki authorized workshop.                                  |
 | Hill hold control system/ Hill descentcontrolsystem ESP HILL HOLD DISABLE 75RM224 | Blinks                           | Beep (one time from interior buzzer) | Theremaybeaproblemwithhill holdcon- trolsystemorhill descent control system. HaveyourvehicleinspectedbyaMaruti Suzuki authorized workshop. |
+---
 
+## Page 148
 | Warning and indicator message                          | Master warning indicator light   | Sound                                | Cause and remedy                                                                                                                                                                                                                         |
 |--------------------------------------------------------|----------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Hill hold control system ESP HILL HOLD DISABLE 75RM224 | Blinks                           | Beep (one time from interior buzzer) | ,  s l si   and ESP? OFF switch is pushed and turned off the ESP? systems, the hill hold control system is deactivated and this mes- sage appears. This is not a malfunction and check that the hill hold control system is deactivated. |
+---
 
+## Page 149
 ## Vehiclewithkeylesspushstartsystem
 
 | Warning and indicator message                                | Master warning indicator light   | Sound                                                                             | Cause and remedy                                                                                                     |
@@ -4056,24 +4317,29 @@ When ignition switch is in “ACC" or "LOCK" position or ignition mode is ACC or
 |                                                              |                                  | This message is displayed when ON posi- tion is selected as the ignition mode. *1 | ON                                                                                                                   |
 |                                                              | Off                              |                                                                                   | Thebrakepedalisdepressed.Pressthe engine switch to start the engine.                                                 |
 | Manualtransmission PRESS BRAKE AND CLUTCH TO START 61MM0A166 | Off                              |                                                                                   | The engine switch is pressed without depressing the brake and clutch pedals. Try again as instructed by the message. |
+---
 
+## Page 150
 | Warning and indicator message                                   | Master warning indicator light   | Sound                                | Cause and remedy                                                                                                                                                               |
 |-----------------------------------------------------------------|----------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Automatic Transmission PRESSBRAKE SHIFT TO P TO START 61MM0A165 | Off                              |                                      | The engine switch is pressed with the gear- shift lever in a position other than “P" or “N" or without depressing the brake pedal. Shift into “P" and depress the brake pedal. |
 | SERVICE STEERING LOCK SYSTEM 61MM0A168                          | Blinks                           | Beep (one time from interior buzzer) | There is a problem with the steering lock system. Have your vehicle inspected by a Maruti Suzuki authorized workshop.                                                          |
 | TRN. STEERING WHEEL TO RELEASE LOCK 75RM219                     | Blinks                           | Beep (one time from interior buzzer) | The steering lock is not disengaged. While lightly turning the steering wheel in left and right directions, press the engine switch again.                                     |
-
 ---
-
+## Page 151
 | Warning and indicator message   | Master warning indicator light              | Sound                                                                                                                                                                                                                                                                               | Cause and remedy     |
 |---------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
 | 75RM215                         | Blinks Beep (one time from interior buzzer) | Thereisaproblemwiththeimmobilizer/ keyless push start system. Also, the vehicle batteryvoltage maybe decreased. When the message is displayed even if you starttheenginewithnormalvoltageofthe vehicle battery, have your vehicle inspected by a Maruti Suzuki authorized workshop. | SERVICE START SYSTEM |
 |                                 | Off                                         | Theremotecontrollerbatteryisaboutto become flat. Replace the battery. *1                                                                                                                                                                                                            |                      |
+---
 
+## Page 152
 | Warning and indicator message                                      | Master warning indicator light   | Sound                                            | Cause and remedy                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------|----------------------------------|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | KEY FOB NOT DETECTED 75RM216 PLACE KEY FOB ON START SWITCH 75RM217 | Blinks                           | Beep (two times from inte- rior/exterior buzzer) | The remote controller may be outside the vehicle or its battery may be discharged. Bring theremotecontroller in thevehicle or touchtheengineswitchwiththeremote controller. If the message still appears, replace the remote controller battery. |
+---
 
+## Page 153
 ## Warning and Indicator Lights
 
 ## NOTE:
@@ -4125,7 +4391,9 @@ Because thebrake systemis self-adjusting,thefluidlevelwilldropasthebrake pads be
 (ParkingBrakeReminderBuzzer)
 
 Abuzzersoundsintermittentlytoremind youtoreleasetheparkingbrakeifyou startthevehiclewithoutreleasingtheparkingbrake.Makesurethattheparking brakeisfullyreleasedandthebrakesystemwarninglightturnsoff.
+---
 
+## Page 154
 ## Anti-lock Brake System (ABS) Warning Light
 
 80J127
@@ -4168,7 +4436,9 @@ For details of the ESP? systems,refer to "Electronic Stability Program (ESP?) in
 ## ！ WARNING
 
 The ESP? systems cannot prevent accidents. Always drive carefully.
+---
 
+## Page 155
 ## INSTRUMENTCLUSTER
 
 ## ESP? OFF Indicator Light
@@ -4212,9 +4482,8 @@ Check the oil level and add oil if necessary. If there is enough oil, the lubric
 
 - Ifyou operate the engine with this lighton,severeenginedamagecan result.
 - Donotrelyontheengineoilpressure warning light to indicate the need to add oil. Be sure to periodicallychecktheengineoillevel.
-
 ---
-
+## Page 156
 ## Charge Warning Light
 
 80J226
@@ -4258,7 +4527,9 @@ The light will come on and stay on if there is a problem in the airbag system or
 ## WARNING
 
 If the airbag warning light does not blink or come on briefly when the ignition switch is turned to "ON" position or the engine switch is pressed to change the ignition mode to ON, stays on for more than 6 seconds, or comes on while driving, the airbag system or the seat belt pretensioner system may not work properly, which couldresultin seriousinjuryin the event of a crash. Have both systems inspected by a Maruti Suzuki authorized workshop.
+---
 
+## Page 157
 ## Malfunction Indicator Light
 
 <!-- image -->
@@ -4288,7 +4559,9 @@ Continuing to drive thevehiclewhen the malfunction indicator light is on or blin
 When the ignition switch is turned to"ON" positionortheengineswitchispressedto change theignitionmode to ON,this light comes onfor severalseconds soyou can check that the light is working.
 
 If this light comes on when the ignition switch is turned to"ON" position or the engineswitchispressedtochangethe ignitionmodetoON,thereis aproblem with the automatic transmission system. If this light comes on or blinks, stop the vehicleinasafeplaceandcontacta Maruti Suzuki authorized workshop.If the lightcomesonorblinks againafter the light goes out, have the system inspected byaMarutiSuzukiauthorizedworkshop.
+---
 
+## Page 158
 ## Immobilizer/ KeylessPushStart System Warning Light
 
 80JM122
@@ -4322,7 +4595,9 @@ If this light comes on, refuel the fuel tank as soon as possible.When this light
 ## NOTE:
 
 Theactivationpointof thislightvaries dependingonroadconditions(forexample,slopeorcurve)anddrivingconditions becauseoffuelmovementinthetank.
+---
 
+## Page 159
 ## Electric Power Steering Light
 
 <!-- image -->
@@ -4357,7 +4632,9 @@ When the ignition switch is turned to"ON" position or the engine switch is press
 If this light still stays on after the engine warms up, there is a problem with the sensor.
 
 HaveyourvehicleinspectedbyaMaruti Suzuki authorized workshop.
+---
 
+## Page 160
 ## High Engine Coolant Temperature Warning Light (red color)
 
 54G344
@@ -4389,9 +4666,8 @@ Ifany abnormality ofthe turnsignalsis observed, such as fast blinking, there may
 80J212
 
 Thisindicatorcomes onwhenheadlight main beams (high beams) are turned on.
-
 ---
-
+## Page 161
 ## llumination Indicator Light
 
 <!-- image -->
@@ -4442,7 +4718,9 @@ If 4WD indicator light continues to blink, there may be a malfunction of the sys
 When you shift the transfer lever from "2H" position to"4H" position at a speed of 100 km/h or more, this indicator light blinks.
 
 When you shift transfer lever again while changing the drive condition, this indicator blinks.
+---
 
+## Page 162
 ## NOTE:
 
 Whenthedriveconditionis4-wheeldrive conditionandtheengineisnotrunning withtheignitionswitchturned"ON"orthe ignitionmodetoON,this4WDindicator lightwillcomeonforawhileandthen blink.Inthissituation,whenyou startthe engine and this indicator light comes on, the system does not indicate a malfunction.
@@ -4480,7 +4758,9 @@ Fordetails,refer to"ENG A-STOPSystem (Engine Auto Stop Start System)" in the "OP
 82K269
 
 For details about the security system, refer to"Security System" in the "BEFORE DRIVING"section.
+---
 
+## Page 163
 <!-- image -->
 
 59RN05760
@@ -4511,7 +4791,9 @@ For details about the security system, refer to"Security System" in the "BEFORE 
 | Anti-lock Brake System (ABS)                                           | .5-64 |
 
 5
+---
 
+## Page 164
 ## Daily Inspection Checklist Before Driving
 
 59RN05750
@@ -4564,7 +4846,9 @@ Pullthehoodreleaseleverinsidethevehicle. Check that you cannot open the hood fur
 Check thatthehoodis fullyclosed and latched before driving. If it is not, it can fly up unexpectedly during driving, obstructing your view and resulting in an accident.
 
 Once a month, or each time you fill your fuel tank, check the tyre pressure using a tyre pressure gauge. Also check the tyre pressure of the spare tyre.
+---
 
+## Page 165
 ## When You Notice the Following Symptoms
 
 <!-- image -->
@@ -4604,9 +4888,8 @@ If you keep using your vehicle in the following  conditions, malfunction and an 
 - -Decreased driving stability
 
 (Continued)
-
 ---
-
+## Page 166
 <!-- image -->
 
 To adjust the tire pressure, refer to "Tyres" in"INSPECTIONANDMAINTENANCE" section.
@@ -4632,7 +4915,9 @@ The ignition switch has the following four positions:
 ## LOCK
 
 This is the normal parking position. It is the only position in which the key can be removed.
+---
 
+## Page 167
 ## Manual transmission
 
 55T050010
@@ -4673,7 +4958,9 @@ A buzzer sounds intermittently to remind you to remove the ignition key if it is
 - Neverreturn theignitionswitchto "LocK" position and remove the ignitionkey whilethevehicleis moving. The steering wheel will lock and you will not be able to steerthevehicle.
 
 (Continued)
+---
 
+## Page 168
 ## WARNING
 
 ## (Continued)
@@ -4707,7 +4994,9 @@ Press the engine switch to select this ignition mode to use such electric equipm
 You can use such electric equipment as thepowerwindowsandwiperswiththe engine off. When this ignition mode is selected by pressing the engine switch, the information display in the instrument clustershows thefollowingmessage.
 
 61MM0A163
+---
 
+## Page 169
 75RM214
 
 <!-- image -->
@@ -4740,7 +5029,9 @@ Do not leave the engine switch in ACCorONmodewhen theengine is not running. Avoi
 75RM216
 
 <!-- image -->
+---
 
+## Page 170
 ## Unreleased Steering Lock Warning
 
 If the steering lock remains engaged when you press the engine switch to change the ignition mode to ON, the information displayintheinstrumentcluster showsthe following message and you cannot start the engine. If this happens, press the engine switch, turning the steering wheel to right or left.
@@ -4766,9 +5057,8 @@ The engine can be started only with your vehicle's original immobilizer ignition
 In the case you can start the engine, when you turn the ignition switch to "LOCK" position or press the engine switch to change the ignition mode to ON,theimmobilizer systemwillbereleasedand theimmobilizer/keyless push start system warning light will turn on for about 2 seconds and then it will turn off.
 
 When you turn the ignition switch to "LOCK" position or press the engine switch tochangetheignitionmode toLOCK (OFF),theimmobilizersystemwilloperate
-
 ---
-
+## Page 171
 ## NOTICE
 
 If the immobilizer system is modified or removed, it cannot be properly operated.Donotmodifyorremove theimmobilizer system.
@@ -4819,7 +5109,9 @@ Theimmobilizerkeyandremotecontroller are sensitive electronicinstruments. To avo
 ## Ignition Key Reminder (if equipped)
 
 A buzzer sounds intermittently to remind you to remove the ignition key if it is in the ignition keyhole when the driver's door is opened.
+---
 
+## Page 172
 ## Pedal
 
 ## Manual transmission
@@ -4863,7 +5155,9 @@ An accelerator pedal controls the speed of the engine.Depressing the accelerator
 ## NOTE:
 
 Your vehicle is equipped withBrake Override System. If you depress both the acceleratorpedal'and'thebrakepedal simultaneously, the engine power output maybesuppressed.
+---
 
+## Page 173
 ## Keyless Push Start System (if equipped)
 
 Provided the keyless push start system remote controlleriswithinthe interior workable area, you can use the engine switch for starting the engine and selecting an ignitionmode(ACCorON).Inaddition,the following functions can be used:
@@ -4908,7 +5202,9 @@ Tosavethelead-acidbattery,theilluminationwillbeautomaticallyturnedoffwhen bothof
 - ·Theheadlightsand the positionlights are turned off.
 
 82K253
+---
 
+## Page 174
 ## Selectionof lgnitionModes
 
 Press the engine switch to select ACC or ONmodeas followswhenyouuse an electric accessory or check the operation of instrument cluster without running the engine.
@@ -4945,7 +5241,9 @@ Your keyless push start system remote controller may not be sensed as being with
 - 1）Manualtransmission Without depressing the clutch pedal, push the engine switch (1).
 
 Automatictransmission Without depressing the brake pedal, press the engine switch (1).
+---
 
+## Page 175
 75RM217
 
 <!-- image -->
@@ -4971,9 +5269,8 @@ Wheneitherof thefollowingconditionsis met,the systemcauses the remote controller
 
 - Anydoor is openedand thenclosed while theremotecontroller isnot inside thevehicle and the engine isrunning or the ignition mode has been changed to ACC or ON by pressing the engine switch.
 - Theremotecontrollerisnotinsidethe vehicle whenyouattempt tostart the engine after changing the ignition mode to ACC or ON by pressing the engine switch.
-
 ---
-
+## Page 176
 80T050050
 
 <!-- image -->
@@ -4999,6 +5296,12 @@ Alwayskeeptheremotecontrollerwithyou as the driver.
 - 1) Check that the parking brake is set fully.
 2. 2）Turnoff suchloads astheheadlights and air conditioning system to facilitate starting of the engine.
 
+> **[DIAGRAM]:** This is a black and white image of a vehicle.
+
+
+---
+
+## Page 177
 - 3）Manualtransmissionvehicles: Shift into "N" (Neutral). Hold the clutch pedal and brake pedal fully depressed.
 
 Automatic transmission vehicles: If the gearshift lever is not in "P" (Park) position, shift into "P" (Park). Hold the brake pedal fully depressed.
@@ -5022,7 +5325,9 @@ Except in cases of emergency, do not stoptheenginewhilethevehicleisin motion. If
 ## NOTICE
 
 Automatictransmissionvehicles: If you stop the engine while the vehicle is in motion, the automatic transmission may be damaged. Avoid stopping the engine while driving.
+---
 
+## Page 178
 ## Starting / Stopping Engine (VehiclewithKeylessPush Start System) Starting Engine
 
 <!-- image -->
@@ -5051,7 +5356,9 @@ Automatic transmission vehicles: If the gearshift lever is not in "P" (Park) pos
 
 - If the enginedoes notstart,press the engine switch to select LocK (OFF)modeandwaitformore than 30 seconds before trying again, for protectionof alead-acid battery anda startermotor.If theengine does notstartafterseveral attempts,consult with a Maruti Suzuki authorized workshop.
 - Do not try to start the engine by pushing or towing the vehicle, or coasting down a hill.This starting methodcouldresultindamage to thecatalytic converter or damage to other parts.
+---
 
+## Page 179
 ## NOTE:
 
 - ·Youdonotneedtokeeptheengine switchpressed tostarttheengine.
@@ -5080,7 +5387,9 @@ In case of emergency, you can stop the enginebyquicklypushingthe engine switch m
 ## NOTE:
 
 Except in cases of emergency, do not stop theenginewhilethevehicleisinmotion. The steering and braking operation will require more effort when the engine is stopped.Referto"Braking"in this section.
+---
 
+## Page 180
 ## If the Master Warning Indicator Light A Blinks and the Engine cannot be Started
 
 Your keyless push start system remote controllermaynotbesensedasbeingwithinthe interiorworkablearea(refertotherelated explanation in this section). Try again after checkingthatyouhavetheremotecontroller with you. If the engine cannot be started, the batteryoftheremotecontrollermaybedischarged. To start the engine, you must then use the following method:
@@ -5108,9 +5417,8 @@ If you still cannot start the engine, there maybetheotherproblemsuchasthedischar
 ## NOTE:
 
 - You may customize the system to cause theinteriorbuzzertosoundoncefor warningthatremotecontrollerisoutof sensingrange.Forthiscustomization, consultwithaMarutiSuzukiauthorized workshop.
-
 ---
-
+## Page 181
 - ·Ifthebatteryoftheremotecontrolleris almostdischarged，theinformationdisplayintheinstrumentclustershowsthe following messagewhenyou press the engine switchtochange theignition modetoON.Referto"InformationDisplay"in"INSTRUMENTCLUSTER"seCtionfordetails.Fordetailsonreplacing the battery, refer to "Keyless Push Start SystemRemoteController"in"BEFORE DRIVING"section.
 
 75RM220
@@ -5144,7 +5452,9 @@ Whenever you leave the vehicle,check thatyouhavereturnedtheignitionmodeto LOCK (
 ## Steeringlockwarningbuzzer
 
 If the steering lock fails to engage due to a fault in the system when the ignition mode is turned to LOCK (OFF) by pressing the engine switchandanydoor(including the tailgate) is opened or closed, the interior buzzerwillwarnyouofthisconditionwith repeated short beeps. If this happens, haveyour vehicle inspectedby a Maruti Suzukiauthorizedworkshop.
+---
 
+## Page 182
 ## ENG A-STOP System (Engine Auto Stop Start System)
 
 The ENG A-STOP system (engine auto stopstartsystem)automaticallystopsthe engine while waiting briefly at a trafic light, etc.,and automaticallyrestarts the engine afterward.Thissystemhelpsreduceemissions,improvefuelconsumptionandlower enginenoise.
@@ -5177,7 +5487,9 @@ The vehicle equipped with this systemusesadedicatedhigh-performance battery that
 
 - ·Manualtransmissionvehicle-Ifthe driver'sseatbeltisunfastenedandthe driver's door is opened, the engine will stall.
 - Automatictransmissionvehicle-Ifthe driver'sseatbeltisunfastened，evenif thebrakepedalispresseddown,orthe driver's door is opened, the engine will be restarted to warnyou that the engine wasstoppedautomaticallybytheENG A-STOPsystem.
+---
 
+## Page 183
 ## Automatic Stopping / Restarting of the Engine
 
 ## Manual transmissionvehicle
@@ -5207,7 +5519,9 @@ During the automatic engine stop, electric equipmentwillbeinthefollowingconditio
 - ·The audio and other electrical componentcanbeusedduringtheautomatic enginestop,buttheairconditionerwill switchtothefanmode.
 - If thevehicleisequippedwith automatic heating and air conditioning system, the fanspeedwillbelimitedduringtheautomatic engine stop(only in the auto controlmode)tokeepthecabinairconditionedforalongertime.
 - Iftheenginestalledbyarapidclutch operation, the engine will restart with the gearpositioned"N"(neutral）and the clutchpedal depressed.
+---
 
+## Page 184
 77R40700
 
 <!-- image -->
@@ -5235,7 +5549,9 @@ For details, refer to "Conditions to restart the engine automatically" in this s
 - ·The engine is not stopped automatically whendeceleratingwithoutdepressing the brake pedal, for example, by using engine braking.
 - For the automaticheating and air conditioning system, airflow is limited (only underautomaticoperation）whenthe engineisstoppedautomatically,inorder to improve the cooling and heating performance.
 - Electrical components,such as the navigationsystemortheaudiosystem,can beusedwhile the engine has been stoppedautomatically，however,theair conditionerswitchestotheventilation position.
+---
 
+## Page 185
 77R40610
 
 <!-- image -->
@@ -5249,9 +5565,8 @@ For details, refer to "Conditions to restart the engine automatically" in this s
 
 - ·The hill hold control system is activated whentheengineisrestartedautomatically.
 - ·Ifasoundofaudiosystemisloud,the soundmaybeinterruptedwhenthe engineisrestarted.Thisisnotamalfunction.
-
 ---
-
+## Page 186
 ## Precautions of When the Engine is Stopped Automatically
 
 | WARNING                                                                                                                           |
@@ -5263,7 +5578,9 @@ For details, refer to "Conditions to restart the engine automatically" in this s
 | · After the engine is stopped automatically, it stalls. · The ENG A-STOP indicator light (green) goes off. | Engine hood opened To restart the engine, follow the procedure below. ·The interior buzzer sounds 2 times. in the “N" position (for manual transmission) or “P" position (for automatic transmission). 2) Securely close the engine hood. 3) Turn the ignition switch or press the engine switch to restart | Common                                                                                                                                                                                                                                                                                                            |
 | opened Manual transmission                                                                                 | the engine. Driver'sseatbeltunfastenedanddriver'sdoor ·Theinteriorbuzzersounds5times. cedurebelow. ·After the engine is stopped automatically, it stalls. · The ENG A-STOP indicator light (green) goes off. in the "N" position.                                                                           | Before starting the vehicle, close the door and buckle the seat belt. In addition, before getting out of the vehicle, follow the pro- 2)When thevehiclewill be stopped for a long time or when you will leave the vehicle unattended, turn the ignition switch or the press the engine switch to stop the engine. |
 | opened Manual transmission                                                                                 | Gearshift lever shifted to a position other than “N" withoutdepressingtheclutchpedal ·Theinteriorbuzzersounds2times. ·After the engine is stopped automatically, it stalls. ·TheENGA-STOPindicatorlight(green)goeson.                                                                                       | The gearshift lever is placed returned to the “N" position.                                                                                                                                                                                                                                                       |
+---
 
+## Page 187
 |                            | Operation/VehicleCondition                                                                                                                                                                                     | Solution                                                                                                                                                                                                                                                                                                                                                                             |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Auto- matic transmis- sion | Driver's seat belt unfastened, or driver's door opened · The interior buzzer sounds 10 times. · The engine is restarted automatically. · The ENG A-STOP indicator light (green) blinks 5 times, then goes off. | Beforedriving,closethedoorandbuckletheseatbelt.Inaddi- tion, before getting out of the vehicle, follow the procedure below. 1)Set the parking brake firmly, and then place the gearshift lever in the “P" position. 2)Whenthevehiclewillbestopped fora long timeorwhenyou will leave the vehicle unattended, turn the ignition switch or press the engine switch to stop the engine. |
@@ -5271,7 +5588,9 @@ For details, refer to "Conditions to restart the engine automatically" in this s
 NOTE:
 
 The following indicator lights in the instrument cluster do not come on when the engine is stopped automatically
+---
 
+## Page 188
 ## Operating Conditions of ENG A-STOP System Standby conditions
 
 If all of the following conditions are met while driving, the automatic engine stop will be permitted.
@@ -5291,7 +5610,9 @@ If all of the following conditions are met while driving, the automatic engine s
 #1: If the battery is discharged, for example, if the vehicle has not been used for a long time or electrical components, such as the navitem canbe in standby.
 
 #2: If any of the warning and indicator lights affecting the ENG A-STOP system come on, the engine will not be stopped automatically.
+---
 
+## Page 189
 ## Conditionstostoptheengineautomatically
 
 stopped and the engine will stop automatically.
@@ -5306,7 +5627,9 @@ stopped and the engine will stop automatically.
 In this case, when the brake pedal is depressed additionally, the engine may stop automatically.
 
 The driver can operate whether the engine stops automatically or not depending on how hard the brake pedal is pressed.
+---
 
+## Page 190
 ## Conditions to restart the engine automatically
 
 restarted automaticallyand theENGA-STOPindicator light(green)goesoff.
@@ -5321,9 +5644,8 @@ restarted automaticallyand theENGA-STOPindicator light(green)goesoff.
 #3:lf the brake pedal is not fully depressed, the engine may be restarted automatically. The engine may not be stopped automatically when the brake pedal is depressed lightly, but the engine is stopped automatically by further depressing the brake pedal. The driver
 
 #2:The interior buzzer sounds intermittently (5 times).
-
 ---
-
+## Page 191
 ## ENGA-STOPOFFSwitch
 
 The ENG A-STOP system can be deactivated.
@@ -5358,7 +5680,9 @@ Pressing theENGA-STOPOFFswitch(1) duringthe automatic engine stop will restartth
 ## NOTE:
 
 Iftheindicatorlightblinkswhentheengine has stopped automaticallyby theENG ASTOP system, the engine may restart or stall.
+---
 
+## Page 192
 ## Air Conditioning System Settings by ENG A-STOP System
 
 When using the automatic heating and air conditioning system while the engine is stopped automatically by the ENG ASTOP system, you can select the settings via the setting mode of the information display.
@@ -5387,6 +5711,12 @@ The parking brake lever is located between the front seats. To set the parking b
 
 Remember,even thoughthe transmission is in gear or in Park, you must set the parking brake fully. (Continued)
 
+> **[DIAGRAM]:** This is a technical diagram or icon.
+
+
+---
+
+## Page 193
 ## (Continued)
 
 - ·Whenparkingthe vehicle extremelycoldweather,thefollowing procedure should be used:
@@ -5427,7 +5757,9 @@ Do not coast on a downhill slope with the engine off.
 <!-- image -->
 
 Donot take a nap in the vehicle with the engine running.
+---
 
+## Page 194
 ## WARNING
 
 - Exhaust gases can enter the vehicledue tosurroundingconditions and wind direction, possibly causing carbon monoxide poisoning.
@@ -5469,7 +5801,9 @@ Donotparkthevehicleunder the eaves or the trees on a snowy day.
 If you park the vehicle near flammable materials, the exhaust pipes and exhaust gas will get hot, resulting in danger of fire.
 
 Donot park thevehicle near flammable materials such as dry grass, paper waste and plywood.
+---
 
+## Page 195
 ## When Leaving the Vehicle, Stop the Engine and Lock Doors
 
 69RHS054
@@ -5498,9 +5832,8 @@ There isthe possibilityof theft,or these items could become damaged due to moist
 
 - Astheinsideofthevehicle becomeshotter whenparking in areas where strong sunlight causesincreasedtemperature, thereisthedangerofspontaneous ignition of lighters or spray cans, fire due to explosion, the deformationorcrackingof eyeglasses, plastic cards or CD cases,or the rupture of carbonated beverage cans. When parking in those areas, do not leave lighters, spray cans, plastic products (eyeglasses, plastic cards, CD cases, etc.） or carbonated beverage cans in the vehicle.
 - When items get pushed around or when the seats are moved, it is possible that gas could escape andleadto afire.Donot place accessories such lighters  or spray cans with exposed operating parts in the glove box, in storage compartments, between the seats, on the floor, etc.
-
 ---
-
+## Page 196
 ## Using Transmission
 
 <!-- image -->
@@ -5550,7 +5883,9 @@ You may not accelerate to the maximum allowablespeedbecauseofthedrivingsituation
 ## NOTICE
 
 Do not downshift to a lower gear at the speed faster than the maximum allowablespeedsforthenextlower speed,or severe damage to engine and transmission can result.
+---
 
+## Page 197
 ## WARNING
 
 - Reduce your speed and downshift to a lower gear before going down a long or steep hill. A lower gear willallowtheenginetoprovide braking. Avoid riding the brakes or they may overheat, resulting in brake failure.
@@ -5587,7 +5922,9 @@ Use this position to lock the transmission when the vehicle is parked or when st
 ## R (Reverse)
 
 Use this position to reverse the vehicle from stop. Make sure that vehicle is completely stationary before shifting into Reverse.
+---
 
+## Page 198
 ## N (Neutral)
 
 Use this position for starting the engine if the engine stalls and you need to restart it while the vehicle is moving. You may also shift into Neutral and depress the brake pedal to hold the vehicle stationary during idling.
@@ -5640,7 +5977,9 @@ The gearshift lever has a lock mechanism to help prevent accidental shifting. Sh
 |---------------------------------------------------------------------------|
 | Shift with the knob button (1) pushed in.                                 |
 | Shift without the knob button (1) pushed in.                              |
+---
 
+## Page 199
 ## NOTICE
 
 - Donotshiftthegearshiftleverinto "R" while moving forward, or the transmission may be damaged. If you shift into "R'" when the vehicle speed is over 10 km/h, the transmission will not shift into reverse.
@@ -5682,7 +6021,9 @@ The 3-speed mode is suitable for the following driving conditions:
 78RB03006
 
 <!-- image -->
+---
 
+## Page 200
 ## OPERATINGYOURVEHICLE
 
 Theautomatictransmissionvehicleshave an electrically operated park-lock feature. If thevehicle's lead-acidbatteryisdischarged,or thereissome otherelectrical failure, the automatic transmission cannot beshifted out ofPark in the normal way. Jump starting may correct the condition. If not,followthe proceduredescribed below. This procedure will permit shifting the transmission outofPark.
@@ -5715,9 +6056,8 @@ If UP/DOWNarrowisindicatedinthedisplaywhiledriving,werecommendyouto shift up or 
 The gearshift indicator is designed to indicate optimal gear position for your driving, however, a driver will notberelievedfromthedutyofcare of driving operation or gear change with this indicator.
 
 To drive safe, do not gaze the gearshift indicator,pay attention toyour driving situation and shift up or down if necessary.
-
 ---
-
+## Page 201
 ## NOTE:
 
 - ·Thegearshiftindicatorisnotindicatedwhenthegearpositionisin“N"(Neutral).
@@ -5736,7 +6076,9 @@ To drive safe, do not gaze the gearshift indicator,pay attention toyour driving 
 |--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |              | Lower gear position is selected for the vehicle speed and/or engine revolution. Changing to a higher gear posi- tion is recommended. ·In this case, shifting up is recommended.    |
 |              | Higher gear position is selected for the vehicle speed and/or engine revolution. Changing to a lower gear posi- tion is recommended. · In this case, shifting down is recommended. |
+---
 
+## Page 202
 ## Transfer Lever
 
 78RB03022
@@ -5766,7 +6108,9 @@ Your vehicle is equipped with the "ALL GRIP PRO"system that consists of a transf
 
 - ·The air locking hubs are activated by the vacuumoftheengineandchangedto shift the front wheel drive. The air locking hubsarenotshiftedwhentheengineis stopping.Several seconds are required from the operation of the transferlever to theactivationofairlockinghubs.
 - Whenthefronttyresreceiveabigshock during running in 2-wheel drive position ontheroadsurfaceofthebigirregularity, etc,somenoisemayoccurinsidetheair lockinghubsafterwards.Inthissituation, stopthevehicleandthenshiftthetransfer lever into"4H" position.After that, shift the transferleverinto"2H"position again.
+---
 
+## Page 203
 ## Description of Transfer Lever Positions and Indicator Light
 
 80T050160
@@ -5782,7 +6126,9 @@ Your vehicle is equipped with the "ALL GRIP PRO"system that consists of a transf
 Shift the transfer lever without the lever pressed.
 
 Shift the transferleverwith the lever pressed.
+---
 
+## Page 204
 <!-- image -->
 
 <!-- image -->
@@ -5799,7 +6145,9 @@ Shift the transferleverwith the lever pressed.
 - Never operate your vehicle in "4H" or "4L" on dry pavement and, as much as possible, avoid using "4H" or "4L" on wet pavement, as this may seriously damage the drive train.
 - When you turn suddenly on a sharp curve, a side road, or a parking space in "4H" or "4L" position, the turning strength of drive system damage could also result.
 * Tight corner braking phenomenon is the similar situation to depress the brake when the drive train is in 4-wheel drive position ("4H" or "4L") and the steering wheel is turned suddenly and then the revolution difference between the front wheels and the rear wheeis could not absorb.
+---
 
+## Page 205
 ## Transfer Lever Operation
 
 ## NOTICE
@@ -5841,9 +6189,8 @@ Payattention to shiftingthe transfer lever safely when driving your vehicle.
 - When4WDindicatorlight is blinking aftershiftingthetransferleverto"4H" position,accelerate,slow down your vehicle or stop and reverseyour vehicle alittletoshiftthetransferlever.Pay attentiontothevehiclesandthecircumferencetowardorbackwardyourvehicle whenshiftingthetransferlever.
 - Whenyoushiftthetransferleverwhile turning the steering wheel or depressing theacceleratorpedal,shiftingthetransferlevermaybedifficult.
 - Operate the transfer lever while driving atlowspeedifitmaybedifficulttoshift thetransferleverfrom"2H"positionto "4H" position when the vehicleis stopped.
-
 ---
-
+## Page 206
 ## OPERATINGYOURVEHICLE
 
 - Shiftthetransferleveragainafterdecelerating or stopping thevehicle if it may bedifficulttoshiftthetransferleverfrom "2H" position to "4H" position while drivingorwhenthegearnoiseoccurs.
@@ -5869,7 +6216,9 @@ When you turn off the engine while the transfer is not finished to shift into"4L
 4. Eventhoughthegearshiftleveris shifted into1st gearor"R" (Reverse)gear for manual transmission vehicles or shifted into "p" (Park) position for automatic transmission vehicles,there may be a casethatthewheelsofthevehicle is not stationary.
 
 When you turn off the engine in this situation, start the engine again and move thevehicle forwardor backward slowly.
+---
 
+## Page 207
 ## ACAUTION
 
 <!-- image -->
@@ -5899,7 +6248,9 @@ When you turn off the engine in this situation, start the engine again and move 
 78RB03028
 
 Stop the vehicle completely，place the transmission in "N"(Neutral） or depress the clutch pedal fully (manual transmission model)，then shift the transfer lever from "4L" position to "4H" position.
+---
 
+## Page 208
 ## Cruise Control (if equipped)
 
 The cruise control system allows you to maintain a steady speed without keeping your foot on the accelerator pedal. The controls for operating the cruise control system are on the steering wheel.
@@ -5944,7 +6295,9 @@ Turn off the cruise controlsystem and check that cruise indicator (4), "SET"indi
 ## NOTE:
 
 Establishedcruisingspeed may differ a little fromthespeed meter indication depending ontheroadconditions.
+---
 
+## Page 209
 ## Changing Speed Temporarily
 
 When the cruising speed is maintained, you can temporarily accelerate or decelerate.
@@ -5994,7 +6347,9 @@ Toresetata slower cruising speed,press repeatedly or hold push down the"RES +/ S
 - If the automatic brake system is working
 - When the vehicle skids and ESP? is activated
 - ·When the transferlever is operated
+---
 
+## Page 210
 Toresume the previously set speed,push up the "RES +/SET -" switch (3) and turn on"SET"indicator (5).The vehicle speed must be above 40 km/h when the vehicle is not under the above conditions.
 
 To turn off the cruise control system, push cruiseswitch(1）andcheck that the cruise indicator (4) is off.
@@ -6023,9 +6378,8 @@ Parking sensors are only for driver's assistance.
 ## NOTE:
 
 When the gearshiftlever is shifted to the reverseposition(manualtransmission models）or"R"position(automatictransmissionmodels),abuzzerwillsoundonce.
-
 ---
-
+## Page 211
 ## Sensor Locations
 
 <!-- image -->
@@ -6067,6 +6421,21 @@ Upon detecting an obstacle, the parking sensor causes an interior buzzer to soun
 - ·If the system detects multiple obstacles simultaneously, however, the buzzers will sound only for the nearest obstacles.
 - ·Buzzerwillsoundwithashortdelay afterthedetectionofobstacles.
 
+> **[DIAGRAM]:** 1. A 3D model of a vehicle.
+2. The vehicle is shown from the side.
+3. The vehicle has a front grille, a rear grille, and a rear spoiler.
+4. The vehicle has a front bumper, a rear bumper, and a rear grille.
+5. The vehicle has a rear window.
+6. The vehicle has a rear spoiler.
+7. The vehicle has a rear bumper.
+8. The vehicle has a rear grille.
+9. The vehicle has a rear grille.
+10. The vehicle has
+
+
+---
+
+## Page 212
 ## Approximate areaswhere obstacles can be detected
 
 <!-- image -->
@@ -6102,7 +6471,9 @@ Upon detecting an obstacle, the parking sensor causes an interior buzzer to soun
 - -Sound-absorbingobjectssuch as cotton and snow.
 
 ## WARNING
+---
 
+## Page 213
 ## NOTE:
 
 - ·Thinpolesorobstacleslowerthanthe sensorsmaybecomeundetectableas thevehiclemovesclosertothemevenif theyhavebeendetectedfromlonger distances.
@@ -6145,6 +6516,12 @@ Donotleave theignitionswitchin "ON" position or the ignition mode to ON for a lo
 
 The rearview camera is installed on the tailgate.
 
+> **[DIAGRAM]:** The
+
+
+---
+
+## Page 214
 ## NOTICE
 
 - Therearviewcameraisaprecision instrument. If you strike the camera,it may be broken and cause damage resulting in a catchfire or a malfunction.
@@ -6189,7 +6566,9 @@ The rearview camera display shows the area behind the rear end of the bumper. Th
 <!-- image -->
 
 80T050720
+---
 
+## Page 215
 ## NOTE:
 
 - ·Images shown on the display from the rearviewcamera arereversed images (mirrorimages).
@@ -6201,9 +6580,8 @@ The rearview camera display shows the area behind the rear end of the bumper. Th
 - When strong light directly enters the camera(verticallinesmaybeseenon the display).
 - -When theoutsidetemperatureislow (the image on the display may be darkened).
 - Under fluorescent light (The display may flicker).
-
 ---
-
+## Page 216
 ## How to Understand the Displayed Items on the Screen
 
 The rearview camera display and following guide lines will be displayed on the screen.
@@ -6218,14 +6596,18 @@ The rearview camera display and following guide lines will be displayed on the s
 | No.   | Itemname                                     | Displayed color   | Contents                                                                                                                                |
 |-------|----------------------------------------------|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | (1)   | Guidelineforthevehicle width (vertical line) | Purple            | This shows the guide line of the position which is slightly outside of the vehiclewidth(including thewidth of outsiderearview mirrors). |
+---
 
+## Page 217
 | No.   | Itemname                    | Displayed color   | Contents                                                                                                            |
 |-------|-----------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------|
 | (2)   | Guide line for the distance | Light blue        | This shows the guide line of the position which is about 2 m (6.6 ft) backward from the center of bumper back-end.  |
 | (3)   | Guide line for the distance | Yellow            | This shows the guide line of the position which is about 1 m (3.3 ft) backward from the center of bumper back-end.  |
 | (4)   | Guide line for the distance | Red               | This shows the guide line of the position which is about 0.5 m (1.6 ft) backward from the center of bumper back-end |
 | (5)   | Guidelineforthevehicle body | Orange            | This shows the guide line of the position of the vehicle body shape (including the spare wheel).                    |
+---
 
+## Page 218
 ## Rearview CameraScreenIndication
 
 The distance viewed in the rearview camera may differ from the actual distance according to the condition of the roador the load the vehicle is carrying.
@@ -6266,7 +6648,9 @@ Whenthereisadownhillinclinebehind the vehicle, the object shown on the display a
 - Check that the camera lens is not dirty.
 
 If therearviewcamerasystemisstillnot working properly after checking the above, have the system inspected by a Maruti Suzuki authorized workshop as soon as possible.
+---
 
+## Page 219
 ## Electronic Stability Program (ESP?)
 
 ESP® is \_a registered trademark of Mercedes-BenzGroupAG.
@@ -6310,7 +6694,9 @@ The traction control system automatically helps prevent the spinning of wheels w
 ## NOTE:
 
 You may hear an operation sound when youstarttheengineorafterthevehicle begins tomove.Thismeans that the abovesystemsareintheself-checkmode. This sound does not indicate a malfunction.
+---
 
+## Page 220
 ## StabilityControlSystem
 
 Thevehiclestabilitycontrolsystemhelps provide integrated control of systems such as anti-lock brakes, traction control, engine control, etc. This system automatically controls thebrakes and engine tohelppreventthevehiclefromskiddingwhencornering on a slippery road surface or when turning the steering wheel abruptly.
@@ -6355,9 +6741,8 @@ If this lightblinksatvery short intervals,thereishighpossibilitythatthe vehiclew
 ## NOTE:
 
 While this light comes on, traction control systemandstabilitycontrolsystemwillnot beactivated.However,youcanuseABS
-
 ---
-
+## Page 221
 ## ESP? OFF Switch
 
 77R40180
@@ -6399,7 +6784,9 @@ It may be required to turn the ESP? systems (other than ABS) off if your vehicle
 - If you press and hold the ESP? OFF switch with the ignition switch is in "ON" position or the ignition mode is"ON", this light will come on.
 - While this light comes on, traction control system and stability control system will not work.
 - ·If the system is in normal condition, when you turn the ignition switch to "ON" position or press the engine switch to
+---
 
+## Page 222
 change the ignition mode to ON, this light will come on for about 2 seconds and then come off.
 
 ## NOTE:
@@ -6431,7 +6818,9 @@ To activate thehill descent control system:
 - 1）Shift the transfer lever into 4-wheel drive high range position ("4H") or 4wheel drive low range position ("4L").
 - 3) Push the hill descent control switch (1) whenthevehiclespeedisunder25km/ h. The hill descent control indicator on theinstrumentclusterwillcomeonand the hilldescentcontrolsystemwill be activated.
 - 2) Shift the gearshift lever into a forward gear or reverse gear.
+---
 
+## Page 223
 ## 4-wheel drive high range position
 
 When the vehicle speed exceeds about 10 km/h without depressing the accelerator pedal， the hill descent control system applies the brakes automatically to maintainthevehiclespeedatabout10km/h.
@@ -6462,7 +6851,9 @@ To turn off the hill descent control system, push the hill descent control switc
 80T050820
 
 When the ignition switch is in "ON" position or theignitionmodeisON,thislightcomes on briefly so you can check that the light is working.
+---
 
+## Page 224
 ## OPERATINGYOURVEHICLE
 
 When you push the hill descent control switchand thehilldescentcontroloperating conditions are fulfilled, the hill descent control indicator comes on. If the hill descent control indicator blinks, the hill descentcontrolwill notbeactivated.
@@ -6505,7 +6896,9 @@ The hill hold control system is designed to assist you in starting to move up hi
 - The hill hold control system is not designed to stop the vehicle on a hill.
 
 (Continued)
+---
 
+## Page 225
 ## (Continued)
 
 - ·After you release yourfoot from the brake pedal, accelerate the vehicle tomove upimmediately.If you releaseyourfootfromthebrake pedal over 2 seconds, the hill hold control system will be canceled. If so,thevehiclemay rolldownward, whichcanresultinanaccident dependingonthedegreeofslope. And, the engine may stall and the power assist for the steeringand brakes will not work so steering and braking will be much harder thanusual which can result in an accident or vehicle damage.
@@ -6548,9 +6941,8 @@ To deactivate the hill hold control system:
 78RB03027
 
 <!-- image -->
-
 ---
-
+## Page 226
 80T050940
 
 <!-- image -->
@@ -6578,7 +6970,9 @@ If water gets into the brake devices, brake performance may become poor and unpr
 ## Power-assistedBrakes
 
 Your vehicle has power-assisted brakes. If power assistance is lost due to a stalled engine or other failures, the system is still fully operational on reserve power and you can bring the vehicle to a complete stop by pressing the brake pedal once and holding it down. The reserve power is partly used up when you depress the brake pedal and reduces each time the pedal is pressed. Apply smooth and evenpressure to the pedal. Do not pump the pedal.
+---
 
+## Page 227
 ## WARNING
 
 Even without reserve power in the brake system, you can still stop the vehicle by pressing the brake pedal harder thannormallyrequired.However, the stopping distance may be longer.
@@ -6619,7 +7013,9 @@ ABS is not designed to shorten the stopping distance.
 - When driving over bumps on the roadssuchasjointseams
 - -When passing over metal plates suchasmanholes
 - Whensnowchainsareinstalled
+---
 
+## Page 228
 ## NOTE:
 
 - ·If you would liketo suddenly apply brake, just push the brake pedal down firmly without pumping. Otherwise, the longerbrakingdistancewillberequired.
@@ -6658,7 +7054,9 @@ Also, do not use the tyres which are excessively worn.
 - Metal plates in construction zones
 
 69RHS150
+---
 
+## Page 229
 69RHS152
 
 <!-- image -->
@@ -6688,7 +7086,9 @@ Also, do not use the tyres which are excessively worn.
 <!-- image -->
 
 - Cobblestone
+---
 
+## Page 230
 ## ABS Warning Light
 
 77R40200
@@ -6715,9 +7115,8 @@ This function assists you in applying more force when operating the brake. When 
 
 - Ifyoudonotdepressthebrakepedal firmly, braking assist will not operate.
 - Brakeassistisnotadevicethatprovides controlbeyondtheoriginalbrakingperformance.
-
 ---
-
+## Page 231
 <!-- image -->
 
 60G409
@@ -6735,7 +7134,9 @@ This function assists you in applying more force when operating the brake. When 
 | Catalytic Converter                       | 6-17  |
 
 6
+---
 
+## Page 232
 ## When Driving
 
 59RN02300
@@ -6764,7 +7165,9 @@ The higher ground clearance of your vehicleenablesittoclearoff-roadobstacles, su
 ## NarrowerBodyWidthandTrack
 
 Your vehicle is narrower than the average passengercarso that itcanpass through tight spaces.Without the essential characteristics describedabove:higher ground clearance,andnarrowerbodywidthand track -your vehicle could not provide you with excellent off-road drivingperformance. However, it is also true that onroad driving,handling,and steering will be different from what drivers experience with a conventionalpassenger car.
+---
 
+## Page 233
 ## On-Paved Road Driving
 
 Thedataofaccidentsshowthatmostrolloveraccidentsformulti-purposevehicles arecausedwhenadriverlosescontrol of thevehicleandleavesthepavedportionof theroadwaystriking aditch,curbor other off-roadobjectthatcausesthevehicleto overturn.The following driving practices mayreducetheriskofrollover.
@@ -6798,7 +7201,9 @@ As mentioned before, small multipurpose vehicleshavespecificdesigncharacteristic
 ## SlowDownonCurves
 
 Learn to approach curves cautiously and at a conservative speed.Donot attempt to takecurvesat the same speeds thatyou would in avehicle with a lower center of gravity. Just as you would not drive a sports car on a trail, you should not attempt to drive your vehicle around curves like a sports car.
+---
 
+## Page 234
 ## Start Driving after Carefully Checking the Surrounding Circumstances
 
 Be sure to always fully check the safety of the  surrounding circumstances before beginning to drive.
@@ -6825,7 +7230,9 @@ Refer to"Avoid Fast Starts, Rapid Acceleration and Hard Braking" and "Do not Rac
 
 - ·Do not operate a mobile phone,etc. while driving. Being distracted by phoneoperationcouldleadtoan accident.
 - Donot operate navigation/audio equipment, etc. while driving. Otherwise, there is the danger of an accident due to being distracted.
+---
 
+## Page 235
 ## Do not Reach Through the Steering Wheel
 
 <!-- image -->
@@ -6863,9 +7270,8 @@ Ifyoudepressboth theacceleratorpedal and thebrakepedalsimultaneouslywhile drivin
 <!-- image -->
 
 Do not put the gearshift lever into the "N" (Neutral) position while driving, except in times of emergency, as this disengages engine braking, which couldresult in an accident.
-
 ---
-
+## Page 236
 - ·You feel that the brake pedal is heavy to use
 
 ## WhatShouldYouDo in Caseof Malfunction or Emergency?
@@ -6903,7 +7309,9 @@ Use engine braking(*) in tandem with regular braking when driving on a long down
 <!-- image -->
 
 For manual transmission vehicle, shift down to a lower gear one by one.
+---
 
+## Page 237
 ## Automatic transmission vehicles
 
 80T060020
@@ -6935,7 +7343,9 @@ At a tunnel exit, on a bridge, or when a large truck passes you, your vehicle mi
 <!-- image -->
 
 Under wet road conditions you should drive at a lower speed than on dry roads due to possible slippage of tyres during braking. When driving on icy, snow-covered,or muddy roads, reduce your speed andavoid suddenacceleration,abrupt braking, or sharp steering movements. Use 4-wheel drive high range (4H) for better traction.
+---
 
+## Page 238
 ## NOTICE
 
 Never operate your vehicle in "4H" or "4L" on dry pavement and, as much as possible, avoid using "4H" or "4L" onwetpavement, as thisputs severe stress on the drive train, especially during tight cornering, and can damage it. Also, you may have some difficulty in steering.
@@ -6960,7 +7370,9 @@ When driving on puddles or on wet road surfaces at high speed, a thin surfaceofw
 
 - ·After verifying the safety of the surroundings, depress the brake pedal several times at low speed and check the brake effectiveness.
 - If the brake effectiveness is still poor, depress the brake pedal at low speed gently and repeatedlyuntil the brake effectiveness is fully recovered, to dry the brake equipment.
+---
 
+## Page 239
 ## Do not Drive Through Deep or Rushing water
 
 61M0075
@@ -6999,7 +7411,9 @@ In addition to following the driving tips in this section,it is important to obs
 - Make sure your tyres are in good conditionandalwaysmaintainthe specified tyre pressure. Refer to "Tyres"in the "INSPECTION AND MAINTENANCE" section for details.
 
 (Continued)
+---
 
+## Page 240
 ## (Continued)
 
 - Do not use tyres other than those specified by Maruti Suzuki. Never use different sizes or types of tyres on the front and rear wheels.For information regarding  the specified tyres, refer to the"SPECIFICATIONS"section.
@@ -7030,9 +7444,8 @@ When driving at highway speeds, pay attention to the following:
 80T060020
 
 <!-- image -->
-
 ---
-
+## Page 241
 - When driving on steep hills, the vehicle maybeginto slowdown and showa lack of power. lf this happens, you should shift to a lower gear so that the engine willagain be operating inits higher powerrange.Shiftrapidlytoprevent the vehiclefrom losingmomentum.
 - When driving down a hill, the engine should be used for braking by shifting to the next lower gear.
 
@@ -7063,7 +7476,9 @@ You and your passengers should use the seatbeltsatalltimeswhendrivingoffroad. Fo
 ## AvoidSuddenReactionsinMud, lce,or Snow
 
 Becarefulwhenoff-roadconditionsare slippery.Reduce your speed and avoid suddenmovementsofthevehicle.Be awarethatdrivingindeepsnowormud cancausealossoftractionandan increaseintheresistancetothevehicle's forward motion.Use 4WD low gear (4L) andmaintainasteadybut moderatespeed with a light touch on the steering wheel and brakes.
+---
 
+## Page 242
 ## Snowchains
 
 Snowchainsshould onlybeused ifthey are needed to increase traction or are required by law.Check that the chainsyou use are the correct size for your vehicle's tyres.
@@ -7107,7 +7522,9 @@ Do not race the engine. Excessive wheelspinwillcausethetyrestodig deeper, making
 Do not allow anyone to stand near thevehiclewhenyouarerocking it, anddonot spinthe wheels faster thananindicated40km/honthe speedometer. Personal injury and/or vehicle damage may result from spinning the wheels toofast.
 
 (Continued)
+---
 
+## Page 243
 <!-- image -->
 
 ## (Continued)
@@ -7141,7 +7558,9 @@ The heavier the load is, the more fuel the vehicle consumes.Unload anyunnecessar
 ## Avoid Excessive idling
 
 If you park your vehicle for more than one minute, stop the engine and start it again later. When warming up a cold engine, do not allow the engine to idle or apply full throttle until the engine has reached operating temperature. Allow the engine to warm up by driving.
+---
 
+## Page 244
 ## Avoid Fast Starts, Rapid Acceleration and Hard Braking
 
 ## Avoidfaststarts
@@ -7179,7 +7598,9 @@ Running the vehicle at a high engine rotation speed by using a low-speed gear wi
 <!-- image -->
 
 If the air cleaner is clogged with dust, there will be greater intake resistance, resulting in decreased power output and increased fuel consumption.
+---
 
+## Page 245
 ## Precaution for Handling
 
 ## Vehicle
@@ -7224,9 +7645,8 @@ Do not install unsuitable parts to your vehicle or do not make your own adjustme
 (Continued)
 
 ## WARNING
-
 ---
-
+## Page 246
 (Continued)
 
 - Onlyatroubleshooting device designed for inspection and maintenance for this model canbe connectedtothevehicle's onboard diagnostics system. Connecting a deviceotherthanthatspecified could hinder the functioning of electronic components and cause battery runout, etc.
@@ -7258,7 +7678,9 @@ The SRS airbag system and the seat belt pretensioner system could activateunexpe
 <!-- image -->
 
 Donot attach accessories to the window glasses. Accessories and suction cups could hinder vision, or a suctioncup could actas alens and cause a fire.Also, if an airbag is activated, such accessories could be ejected outward within the vehicle, possibly resulting in injury.
+---
 
+## Page 247
 ## When Spilling Drinks or Liquids
 
 <!-- image -->
@@ -7314,7 +7736,9 @@ Table 2
 | Specification      | Allvehicles   |
 |--------------------|---------------|
 | Viscosity: SAE(*3) | 0W-16         |
+---
 
+## Page 248
 ## Except for India
 
 | Specification      | All vehicles                                     |
@@ -7348,7 +7772,9 @@ The future performance and reliability ofthe engine depends on the care and rest
 The purpose of the catalytic converter is to minimizetheamountofharmfulpollutants in your vehicle's exhaust. Use of leaded fuel in vehicles equipped with catalytic converters is prohibited，because lead deactivates the pollutant-reducing components of the catalyst system.
 
 The converter is designed to last the life of thevehicleunder normal usage and when unleaded fuel is used.No special maintenance is required on the converter. However,it isveryimportanttokeepthe engine properly tuned. Engine misfiring, which can result from an improperly tuned engine, maycauseoverheatingofthecatalytic converter. This may result in permanent heatdamagetothecatalyticconverterand othervehiclecomponents.
+---
 
+## Page 249
 ## NOTICE
 
 Tominimizethepossibilityofcatalyticconverterorothervehicledamage:
@@ -7368,7 +7794,9 @@ Tominimizethepossibilityofcatalyticconverterorothervehicledamage:
 ## WARNING
 
 Be careful where you park and drive; the catalytic converter and other exhaustcomponentscangetvery hot. As with any vehicle, do not park or operate this vehicle in areas where combustiblematerialssuchasdry grass or leaves can come in contact with a hot exhaust system.
+---
 
+## Page 250
 60G407
 
 <!-- image -->
@@ -7400,9 +7828,8 @@ Be careful where you park and drive; the catalytic converter and other exhaustco
 | Remote Audio Controls (if equipped)                             | .7-33  |
 
 7
-
 ---
-
+## Page 251
 ## Fuel Filler Opening
 
 Make sure to read "Refueling" in this section.
@@ -7436,6 +7863,12 @@ A fuel filler cap is located on the right rear side of the vehicle. The fuel fil
 - ·To open the fuel filler cap, turn it counterclockwise.
 - ·To close the fuel filler cap, turn it clockwise until you hear more than 2 clicks.
 
+> **[DIAGRAM]:** 1. Engine: 2. Transmission: 1. Wheels: 2. Front Seat: 1. Back Seat: 1. Sidecar: 1. Front Seat: 1. Back Seat: 1. Sidecar: 1. Front Seat: 1. Back Seat: 1. Sidecar: 1. Front Seat: 1. Back Seat: 1. Sidecar: 1. Front Seat: 1. Back Seat: 1. Sidecar: 1. Front Seat: 1. Back Se
+
+
+---
+
+## Page 252
 80T070410
 
 <!-- image -->
@@ -7466,7 +7899,9 @@ Be sure to observe the following points when refueling. Otherwise, gasoline may 
 - ·Always stop the engine first.
 - ·As gasoline is highly flammable, open sparks such as lit cigarettes are strictlyprohibited.
 - ·Closeallthedoorsandwindows when refueling.
+---
 
+## Page 253
 ## When Refueling at a Self-service Gas Station
 
 ## WARNING
@@ -7502,7 +7937,9 @@ When refueling at a self-service\_gas station,besuretoobservethefollowing points
 (Continued)
 
 - *Depending on the type of gas pump machine being used, the automaticstopfunctioncould activate early and refueling might notbepossible.Pleasefollowthe instructions of the employees at the gas station.
+---
 
+## Page 254
 ## (Continued)
 
 - ·If fuel spills out, an accident such as a fire may occur. Also, if you leave spilled fuel as it is, it may cause paint staining, discoloration or cracking. Be careful not to spill out fuel. If you spill it out, wipe it off with a soft cloth.
@@ -7541,7 +7978,9 @@ If you come close to a running drive belt or a cooling fan(radiator fan), hands,
 77R50040
 
 - 1）Pull up the hood release lever (1) locatedunder the driver's side instrumentpanelin theoutboard position. This will disengage the hood lock halfway.
+---
 
+## Page 255
 80T070370
 
 <!-- image -->
@@ -7578,8 +8017,11 @@ If you lift up the hood with the wiper arms raised, the wiper arms and the hood 
 
 When you pull out the prop rod from the holding clip, hold the ※ part.
 
----
+> **[DIAGRAM]:** This
 
+
+---
+## Page 256
 ## Closing the Hood
 
 80T070050
@@ -7618,7 +8060,9 @@ The sun visors can be pulled down to block glare coming through the windshield, 
 ## NOTICE
 
 When unhooking and hooking a sun visor,handleitby thehardplastic parts or the sun visor can be damaged.
+---
 
+## Page 257
 ## Card Holder
 
 <!-- image -->
@@ -7664,7 +8108,9 @@ This light switch has three positions which functionasdescribedbelow:
 ## ON (1)
 
 The light comes on and stays on regardless of whether the door is open or closed.
+---
 
+## Page 258
 ## NOTE:
 
 Thelightwillautomaticallybeturnedoffto preventthelead-acidbatteryfromdischargingwhen thefollowing conditions are simultaneouslymet:
@@ -7716,7 +8162,9 @@ Ifyourvehicleisequippedwiththekeyless push start system or the keyless entry sys
 ## OFF (3)
 
 The light remains off even when the door is opened.
+---
 
+## Page 259
 ## Luggage Compartment Light
 
 68PM00510
@@ -7746,7 +8194,9 @@ Thenumberofdoorsinvolvedinthelightingoperationof theinterior lightdepends onthev
 80T070250
 
 <!-- image -->
+---
 
+## Page 260
 Theaccessorysocketwillworkwhenthe ignitionswitchisin"ACC"or"ON"position or the engine switch is in ACC'or ON mode.
 
 When using the accessory socket, open the rubber cap (1).
@@ -7785,8 +8235,11 @@ If the problem persists,ask your Maruti Suzuki authorized workshop for inspectio
 
 Use the drink holder to put a cup with a lid or a bottle with a cap. Also, you can put small articles in the drink holder.
 
----
+> **[DIAGRAM]:** This is an image of a vehicle part.
 
+
+---
+## Page 261
 ## WARNING
 
 Failure to take theprecautions listed below could cause personal injury or vehicle damage.
@@ -7800,7 +8253,9 @@ NOTE:
 
 - ·If you place the keyless remote controllerinadrinkholderorabottleholder,it maynotbedetected.
 - ·Ifyou spillor drop liquid accidentally, haveyourvehicleinspectedbyaMaruti Suzuki authorized workshop.
+---
 
+## Page 262
 ## Storage Area
 
 <!-- image -->
@@ -7827,6 +8282,12 @@ If you use a storage area with a lid, donotdrivethevehiclewiththelid open.In acc
 
 If youplace the keyless remote controller in any of storage areas, it may not be detected.
 
+> **[DIAGRAM]:** This is a diagram or icon.
+
+
+---
+
+## Page 263
 ## Using Storage Area with a Lid Glove box
 
 80T070090
@@ -7865,7 +8326,9 @@ Ride-in assist grip (1) provides solid support for the front passenger when ente
 
 - Donotputanyobjectsbetweenthe passenger side of the dashboard and the ride-in assist grip. When the passenger's airbag is inflated, objects may be flown toward the passenger and may cause serious injury.
 - Front passenger should not grip the ride-in assist grip while seating. In this situation,the passenger would be too close to the inflating airbag, and may suffer severe injury.
+---
 
+## Page 264
 ## Footrest (if equipped)
 
 77R50160
@@ -7892,7 +8355,9 @@ This pocket is provided for holding light and soft things such as gloves, newspa
 NOTE:
 
 If you place thekeylessremote controller in a door pocket, it may not be detected.
+---
 
+## Page 265
 ## USB Socket
 
 80T070060
@@ -7942,9 +8407,8 @@ Observe the following instructions whenusingframehooks.The frame hookorvehiclebo
 - ·Donotuse the frame hooks for towing another vehicle.
 
 In such case,we recommend that you contact a professional service.
-
 ---
-
+## Page 266
 ## Front
 
 78RB05023
@@ -7975,7 +8439,9 @@ When you use the frame hook (2), avoid the driving that gives significant physic
 
 - ·Do not sudden accelerate.
 - Donottowthevehicleheavierthan yourvehicle.
+---
 
+## Page 267
 ## Heating and Air Conditioning System
 
 There are two types of heating and air conditioning systems as follows:
@@ -7994,7 +8460,9 @@ There are two types of heating and air conditioning systems as follows:
 - (3) Side outlet
 - (4) Center outlet
 - (5)Floor outlet
+---
 
+## Page 268
 ## Center outlet
 
 Move the knob (1) vertically or horizontally, to adjust the direction of airflow as desired.
@@ -8014,7 +8482,9 @@ When open, air comes out regardless of the air flow selector position.
 <!-- image -->
 
 Prolonged exposure to hot air from the heater or air conditioner could result in low temperature burns. All vehicle occupants, particularly children, the elderly, those with special needs,individuals with delicate skin, and sleeping individuals, should maintain sufficientdistance from the air outlets to prevent prolonged exposure to hot airflow.
+---
 
+## Page 269
 ## Manual Heating and Air Conditioning System
 
 ## Description of Controls
@@ -8044,7 +8514,9 @@ This is used to turn on the blower and to select blower speed.
 <!-- image -->
 
 This selector is used to select the following modes.
+---
 
+## Page 270
 ## FRESH AIR (a)
 
 When this mode is selected bymoving the lever to the position of(a)inthe above illustration, outside air comes in.
@@ -8084,9 +8556,8 @@ This is used to select one of the following functions.
 <!-- image -->
 
 Temperature-controlled air comes out of the center and side air outlets.
-
 ---
-
+## Page 271
 ## BI-LEVEL (d)
 
 80T070170
@@ -8110,7 +8581,9 @@ Temperature-controlledaircomesoutof the floor outlets and the side outlets,also 
 <!-- image -->
 
 Temperature-controlledaircomesoutof the floor outlets,the windshield defroster outlets,the sidedefrosteroutlets andthe side outlets.
+---
 
+## Page 272
 ## DEFROST (g)
 
 80T070200
@@ -8144,7 +8617,9 @@ Select HEATand FRESH AIR,thetemperature selector to the desired temperatureposit
 ## Quick heating (using recirculated air)
 
 Thebasesettings are thesameasfornormal heating except you select RECIRCULATED AIR. If you use this heating method for an extendedperiod of time,the air in thevehiclemaybecome contaminated and the windows can become misty. Therefore, use this method only for quick heating and changetothenormalheatingmethodas soonaspossible.
+---
 
+## Page 273
 ## OTHERCONTROLSANDEQUIPMENT
 
 ## Head cooled/Feet warmed heating
@@ -8193,6 +8668,12 @@ Ifyouneedmaximumdefrosting:
 - ·If the cooling and heating performance can nolonger perform at a sufficient leveldue toautomaticallystopping engine,press the ENG A-STOP'OFF switchtodeactivatetheENGA-STOP system.(The engine will automatically restart and the air conditioning performance will be restored.)
 - ·If thewindshield and/orthedriver'sside/ passengersidedoorwindowsare fogged during the automatic engine stop, stop the ENG A-STOP system and restart the engine.Then,turn the air flow selector (4) to change the air flow to the HEAT&amp;DEFROSTorDEFROSTposition to defog the windows.
 
+> **[DIAGRAM]:** This is a black and white image of a car.
+
+
+---
+
+## Page 274
 ## Maintenance
 
 If you do not use the air conditioner for a long period, such as during winter, it may not give the best performance when you start using it again. To help maintain optimumperformanceanddurabilityofyourair conditioner, it needs toberunperiodically. Operatetheairconditioneratleastoncea monthforoneminutewiththeengine idling.Thiscirculates therefrigerant and oil and helps protect the internal components.
@@ -8208,7 +8689,9 @@ Your vehicle uses the air conditioning refrigerantHFC-134a,commonlycalledR134a.R
 ## NOTICE
 
 Using the wrong refrigerant may damage your air conditioningsystem.Use R-134a only.Do not mix or replace the R-134awithother refrigerants.
+---
 
+## Page 275
 ## Automatic Heating and Air Conditioning System (climate control)
 
 ## Description of Controls
@@ -8240,9 +8723,8 @@ If you turn the temperature selector (1) until "Hl" or "LO" appears on the displ
 ## NOTE:
 
 Whenyou change the unitof temperature intheinformationdisplay,theunitoftemperature in the air conditioning system will be changed.Referto"InformationDisplay" in"INSTRUMENTCLUSTER"sectionfor details.
-
 ---
-
+## Page 276
 ## Blower speed selector (2)
 
 78RB05038
@@ -8282,7 +8764,9 @@ FRESHAIRandRECIRCULATEDAIRare selected alternately each time the air intakeselec
 If you select RECIRCULATEDAIR for an extendedperiodoftime,theairinthevehiclemaybecomecontaminated.
 
 Therefore, you should occasionally select FRESHAIR.
+---
 
+## Page 277
 ## OTHERCONTROLSANDEQUIPMENT
 
 ## Airflowselector(4)
@@ -8310,7 +8794,9 @@ Temperature-controlled air comes out of thecenterandsideoutlets.
 <!-- image -->
 
 Temperature-controlledair comesoutof the floor outlets and cooler air comes out ofthecenterandsideoutlets.Whenthe temperature selector(1)is in the fully cold position or fully hot position, however, the airfrom theflooroutlets andtheairfrom the center andside outlets will be the same temperature.
+---
 
+## Page 278
 80T070180
 
 <!-- image -->
@@ -8330,7 +8816,9 @@ Temperature-controlled air comes out of the floor outlets, the windshield defros
 <!-- image -->
 
 Push the defrost switch(5) to turn on the defroster.
+---
 
+## Page 279
 ## DEFROST
 
 80T070200
@@ -8368,7 +8856,9 @@ The blower speed, air intake and air flow arecontrolledautomaticallytomaintainth
 ## NOTE:
 
 Whentherecirculatedairmodeisselected, the automatic operation system is deactivated even if you push"AUTO"switch (8).
+---
 
+## Page 280
 You can use the air conditioning switch (6) tomanually turn the air conditioner on or off according to your preference. When you turn the air conditioning switch off, the climatecontrol system cannot lower the inside temperaturebelowoutsidetemperature.
 
 To turn the climate control system off, push "OFF" switch (7).
@@ -8397,9 +8887,8 @@ If "AUTO" in the display blinks, there is a problemintheheatingsystemand/orair c
 <!-- image -->
 
 Becarefulnottocovertheinteriortemperaturesensor(1o)located betweenthe steeringwheelandthe climatecontrol panel,orthesolarsensor(11）locatedat the top of the passenger's side dashboard. Thesesensorsareusedbytheautomatic system to regulate temperature.
-
 ---
-
+## Page 281
 ## Manualoperation
 
 You canmanuallycontrol the climatecontrolsystem.Settheselectorstothe desired positions.
@@ -8444,6 +8933,12 @@ Using the wrong refrigerant may damage your air conditioning system.Use R-134a o
 
 After parking for a long time under the blazing sun,the interior temperaturecan become very high. Use the air conditioning system,withthewindowsordoorsopened to ventilate the interior.
 
+> **[DIAGRAM]:** This is a black and white image of a car.
+
+
+---
+
+## Page 282
 ## Radio Antenna Removal and Installation
 
 <!-- image -->
@@ -8461,7 +8956,9 @@ The radio antenna onthe roof is removable. To remove the antenna, turn it counte
 ## Installation of Radio Frequency Transmitters
 
 We recommend that you always ask an authorizedMarutiSuzukiworkshopabout frequency band, max output power, antennapositionofvehicleandspecific conditionsforinstallationand/orusebefore installing a radio transmitter in your vehicle. Such equipments may cause the electronic control system to malfunction if they areincorrectlyinstalledortheyarenot suited for thevehicle.
+---
 
+## Page 283
 ## Audio Function
 
 ## When Using Audio System with AppropriateVolumenot toDisturb Safe Driving
@@ -8513,7 +9010,9 @@ Theremoteaudioswitchesareavailable when the ignition switch is in"ACC"or "ON" po
 ## NOTE:
 
 To use the button (5), (6) or (7), press each button in the arrow direction as shown in theillustration.
+---
 
+## Page 284
 ## Volume Switch (1)
 
 Youcanadjustvolumewiththisswitch.
@@ -8571,7 +9070,9 @@ The Bluetooth? word mark and logo are registered trademarks and are owned by the
 Thisunitsharesthecommunicationfrequency with other private or public wireless communicationequipmentsuchas a wirelessLANandother wireless communication radios.
 
 You should stop using this unit immediately wheneveryouarenotifiedthatyourunit disturbs otherwirelesscommunication.
+---
 
+## Page 285
 <!-- image -->
 
 54G215
@@ -8587,9 +9088,8 @@ Trailer Towing
 8-1
 
 8
-
 ---
-
+## Page 286
 ## Vehicle Loading
 
 Yourvehiclewasdesignedforspecific weight capacities.The weight capacities of your vehicle areindicated by the Gross VehicleWeightRating(GVWR）andthe Permissible maximum Axle Weight(PAW, front and rear).The GVWRandPAW(front and rear）are listed in the"SPECIFICATIONS"section.
@@ -8612,7 +9112,9 @@ Your vehicle was originally designed to carry people and a normal amount of carg
 ## NOTE:
 
 Ifyourvehicleneedstobetowed in an emergency, refer to ""Towing your vehicle" in"EMERGENCYSERVICE"section.
+---
 
+## Page 287
 60G410
 
 <!-- image -->
@@ -8644,7 +9146,9 @@ Ifyourvehicleneedstobetowed in an emergency, refer to ""Towing your vehicle" in"
 | Preparation Before Winter Season | 9-48   |
 
 9
+---
 
+## Page 288
 <!-- image -->
 
 59RN05750
@@ -8679,7 +9183,9 @@ tion.
 - Keep used oil,coolant, and other fluids awayfrom children andpets. Disposeofusedfluids properly; neverpourthemontheground, intosewers,etc.
 
 ## WARNING
+---
 
+## Page 289
 ## Maintenance Schedule
 
 The following table shows the times when you should perform regular maintenance on your vehicle. This table shows in kilometers and monthswhenyou should perform inspections, adjustments, lubrication andotherservices.
@@ -8707,7 +9213,9 @@ MARUTISUZUKIrecommendsthat maintenanceonyourMaruti Suzuki vehicleshouldbeperform
 Forfreeinspectionthecostofmaterialsandconsumablestobebornebycustomer.
 
 This table includesservices as scheduled upto80,000km mileage.Beyond 80,000km, carryoutthesameservicesatthesameintervalsrespectively.
+---
 
+## Page 290
 ## INSPECTIONANDMAINTENANCE
 
 |                                                                                   |                                                                       |                                                               | FREEINSPECTION                                                          |    |    | PERIODICMAINTENANCEATCOST   |    |    |    |    |    |    |
@@ -8738,9 +9246,8 @@ This table includesservices as scheduled upto80,000km mileage.Beyond 80,000km, c
 | 4-1. Clutch fluid (Level, Leakage)                                                |                                                                       |                                                               |                                                                         |    |    |                             |    |    |    |    |    |    |
 |                                                                                   |                                                                       | Replace after every40,000km or 24 months whichever comesfirst |                                                                         |    |    |                             |    |    |    |    |    |    |
 | 4-2.                                                                              | Clutch slipping (Dragging or ExcessDamage)                            |                                                               |                                                                         | 一  |    |                             |    |    |    |    |    |    |
-
 ---
-
+## Page 291
 |                                                                                     |                                                                                     |                                                                                 | FREEINSPECTION                                                     | FREEINSPECTION                                                     | FREEINSPECTION                                                     | PERIODICMAINTENANCEATCOST                                          | PERIODICMAINTENANCEATCOST                                          | PERIODICMAINTENANCEATCOST                                          | PERIODICMAINTENANCEATCOST                                          | PERIODICMAINTENANCEATCOST                                          | PERIODICMAINTENANCEATCOST                                          | PERIODICMAINTENANCEATCOST                                          |
 |-------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|
 | Interval:Thisintervalshouldbejudgedbyodome- terreadingormonths,whichevercomesfirst. | Interval:Thisintervalshouldbejudgedbyodome- terreadingormonths,whichevercomesfirst. | km (x1000)                                                                      | 1                                                                  | 5                                                                  | 10                                                                 | 20                                                                 | 30                                                                 | 40                                                                 | 50                                                                 | 60                                                                 | 70                                                                 | 80                                                                 |
@@ -8768,7 +9275,9 @@ This table includesservices as scheduled upto80,000km mileage.Beyond 80,000km, c
 | 7-1. Tires (Air pressure,Abnormal wear, Crack and Rotation)                         | 7-1. Tires (Air pressure,Abnormal wear, Crack and Rotation)                         | 7-1. Tires (Air pressure,Abnormal wear, Crack and Rotation)                     | 一                                                                  | 1&0                                                                | 1&0                                                                |                                                                    | 1&0                                                                | 1&0                                                                | 1&0                                                                | 1&0                                                                | 1&0                                                                |                                                                    |
 | 7-2.                                                                                | Wheels(Damage)                                                                      | Wheels(Damage)                                                                  | 一                                                                  |                                                                    | 1                                                                  |                                                                    |                                                                    | 1                                                                  |                                                                    | 一                                                                  |                                                                    |                                                                    |
 | 7-3.                                                                                | Front/Rear wheel bearing (Loose, Damage)                                            | Front/Rear wheel bearing (Loose, Damage)                                        | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  | 一                                                                  |
+---
 
+## Page 292
 |                                                                                              |                                                                                              |                                                            | FREEINSPECTION   | FREEINSPECTION   | FREEINSPECTION   | PERIODICMAINTENANCEATCOST   | PERIODICMAINTENANCEATCOST   | PERIODICMAINTENANCEATCOST   | PERIODICMAINTENANCEATCOST   | PERIODICMAINTENANCEATCOST   | PERIODICMAINTENANCEATCOST   | PERIODICMAINTENANCEATCOST   |
 |----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------|------------------|------------------|------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 | eter reading or months, whichever comes first. Interval:This interval shouldbe judgedbyodom- | eter reading or months, whichever comes first. Interval:This interval shouldbe judgedbyodom- | km (x1000)                                                 | 1                | 5                | 10               | 20                          | 30                          | 40                          | 50                          | 60                          | 70                          | 80                          |
@@ -8794,7 +9303,9 @@ This table includesservices as scheduled upto80,000km mileage.Beyond 80,000km, c
 ## WARNING
 
 The shock absorbers are filled with high pressure gas. Never attempt to disassemble them or throw them into a fire. Avoid storing them near a heater or heating device. When scrapping the absorber, the gas must be released from the absorber safely.AskyourMarutiSuzuki authorizedworkshopforassistance.
+---
 
+## Page 293
 |                                                                                         |                                                                                         |                                                          | FREE INSPECTION   | FREE INSPECTION   | FREE INSPECTION   | PERIODICMAINTENANCE AT COST   | PERIODICMAINTENANCE AT COST   | PERIODICMAINTENANCE AT COST   | PERIODICMAINTENANCE AT COST   | PERIODICMAINTENANCE AT COST   | PERIODICMAINTENANCE AT COST   | PERIODICMAINTENANCE AT COST   |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------|-------------------|-------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
 | Interval:Thisinterval shouldbejudgedbyodom- eterreading or months,whichever comesfirst. | Interval:Thisinterval shouldbejudgedbyodom- eterreading or months,whichever comesfirst. | km (x1000)                                               | 1                 | 5                 | 10                | 20                            | 30                            | 40                            | 50                            | 60                            | 70                            | 80                            |
@@ -8814,7 +9325,9 @@ The shock absorbers are filled with high pressure gas. Never attempt to disassem
 | 13-6.                                                                                   | Checkbelt for frayed edges                                                              | Checkbelt for frayed edges                               | 一                 | 一                 | 一                 | 一                             | 一                             | 一                             | 一                             | 一                             | 一                             | 一                             |
 | 13-7.                                                                                   | Check all mounting bolts                                                                | Check all mounting bolts                                 | 一                 | 一                 | 一                 | 一                             | 一                             | 一                             | 一                             |                               | 一                             | 一                             |
 | 13-8.                                                                                   | Air conditioner filterelement                                                           | Air conditioner filterelement                            | 一                 | 一                 | 一                 | 一                             | R                             | 一                             | 一                             | R                             | 一                             | 一                             |
+---
 
+## Page 294
 ## Drive Belt
 
 ## WARNING
@@ -8864,7 +9377,9 @@ For India, be sure that the engine oil you use comesunder the qualityclassificat
 SAE 0W-16 (1) is the best choice for good fuel economy and good startability in cold weather.
 
 56RM07013
+---
 
+## Page 295
 ## Except for India
 
 <!-- image -->
@@ -8907,8 +9422,11 @@ Failure to check the oil level regularly couldlead toserious engine trouble due 
 
 Remove the oil filler cap and pour oil slowly through the filler hole to bring the oil level to the upper limit on the dipstick. Be careful not to overfill the oil. Toomuch oil is almost as bad as too little oil. After refilling, start the engine and allow it to idle for about a minute. Stop the engine, wait about 5 minutes and check the oil level again.
 
----
+> **[DIAGRAM]:** This
 
+
+---
+## Page 296
 ## INSPECTIONANDMAINTENANCE
 
 ## Changing Engine Oil and Filter
@@ -8955,6 +9473,16 @@ Tightening torque for drain plug: 35 Nm (3.6 kg-m)
 
 AskyourMaruti Suzuki authorized workshopfor changing engine oil andfilter if youhave difficulties.
 
+> **[DIAGRAM]:** The image is a black and white technical diagram or icon. The diagram is of an engine, specifically a large, complex engine with various components and parts. The engine is shown in a three-dimensional view, with the components and parts clearly visible.
+
+The engine is shown in a three-dimensional view, which means it is a three-dimensional object that can be viewed from different angles. The engine is shown in a perspective view, with the front and back of the engine visible. The engine is shown in a cross-sectional view, with the parts and components clearly visible.
+
+The engine is labeled with various labels,
+
+
+---
+
+## Page 297
 ## Oil Filter Replacement
 
 80T090040
@@ -8997,6 +9525,12 @@ For the approximate capacity of the oil, referto"Recommended fuel /lubricants an
 - 2) Start the engine and carefully check the oil filter and the drain plug for leakage. Run the engine at various speeds for at least5 minutes.
 2. 3)Stop theengineandwait about 5minutes.Check the oil levelagainand add oilif necessary. Check for leakage again.
 
+> **[DIAGRAM]:** This
+
+
+---
+
+## Page 298
 ## NOTICE
 
 - When replacing the oil filter, it is recommended that you use a genuineMarutiSuzukireplacement filter.Ifyouuse anaftermarketfilter, check that it is of equivalent quality andfollowthemanufacturer's instructions.
@@ -9033,7 +9567,9 @@ To avoid damaging your cooling system:
 ## CoolantLevelCheck
 
 Checkthecoolantlevelatthereservoir tank,not at the radiator.With the engine cool,thecoolantlevelshouldbebetween "FULL"and"LOW"marks.
+---
 
+## Page 299
 ## Adding Coolant
 
 <!-- image -->
@@ -9066,6 +9602,12 @@ When putting the cap on the reservoir tank, line up the mark on the cap and them
 
 Since special procedures are required, ask your Maruti Suzuki authorized workshop for this job.
 
+> **[DIAGRAM]:** The
+
+
+---
+
+## Page 300
 ## Air Cleaner
 
 If the air cleaner is clogged with dust, there will be greater intake resistance, resulting in decreased power output and increased fuel consumption.
@@ -9105,9 +9647,8 @@ During installation, check that the wires, couplers,sealing rubber of air cleane
 
 - When pulling out the ignition coils, do not pull on the cable. Pulling on the cable can damage it.
 - ·When servicing theiridium/platinum spark plugs (slender center electrode type plugs), do not touch thecenterelectrode,asitiseasyto be damaged.
-
 ---
-
+## Page 301
 <!-- image -->
 
 60G160S
@@ -9151,7 +9692,9 @@ To check the fluid level:
 
 - 1） To warm up the transmission fluid, drive thevehicleoridletheengineuntilthe engine coolant temperature light (blue color) goes off.
 - 2) Then drive for ten more minutes.
+---
 
+## Page 302
 ## NOTICE
 
 Besuretousethespecifiedautomatic transmission fluid. Using automatic transmission fluid other than SUZUKIATF3317orMobilATF3309 may damage the automatic transmissionofyourvehicle.
@@ -9192,6 +9735,12 @@ Be sure to depress the brake pedal when moving the gearshift lever, or the vehic
 
 After checking or adding oil,be sure to insert the dipstick securely.
 
+> **[DIAGRAM]:** This is a 3D image of a vehicle.
+
+
+---
+
+## Page 303
 ## Changing Oil
 
 Since special procedures, materials, and tools are required to change the automatic transmission oil,ask your Maruti Suzuki authorized workshop for this job.
@@ -9228,7 +9777,9 @@ We highly recommend you use "MARUTI GENUINEGEAROIL75W-85"for front/ rear differe
 
 - (1) Oil filler and level plug
 - (2) Oil drain plug
+---
 
+## Page 304
 ## Transfer
 
 80T090110
@@ -9264,7 +9815,9 @@ For the transfer and front/rear differential;
 ## Tightening torque for oil filler and level plug
 
 Manual transmission (1)(2): 23 Nm (2.3 kg-m) Transfer (3)(4): 23 Nm (2.3 kg-m) Front/rear differential (5)(6): (5)50 Nm (5.0 kg-m) (6)55 Nm (5.6 kg-m)
+---
 
+## Page 305
 ## ACAUTION
 
 After driving the vehicle, the gear oil temperature may be high enough to burn you. Wait until the oil filler and level plug are cool enough to touch with your bare hands before inspecting gear oil level.
@@ -9298,9 +9851,8 @@ Check the clutchpedal for smoothoperation and clutch fluid level from time to ti
 ## NOTICE
 
 Clutch fluid is supplied from brake fluid reservoir.Ifyour clutchfluidlevelis increased or near the "MiN" line, there is a possibility of clutch or brake fluid leakage or abnormal wear of clutch. Have your vehicle inspected by Maruti Suzuki authorized workshop.
-
 ---
-
+## Page 306
 ## Brakes
 
 ## Brake Fluid
@@ -9331,7 +9883,9 @@ Check the brake fluid level by looking at thereservoir in theengine compartment.
 - Brakefluidcandamage painted surfaces. Be careful when refilling the reservoir.
 
 ## WARNING
+---
 
+## Page 307
 ## NOTE:
 
 - ·Thefluid level canbe expected to graduallyfallasthebrakepadand/orshoe wear.
@@ -9361,7 +9915,9 @@ Ifthepedaltofloorcarpetdistanceas measured aboveislessthan theminimum distance r
 
 - ·When measuring the distance between thebrakepedalandfloorwall,besure nottoincludethefloormatorrubberon thefloor carpet inyour measurement.
 - ·Measurethedistanceatthebrake pedal's side facing toward thedriver's door.
+---
 
+## Page 308
 52RM70500
 
 <!-- image -->
@@ -9394,7 +9950,9 @@ If you experience any of the following problems with your vehicle's brake system
 Ratchet tooth specification"b": 4th-9th Lever pull force (1): 200 N (20 kg)
 
 Check the parking brake for proper adjustment by countingthe number of clicks madeby theratchet teeth as you slowly pull up on the parking brake lever to the point of full engagement. The parking brake lever should stop between the specifiedratchetteethandtherearwheels should be securely locked. If the parking brake is not properly adjusted or the brakes dragis suspected evenafter the lever hasbeenfully released,have the parking brake inspected and/or adjusted by a Maruti Suzuki authorized workshop.
+---
 
+## Page 309
 ## BrakeDiscs and BrakeDrums Brake disc
 
 <!-- image -->
@@ -9426,7 +9984,9 @@ Steering wheel play "c": 0-30mm
 Check the free play of the steering wheel by gently turning it from left to right and measuring the distance that it moves before you feel slight resistance. The play should bebetween the specified values.
 
 Checkthatthesteeringwheelturns easily and smoothly without rattling by turning it all theway to theright and to theleftwhile drivingveryslowlyinanopenarea.Ifthe amount of free play is not as specified or you find anything else to be wrong, an inspection must be performed by a Maruti Suzuki authorized workshop.
+---
 
+## Page 310
 ## Tyres
 
 80T090180
@@ -9461,9 +10021,8 @@ Under-inflation can cause unusual handling characteristics or can cause the rim 
 - (2) Indicator location mark
 - 2）Check thatthedepthofthetread groove is more than 1.6 mm. To help you check this, the tyres have moldedintreadwearindicatorsinthegrooves. When the indicators appear on the tread surface, the remaining depth of the tread is 1.6 mm or less and the tyre should be replaced.
 - 3) Check for abnormal wear, cracks and damage. Any tyres with cracks or other damage should be replaced.If any tyres show abnormal wear, have them inspected by a Maruti Suzuki authorized workshop.
-
 ---
-
+## Page 311
 <!-- image -->
 
 ## ACAUTION
@@ -9504,7 +10063,9 @@ Hitting curbs and running over rocks can damage tyres and affect wheel alignment
 80T090200
 
 65D459
+---
 
+## Page 312
 ## INSPECTIONANDMAINTENANCE
 
 To avoid uneven wear of your tyres and to prolong their life,rotatethetyres asillustrated. Tyres should be rotated every 100oo km.After rotation,adjust front and rear tyre pressures to the specification listed on your vehicle's Tyre Information Label.
@@ -9544,7 +10105,9 @@ The vehicle is equipped with Tubeless Tyres. In tubeless tyre, a thin layer of b
 - When checking or servicing the battery, disconnect the negative cable.Becarefulnottocausea shortcircuitbyallowingmetal objects to contact the battery posts andthevehicleatthesametime.
 - Toavoidharmtoyourselfordamagetoyourvehicleorbattery,follow the jump-starting instructions in"EMERGENCYSERVICE"SeCtion if it is necessary to jump-start yourvehicle.
 - Diluted sulfuric acid spilled from battery can cause blindness or severe burns. Use proper eye protection and gloves. Flush eyes or bodywithamplewater andget medicalcareimmediatelyifsuffered. Keep batteries out of reach of children.
+---
 
+## Page 313
 80T090530
 
 <!-- image -->
@@ -9572,7 +10135,9 @@ If the battery is used with battery levelbeinglessthanthelowerlevel line "MiN" (
 The battery liquid is consumed when the batteryisused.Ifthelevelisfoundtobe less than the center ofupperlevel"MAX" (1） and lower level "MIN"(2),add distilled water tillitreachestheupperlevelline "MAX"(1).
 
 ## NOTICE
+---
 
+## Page 314
 ## INSPECTIONANDMAINTENANCE
 
 ## Replacementofthebattery
@@ -9607,7 +10172,9 @@ Batteries contain toxic substances including sulfuric acid and lead. They couldh
 ## NOTICE
 
 After stopping the engine, controller and system are operated for a while. Therefore,beforeremoving thebattery, wait for more than one minute after turning theignition switch to "OFF" or changing the ignition mode to "LOCK"(OFF).
+---
 
+## Page 315
 ## (Battery label)
 
 (5) Crossed-out wheeled bin symbol (6) Chemical symbol of "Pb"
@@ -9655,9 +10222,8 @@ To remove a fuse, use the fuse puller provided in the fuse box cover.
 <!-- image -->
 
 78RB07022
-
 ---
-
+## Page 316
 ## INSPECTIONANDMAINTENANCE
 
 ## Relay box
@@ -9709,7 +10275,9 @@ To remove a fuse, use the fuse puller provided in the fuse box cover.
 The main fuse, primaryfuses and some of engine compartment. If the main fuse the eindividualfusesarelocatedinthe blows, no electrical component will function. If a primary fuse blows, no electrical component  in  the corresponding load group will function. When replacing the main fuse, a primary fuse or an individual fuse, use a genuine Maruti Suzuki replacement parts or equivalent for individual fuses.
 
 To remove a fuse,use the fuse puller provided in the fuse box. The amperage of eachfuseis shownin thebackof thefuse box cover.
+---
 
+## Page 317
 55T090620
 
 <!-- image -->
@@ -9753,6 +10321,12 @@ spare fuses.
 | (19)          | 5A            | CONT                      |
 | (20)          | 5A            | Key 2                     |
 
+> **[DIAGRAM]:** This is a diagram of a car.
+
+
+---
+
+## Page 318
 <!-- image -->
 
 | (21)   | 20 A   | Power window timer   |
@@ -9784,7 +10358,9 @@ spare fuses.
 ## Headlight Aiming
 
 Since special procedures are required, ask your Maruti Suzuki authorized workshop for this job.
+---
 
+## Page 319
 ## Bulb Replacement
 
 <!-- image -->
@@ -9809,7 +10385,9 @@ Since special procedures are required, ask your Maruti Suzuki authorized worksho
 If you need to replace the following lights indicated in the above table, consult with a Maruti Suzuki authorized workshop.
 
 - *1: Since the lights are non-disassemble type, you cannot replace a bulb. Replace the target assembly if any light is defective.
+---
 
+## Page 320
 <!-- image -->
 
 ## ACAUTION
@@ -9842,9 +10420,8 @@ If you need to replace the assembly, ask your Maruti Suzuki authorized workshop.
 - Position light (vehicle with LED headlights)
 - Side turn signal light on fender
 - High mount stop light
-
 ---
-
+## Page 321
 ## Headlights
 
 ## LED type
@@ -9877,6 +10454,12 @@ Since special procedures are required, it is recommended that you take your vehi
 
 NOTE: You can see the position of retaining spring from theholeofheadlight.
 
+> **[DIAGRAM]:** This
+
+
+---
+
+## Page 322
 ## Front Turn Signal Light and Front Position Light
 
 For front LED position light (if equipped), it is recommended that you take your vehicle to aMaruti Suzuki authorizedworkshopfor light replacement since special procedures are required.
@@ -9903,6 +10486,12 @@ For front LED position light (if equipped), it is recommended that you take your
 
 - 1) Open the engine hood while the engine is stopped.To remove the bulbholder of the front turn signal light or the front positionlight(for vehicle withhalogen headlights) from the light housing, turn theholdercounterclockwiseandpull it out.
 
+> **[DIAGRAM]:** This
+
+
+---
+
+## Page 323
 2
 
 <!-- image -->
@@ -9930,7 +10519,9 @@ Since the bulb is built-in type, replace it as thelightassembly.Remove thelight 
 80T090540
 
 <!-- image -->
+---
 
+## Page 324
 78RB07033
 
 <!-- image -->
@@ -9961,7 +10552,9 @@ Since the bulb is built-in type, replace it as thelightassembly.Remove thelight 
 80T090430
 
 <!-- image -->
+---
 
+## Page 325
 - 3）Toremove thebulbholderof the above light from the light housing, turn the holder counterclockwise andpull it out.
 - (7) Removal
 - (8) Installation
@@ -9985,9 +10578,8 @@ Since the bulb is built-in type, replace it as thelightassembly.Remove thelight 
 ## High-mount Stop Light
 
 LED is used. It is recommended that you take your vehicle to a Maruti Suzuki authorized workshop for light replacement since special procedures are required.
-
 ---
-
+## Page 326
 ## Interior Light
 
 ## Front
@@ -10012,6 +10604,12 @@ LED is used. It is recommended that you take your vehicle to a Maruti Suzuki aut
 
 - 1） To prevent scratches, insert a commercially available flat-blade screwdriver coveredwithasoftclothinto thenotch (1), and then remove the lens (2).
 
+> **[DIAGRAM]:** This is the door handle.
+
+
+---
+
+## Page 327
 55T090050
 
 <!-- image -->
@@ -10037,6 +10635,14 @@ LED is used. It is recommended that you take your vehicle to a Maruti Suzuki aut
 
 <!-- image -->
 
+> **[DIAGRAM]:** The image depicts a white refrigerator with a rectangular shape and a metallic finish. The refrigerator has a sleek and modern design, with a smooth, shiny surface that reflects light, giving it a sleek and contemporary appearance. The refrigerator has a single door, which is slightly open, allowing a glimpse of the interior.
+
+The door is rectangular with a smooth, shiny surface, and it is slightly curved at the top, giving it a sleek and modern look. The door is open, revealing a glimpse of the interior, which is filled with a variety of items. The interior is filled with a variety of items, including a variety of food items
+
+
+---
+
+## Page 328
 ## INSPECTIONANDMAINTENANCE
 
 ## Headlight Washer Fluid
@@ -10081,6 +10687,12 @@ To install new wiper blades, follow the proceduresbelow.
 
 To avoid scratching or breaking the window, do not let the wiper arm strike the window while replacing the wiper blade.
 
+> **[DIAGRAM]:** This is a black and white image of an industrial machine.
+
+
+---
+
+## Page 329
 ## NOTE:
 
 Some wiper blades may be different from theones described heredependingon vehicle specifications. If so, consult with a Maruti Suzuki authorized workshopfor proper replacement method.
@@ -10101,7 +10713,9 @@ Some wiper blades may be different from theones described heredependingon vehicl
 59RN09250
 
 - 3) Unlock the lock end of the wiper blade and slide the blade out as shown.
+---
 
+## Page 330
 <!-- image -->
 
 - (3) Retainer
@@ -10130,9 +10744,8 @@ When you install the metal retainers (3), makesurethedirectionofmetalretainers a
 | NOTICE                                                                                                                                        |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Fit the stopper side (5) of the wiper blade in the driver's seat side. Otherwise, the wiper blade may be misaligned while the wiper operates. |
-
 ---
-
+## Page 331
 ## For Rear Window Wiper
 
 <!-- image -->
@@ -10165,7 +10778,9 @@ Returntherearwiperarmslowlyafter removingtherearwiperblade.
 77R60030
 
 <!-- image -->
+---
 
+## Page 332
 63R60180
 
 <!-- image -->
@@ -10193,6 +10808,12 @@ Check that there iswasher fluid in the tank in the engine room. Refill it if nec
 - Donotuseradiatorantifreezein thewindshieldwasherreservoir. This can severely impair visibility when sprayed on the windshield, and also can damage your vehicle's paint.
 - Do not add washer fluid when the engine is hot or operating as washerfluidcontainsalcoholand may catch fire if spilled on the engine, etc.
 
+> **[DIAGRAM]:** This is a black and white image of an industrial machine.
+
+
+---
+
+## Page 333
 | Damage mayresult if the washer motor is operated withno fluid in the washer tank. Avoiduseofhardwater toprevent building of lime scale on the vehi- cle.   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
@@ -10209,7 +10830,9 @@ Since special procedures are required, ask your Maruti Suzuki authorized worksho
 <!-- image -->
 
 - 1）To approach the air conditioner filter, remove the glove box by pressing both sides of the glove box inward and pulling it out.
+---
 
+## Page 334
 80T090310
 
 <!-- image -->
@@ -10230,7 +10853,9 @@ Do not apply excessive force to the tabwhenremoving theholder.Otherwise, the tab
 - 4) Pull out the air conditioner filter (3)
 
 NOTE: When you install a new filter, check that the UP mark (4) faces upward.
+---
 
+## Page 335
 ## Preparation Before Winter Season
 
 ## WindshieldWasherFluid
@@ -10267,9 +10892,8 @@ Winter tyresand chocks arenecessaryto drive on the snow roads or the frozen road
 <!-- image -->
 
 Remove snow on the roof before your driving. If you do not remove it, snow may fall during your driving and it may hinder your view.
-
 ---
-
+## Page 336
 ## FrozenWiperBlades
 
 65P60060
@@ -10293,7 +10917,9 @@ Use the plastic board (1). You can remove snowandfrostnottodamagethewindow glass
 <!-- image -->
 
 Melt ice by pouring lukewarm water. After melting it, wipe'off water to prevent refreezing. If you operate the outside rearviewmirrorsforcedlywhenicestaysfreezing, the outside rearview mirrors may be broken.
+---
 
+## Page 337
 ## NOTICE
 
 - For the outsiderearviewmirror folding switch, check if you can move the mirrors by your hands first. Then, operate the switch. If you repeat to operate the switch when ice stays freezing,the mirrors may be broken.
@@ -10314,7 +10940,9 @@ Pourlukewarmwaterexceptthekeyhole on the door. After opening the door, wipe off 
 <!-- image -->
 
 Remove snow attaching to shoes before getting in your vehicle. lf you do not remove it, you may slip when operating the pedals and the window glasses may mist easily because of high humidity inside the vehicle.
+---
 
+## Page 338
 ## When Parking the Vehicle Outside
 
 <!-- image -->
@@ -10327,7 +10955,9 @@ Remove snow attaching to shoes before getting in your vehicle. lf you do not rem
 - If you park the vehicle outside when it is snowing,the wiper arms may be deformed or the wiper blades may be frozen on the windshield by snow weight. Raise the wiper arms away from the windshield when parking the vehicle.
 
 When it is snowing, do not park the vehicleundereavesortrees.
+---
 
+## Page 339
 <!-- image -->
 
 60G411
@@ -10345,7 +10975,9 @@ When it is snowing, do not park the vehicleundereavesortrees.
 | Engine Trouble: Does not Start           | .10-12 |
 | Engine Trouble: Overheating              | .10-13 |
 | Warning Triangle.                        | .10-14 |
+---
 
+## Page 340
 ## Towing Your Vehicle
 
 If you need to have your vehicle towed, contactaprofessionalservice.AMaruti Suzuki authorized workshop can provide you with detailed towing instructions.
@@ -10376,9 +11008,8 @@ Observe the following instructions when towing your vehicle.
 
 - To help avoid damage to your vehicle during towing, proper equipmentand towing proceduresmust be used.
 - ·Using the frame hook, tow your vehicleon paved roads for short distances at low speed.
-
 ---
-
+## Page 341
 ## Before towing
 
 80TM10001
@@ -10398,7 +11029,9 @@ If your vehicle is disabled, and if the steering and drive train are in good con
 ## Frontwheels lifted
 
 Your vehicle may be towed by a tow truck with the front wheels lifted and a dolly undertherearwheels.
+---
 
+## Page 342
 <!-- image -->
 
 - (a)Vehicle without keyless push start system
@@ -10427,7 +11060,9 @@ Ifthe air-locking hubscannotbe unlocked,tow the vehicle with the rear wheels lif
 Thesteeringcolumn lockisnot strong enough to withstand shocks transmitted from the front wheels during towing.
 
 - 5) Make sure the front wheels are facing straight forward and secure the steering wheel with a steering wheel clamping device designed for towing service.
+---
 
+## Page 343
 ## Jacking Instructions
 
 - 1）Place the vehicle on level,hard ground.
@@ -10454,7 +11089,9 @@ Thesteeringcolumn lockisnot strong enough to withstand shocks transmitted from t
 80T100040
 
 <!-- image -->
+---
 
+## Page 344
 80T100050
 
 <!-- image -->
@@ -10471,7 +11108,9 @@ Thesteeringcolumn lockisnot strong enough to withstand shocks transmitted from t
 - ·No person should place any portionoftheirbodyunderavehicle that is supported by a jack. Never placeyourhandsorfeetunder the raisedvehicle when it is supported by a jack.
 - Do not use wooden blocks or similar objects as a jack underlay.
 - ·Never run the engine when the vehicle is supportedby the jack andneverallowpassengersto remainin thevehicle.
+---
 
+## Page 345
 ## Raising Vehicle with Garage Jack
 
 - ·Apply the garage jack toone of the points indicated below.
@@ -10493,9 +11132,8 @@ As the vehicle may get damaged or an accident may occur, observe the following p
 80T100030
 
 <!-- image -->
-
 ---
-
+## Page 346
 ## Changing Wheels
 
 ## WARNING
@@ -10537,7 +11175,9 @@ Carefully lower the spare wheel to the ground.
 
 - Shift into "p" (Park) for an automatic transmission,or into "R"(Reverse) for amanual transmissionvehicle when you jack up the vehicle.
 - Never jack up thevehicle with the transmission in "N" (Neutral). Otherwise,unstable jack may cause an accident.
+---
 
+## Page 347
 ## !CAUTION
 
 <!-- image -->
@@ -10565,7 +11205,9 @@ Immediatelyafterthevehiclehas been driven,the wheels,the wheel nutsand theareaar
 ## WARNING
 
 Use genuine wheel nuts and tighten them to the specified torque assoon as possible after changing wheels. Incorrectwheelnutsorimproperly tightened wheel nuts may come loose or fall off, which can result in anaccident.If youdonot have a torque wrench, have the wheel nut torque checked by a Maruti Suzuki authorized workshop.
+---
 
+## Page 348
 80T070510
 
 <!-- image -->
@@ -10596,7 +11238,9 @@ If you install the bracket upside down,the centernutofthesparewheelhalfcover wil
 ## NOTICE
 
 Donot tightenthenut more thannecessary. The spare wheel half cover may be damaged.
+---
 
+## Page 349
 ## Jump-starting Instructions
 
 ## WARNING
@@ -10626,7 +11270,9 @@ Your vehicle should not be started by pushing or towing. This starting method co
 3. Connect one end of the second jump lead to the negative (-) terminal of the booster battery (2).
 4. 2.Connect the other end to thepositive (+）terminal of the booster battery (2).
 5. 4.Make the finalconnection to an unpainted, heavy metal part (3) of enginecylinderheadinthevehicle with the discharged battery (1).
+---
 
+## Page 350
 <!-- image -->
 
 <!-- image -->
@@ -10645,9 +11291,8 @@ In the following cases, the lead-acid battery is running out.
 ## If You Get a Flat Tyre While Driving
 
 Firmly hold the steering wheel and carefully apply the brakes to slow down the vehicle and stop it in a safeplace.
-
 ---
-
+## Page 351
 ## Engine Trouble: Starter Does not Operate
 
 - 1)Try turning the ignition switch  to "START" position or try pressing the engine switch tochange the ignition modetoSTARTwiththeheadlights turnedontodeterminethelead-acid battery condition. If the headlights go excessively dim or go off, it usually means that either the lead-acid battery isdischargedor thebatteryterminal contact is poor. Recharge thelead-acid batteryorcorrectbattery terminalcontact as necessary.
@@ -10670,7 +11315,9 @@ If the engine still does not start have your vehicleinspectedbyaMaruti Suzuki au
 NOTE:
 
 If the engine refuses to start, the starter motorautomaticallystopsafteracertain period of time.After the startermotor has automaticallystoppedorifthereisanythingabnormalintheenginestartingsystem,thestartermotorrunsonlywhilethe engineswitchisheldpressed.
+---
 
+## Page 352
 ## Engine Trouble: Overheating
 
 The engine could overheat temporarily under severe driving conditions. If the high engine coolant temperature warning light comes on as overheating during driving:
@@ -10701,7 +11348,9 @@ If engine overheats and you are not sure whattodo,consultwithaMaruti Suzuki auth
 
 - ·It ishazardous toremovetheradiatorcapwhenthewater temperature is high, because scalding fluid and steammaybeblownoutunder pressure.The cap should onlybe takenoffwhenthecoolanttemperature has lowered.
 - To help prevent personal injury, keep hands, tools and clothing awayfromtheenginecoolingfan and air-conditionerfan.Theseelectric fans can automatically turn on without warning.
+---
 
+## Page 353
 ## Warning Triangle
 
 55T100010
@@ -10721,7 +11370,9 @@ In case of vehicle break-down or during emergency stopping, where, your vehicle 
 55T100030
 
 <!-- image -->
+---
 
+## Page 354
 <!-- image -->
 
 60G412
@@ -10739,7 +11390,9 @@ Cleaning Exterior
 Cleaning Interior
 
 11-7
+---
 
+## Page 355
 ## Corrosion Prevention
 
 It is important totakegoodcare ofyour vehicle to protect it from corrosion. Listed below areinstructionsforhowtomaintain your vehicle to prevent corrosion.Please read and follow these instructionscarefully.
@@ -10783,9 +11436,8 @@ For washing instructions, refer to "Cleaning Exterior" in this section.
 ## Removeforeignmaterial deposits
 
 Foreignmaterialssuchassalts,chemicals, road oil or tar, tree sap, bird droppings and industrialfall-outmaydamagethefinishof yourvehicle if it isleftonpainted surfaces. Remove these types of deposits as quickly as possible.If these deposits are difficult to washoff,an additional cleaner may be required.Check that any cleaner you use is not harmful to painted surfaces and is specificallyintendedforyourpurposes. Followthemanufacturer'sdirectionswhen using thesespecial cleaners.
-
 ---
-
+## Page 356
 ## Repair finish damage
 
 Carefullyexamineyour vehiclefor damage tothepainted surfaces.Shouldyoufind anychips orscratches inthepaint,touch them up immediately to prevent corrosion fromstarting.If the chipsorscratcheshave gone through to the bare metal, have a qualified body shop make the repair.
@@ -10818,7 +11470,9 @@ Tokeepyourvehicle's beautifulappearance for a long term, daily care is important
 - When driving in coastal areas or on roadssprayedwithantifreezeagent (Washtheundersideofthevehicle and around thewheel wellsespecially)
 - When the vehicle is dirty with dust or mud
 - ·Givethevehicleawax aboutoncea month or whenever the water-repelling abilityofthepaintedsurfaceshas declined.Follow allinstructionson the package of the wax (sold separately).
+---
 
+## Page 357
 ## APPEARANCECARE
 
 ## NOTE:
@@ -10845,7 +11499,9 @@ Donotusewaxonplasticpartsthatare notcoated.Waxingthesesurfacescould result in a 
 - After washing your vehicle,carefullytestthebrakesbeforedriving to check that they have maintained theirnormal effectiveness.
 
 <!-- image -->
+---
 
+## Page 358
 <!-- image -->
 
 - ·When washing or waxing the vehicle, do not put your foot on the side sill splash guard (1).
@@ -10880,7 +11536,9 @@ To avoid damaging engine components, do not spray the engine components with wat
 ## NOTICE
 
 To avoid damage to thepaintorplastic surface,do not wipe the dirt off without amplewater.Followthe aboveprocedure.
+---
 
+## Page 359
 ## APPEARANCECARE
 
 - 3）Washtheentireexteriorwithamild detergent or car wash soap using a sponge or soft cloth. The sponge or clothshouldbefrequentlysoakedinthe soap solution.
@@ -10920,7 +11578,9 @@ dew condensation,etc.
 ## Caring for the Windshield
 
 Ifanoilfilm,etc.adherestothewindshield and the windshieldwipers cannotclean it, use a glass cleaner (sold separately) to clean the windshield by hand.
+---
 
+## Page 360
 ## Caring for Lights
 
 Wash the lens part of light and wipe it off with a soft cloth.
@@ -10952,9 +11612,8 @@ Do not expose the camera to suddentemperaturechangessuchas melting frozen snow w
 
 - ·Donotuseanacidicoralkalinedetergent, or a cleaner containing petroleum solventtowashaluminumwheels. Thesetypesofcleanerswillcausepermanentspots,discolorationandcracks on the finished surface and damage to the center cap.
 - ·Do not use a bristle brush and a soap containinganabrasivematerial.These willdamagethefinishedsurface.
-
 ---
-
+## Page 361
 ## Waxing
 
 60G412
@@ -10991,7 +11650,9 @@ Suzukiauthorizedworkshop as soon as possible for inspection.
 NOTE:
 
 Topreventliquid-basedairfreshenersfrom spilling,itisrecommendedtofixtheircontainers in place, or use solid-type air freshenersinstead.
+---
 
+## Page 362
 ## Vinyl Upholstery
 
 Prepareasolutionofsoapormilddetergent dissolved in warm water. Apply the solution to the vinyl with a sponge or soft clothandletitsoakforafewminutesto loosen dirt.
@@ -11024,7 +11685,9 @@ Ordinary dirt can be removed from vinyl withwater or themildsoap.Useabrush to he
 ## Carpets
 
 Remove the dirt and soil as much aspossiblewithavacuumcleaner.Usingamild soap solution, rub stained areas with a cleandampcloth.Toremove soap,rub the areasagainwithaclothdampenedwith water.Repeatthisuntilthestainis removed，or use a commercial carpet cleanerfortougher stains.Ifyou use a carpetcleaner,carefullyfollowthemanufacturer's instructions and precautions.
+---
 
+## Page 363
 ## Instrument Panel and Console
 
 Remove loose dirt with a vacuum cleaner. Gently wipe dirt off with a tightly squeezed damp clean cloth.Repeat this until the dirt is removed.
@@ -11042,7 +11705,9 @@ Do not use chemical products that containsilicontowipe electrical components suc
 NOTE:
 
 Wipe the window along the antenna wires orheatwiresbyasoftclothdampened withwatertoavoiddamagingthesewires.
+---
 
+## Page 364
 84MM01001
 
 <!-- image -->
@@ -11055,7 +11720,9 @@ Wipe the window along the antenna wires orheatwiresbyasoftclothdampened withwate
 | High Security Registration Plate (HSRP) (if applicable) ..12-3 |        |
 | FuelRecommendation                                             | .12-4  |
 | Specifications                                                 | 12-5   |
+---
 
+## Page 365
 ## Vehicle ldentification
 
 ## ChassisSerialNumber
@@ -11078,8 +11745,11 @@ The chassis and/or engine serial numbers are used to register the vehicle. They 
 
 The engine serial number is stamped on the cylinder block as shown in the illustration.
 
----
+> **[DIAGRAM]:** This
 
+
+---
+## Page 366
 ## FASTag (if equipped)
 
 As per Ministry of Road Transport and Highways, the FASTag (1) is mandatory for each vehicle for the purpose of electronic tollcollectionoranyotherpurposeasmay be defined by the Government of India.
@@ -11107,7 +11777,9 @@ The picture shown is forindicative purpose only.Internalstructureofactuaidevice 
 - ·Anyattempttoremovethetagfromthe windscreenwillresultinpermanentdamage to the tag.
 - Use of any sharp objectson the tag can damage the tag.
 - Useofchemicalcleanerstocleanthe windscreenareawhere the tag is mounted can damage the tag.
+---
 
+## Page 367
 ## High Security Registration Plate (HSRP) (if applicable)
 
 As per Ministry of Road Transport and Highways, every new vehicle must have HSRP.
@@ -11153,7 +11825,9 @@ The picture shown is forindicative purpose only.
 ## NOTE:
 
 Color of thirdlicenseplate(back)isasper HSRPregulationasdefinedbyMinistryof Road Transport and highways.
+---
 
+## Page 368
 ## Fuel Recommendation Petrol Engine
 
 To avoid damaging catalytic converter, you must use unleaded petrol with an octane number (RON) of 91 or higher.
@@ -11179,7 +11853,9 @@ Use of spurious, low quality, adulterated fuel can cause damage to the engineand
 leakagedue tofuelexpansion.To preventsuchfuelleakage,stopfilling after the filler nozzle has automatically shut off, or when initial vent blowback occurs, if using an alternative non-automatic system.
 
 - Be careful not to spill fuel containingalcoholwhilerefueling.Iffuel is spilled on the vehicle body, wipe it up immediately. Fuels containing aicohol can cause paint damage, whichis not covered under the New Vehicle Limited Warranty.
+---
 
+## Page 369
 ## Specifications
 
 NOTE:
@@ -11226,7 +11902,9 @@ A/T
 Front
 
 Rear
+---
 
+## Page 370
 | ITEM: Engine        | ITEM: Engine   |
 |---------------------|----------------|
 | Type                | K15B           |
@@ -11241,9 +11919,8 @@ Rear
 | Standard spark plug | NGK KR6A-10                           |
 | Battery             | 12V ISS N55*1 20HR 45AH CCA 480A(JIS) |
 | Fuses               | See“INSPECTIONANDMAINTENANCE"seCtion  |
-
 ---
-
+## Page 371
 | ITEM:Recommendedfuel / lubricantsandcapacities(approx.)   | ITEM:Recommendedfuel / lubricantsandcapacities(approx.)   | ITEM:Recommendedfuel / lubricantsandcapacities(approx.)      | ITEM:Recommendedfuel / lubricantsandcapacities(approx.)   |
 |-----------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------|
 | Fuel                                                      | Fuel                                                      | See“FUEL RECOMMENDATION"section                              | 40 L                                                      |
@@ -11261,7 +11938,9 @@ Rear
 | Engine coolant                                     | SUZUKI LLC: Super (Blue) Coolant                   |                                                                                                    | A/T                                                                                                | 4.8 L (including reservoirtank)                                                                    |
 | Brakefluid/ Clutchfluid                            | MARUTIGENUINE BRAKE FLUID (MGBF)or DOT 3.          | Refill to theproper oil level according to the instructions in "INSPECTIONAND MAINTENANCE"seCtion. | Refill to theproper oil level according to the instructions in "INSPECTIONAND MAINTENANCE"seCtion. | Refill to theproper oil level according to the instructions in "INSPECTIONAND MAINTENANCE"seCtion. |
 | Windshieldwasherfluid                              | 一                                                  | 4.0 L                                                                                              | 4.0 L                                                                                              | 4.0 L                                                                                              |
+---
 
+## Page 372
 | ITEM:Wheels and tyres     | ITEM:Wheels and tyres                                                                                     | ITEM:Wheels and tyres                                                                                     |
 |---------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Tyre size, front and rear | 195/80R15 96S*1                                                                                           | 195/80R15 96S*1                                                                                           |
@@ -11282,7 +11961,9 @@ Consult with a Maruti Suzukiauthorizedworkshopforfurtherinformation.
 | Interior light | Front               | 12V 10W            | C10W |
 |                | Center              | 12V 10W            | C10W |
 |                | Luggage compartment | 12V5W              | W5W  |
+---
 
+## Page 373
 ## NOTE:
 
 ## SERVICENETWORK(AS ON31.10.2023)
@@ -11328,7 +12009,9 @@ For latest Service Network details kindly visit www.marutisuzuki.com or contact 
 | REGIONALOFFICE(EAST-I)MARUTISUZUKIINDIALIMITED PLOTNOID/15,ACTIONAREAID,NEWTOWNKOLKATA-700156                                                   | WESTBENGAL,SIKKIM,ANDAMAN&NICOBAR                                   |
 | REGIONALOFFICE(EAST-II)MARUTISUZUKIINDIALIMITED 4THFLOORROHINI,PP.HOTELAPSARA,56,CIRCULARROAD,LALPURRANCHI-34001, JHARKHANDPH.:-0651-2563931/61 | BIHAR,JHARKHAND                                                     |
 | REGIONALOFFICE(EAST-III)MARUTISUZUKIINDIALIMITED 5A,5THFL0OR,PEACEENCLAVE724,ULUBARI,G.S.ROAD,GUWAHATI-781007(ASSAM) TELE:0361-2734308/10/11/12 | ARUNACHALPRADESH,ASSAM,MANIPUR, MEGHALYA,MIZORAM,NAGALAND,TRIPURA   |
+---
 
+## Page 374
 ## SERVICE NETWORK(AS ON 31.10.2023)
 
 | REGIONALOFFICE(WEST-I)MARUTISUZUKIINDIALIMITED PIotNo-GEN25+25B/2,TTCINDUSTRIALAREAPAWANEVILLAGE,THANEBELAPURROAD,NAVI MUMBAI-400705PHNO-02245042300                                               | PARTOFMAHARASHTRAANDGOA                |
@@ -11343,7 +12026,9 @@ For latest Service Network details kindly visit www.marutisuzuki.com or contact 
 | REGIONALOFFICE(CENTRAL-I&II)MARUTISUZUKIINDIALIMITED Nelson Mandela Marg,Vasant Kunj Il, Vasant Kunj, New Delhi, Delhi -110070                                                                     | DELHI                                  |
 | REGIONALOFFICE(CENTRAL-II)MARUTISUZUKIINDIALIMITED 7THPOOJATOWER,3GOPALPURABYEPASS,TONKROADJAIPUR(RAJASTHAN)-302018 CONTACTNO.:0141-2550888                                                        | RAJASTHAN                              |
 | REGIONALOFFICE(CENTRAL-IV)MARUTISUZUKIINDIALIMITED 3RDFLOOR,COMMERCEHOUSE,7RACECOURSEROADINDORE(M.P)PINCODE:452001 CONTACTNO.:07314069481/852/385.                                                 | MADHYAPRADESH                          |
+---
 
+## Page 375
 | DETAILSOFAREAOFFICES   | DETAILSOFAREAOFFICES                                                                                                                           |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 | AreaOfficeLocation     | AreaOfficeAddress                                                                                                                              |
@@ -11356,9 +12041,8 @@ For latest Service Network details kindly visit www.marutisuzuki.com or contact 
 | Ludhiana               | Maruti Suzuki India Limited, SCO No. 16/17, 4Th Floor, Fortune Chambers, Feroze Gandhi Market, Ludhiana-141001,Ph:0161-4649764                 |
 | Madurai                | Maruti Suzuki India Limited, 3rd floor, ADR towers, Kalavasal, Theni Bye pass road, Madurai-625016 Ph.-0452-4200203                            |
 | Mangalore              | Mangalore-575002Ph.0824-4112111                                                                                                                |
-
 ---
-
+## Page 376
 ## SERVICE NETWORK(AS ON31.10.2023)
 
 | DETAILSOFAREAOFFICES   | DETAILSOFAREAOFFICES                                                                                                                                  |
@@ -11374,7 +12058,9 @@ For latest Service Network details kindly visit www.marutisuzuki.com or contact 
 | Udaipur                | Maruti Suzuki India Limited, 302 & 303, 3rd Floor. Manglam's Fun Square, Durga Nursery Road. Udaipur, (Rajasthan) 313001                              |
 | Vijayawada             | Vijayawada,-530002,                                                                                                                                   |
 | Visakhapatnam          | Above westside store,RK Estates, Visakhapatnam-530002,Andhra Pradesh Contact No:08912745299                                                           |
+---
 
+## Page 377
 ## ANDHRAPRADESH
 
 ## ANANTHAPUR
@@ -11527,7 +12213,9 @@ PH :8827057534.
 ## GANDHIDHAM
 
 43. BM AUTO LINK (77NA-77-01), SURVEY NO AIRPORT ROAD, GANDHIDHAM, KUTCH, GUJARAT-370201 129/26, GALPADAR - ANJAR HIGHWAY, PH :7211120014.
+---
 
+## Page 378
 ## NexaNetwork(ASON31.10.2023)
 
 ## GANDHINAGAR
@@ -11688,7 +12376,9 @@ PH :9845049626.
 88. VARUN MOTORS (02NM--01), 37/56 NAGAVARA VILLAGE,HEBBAL RING ROAD ,BANGALORE 560024
 
 PH:9513394753
+---
 
+## Page 379
 89. KALYANI MOTORS (02NN--01), 152/7, OUTER RING ROAD, DODDA BANASWADI, HORAMAVU, KR PURAM HOBAL1, BANGALORE -560043. 560043
 
 PH :9900020454.
@@ -11835,7 +12525,9 @@ PH:9933055539.
 - 131.BARBATE AUTO (20NA-20-01), 37/2, MANISH NAGAR, BESA T POINT, BESA ROAD NAGPUR 440025 - 440025
 
 ## NANDED
+---
 
+## Page 380
 ## NexaNetwork（ASON31.10.2023）
 
 - 132.SEVAAUTOMOBILES(68NA-68-01),AIRPORT ROAD,SANGVI-431605 PH :7065026520.
@@ -11996,9 +12688,8 @@ PH :7412087320.
 - 177.VISHNU CAR (14NG-14-01), SURVEY NO 219, ADJOINING HP PETROL PUMP, POONAMALLE HIGH ROAD, KATTUPAKKAM, CHENNAI, TAMIL NDU-600056
 
 PH:7339359111.
-
 ---
-
+## Page 381
 - 178.ABT (14NJ-14-01), NO123, KANNIGAPURAM, VELACHERY MAIN ROAD, BEHIND RACE COURSE, GUINDY, CHENNAI, TAMIL NADU 600032
 
 PH :9994444303.
@@ -12139,7 +12830,9 @@ PH :8886144551.
 ## KANPUR
 
 ## UTTARPRADESH
+---
 
+## Page 382
 ## NexaNetwork（ASON31.10.2023)
 
 - 221.KTL (28NB-28-01), ARAZI NO. 352, SINGHPUR KACHHAR, BITHOOR ROAD, NORTHERN RAILYWAY COLONY, KANPUR, UTTAR PRADESH. - 208017 PH :7408409312.
@@ -12210,7 +12903,9 @@ PH :8886144551.
 ## KOLKATA
 
 - 238.JYOTE MOTORS (06ND--01), MIRANIA ROAD, ARUPOTA ON BASANTI HIGHWAY, -700105 PH :9074158220.
+---
 
+## Page 383
 ## ANDAMANANDNICOBARISLANDS
 
 ## DIGLIPUR
@@ -12373,7 +13068,9 @@ PH :9642225297/9052418111.
 - SB MOTORS (CDG1-01-), M/S D.NO 10-37, JAGGAMPETA,EASTGODAVARIDISTRICT, ANDHRA PRADESH - 533435 PH :8886677759.
 
 ## JANGAREDDYGUDEM
+---
 
+## Page 384
 ## DealerNetwork（ASON31.10.2023)
 
 38. REDDY &amp; REDDY MOTORS (1E01-02-), NEAR R&amp;B GUEST HOUSE,ELURU ROAD,JANGAREDDYGUDEM, -534447 PH:9912563666.
@@ -12518,7 +13215,9 @@ PH:9885317344.
 - JAYALAKSHMIAUTOMOTIVES PVT.LTD VAISHNAVI NAGAR, PONNUR, GUNTUR, (CFC1-01-), PLOT NO. 4, D.NO. 213-1, ANDHRA PRADESH. - 522124 PH:9849445639, 9121141913.
 
 ## RAJAHMUNDRY
+---
 
+## Page 385
 76. S.B. MOTOR CORPORATION (C501-01-), OPP.FCI GOWDOWN,JAILROAD,LALACHERUVLI,RAJAMU NDRY-533101 PH :08885585667.
 77. S B MOTORS (C501-03-), D. NO. 3-243, NH-5, ROAD,HUKUMPETA, RAJAHMUNDRY. -533 107 PH :08885886262.
 78. VARUN MOTORS PVT. LTD. (C502-01-), SURVEY NO.660, PALACHERLAVILLAGE OF RANJANAGRAM MANDAL, RAJAHMUNDRY, EAST GODAVARIDSIT.-533102 PH:9642225289.
@@ -12641,9 +13340,8 @@ PH:8886332209
 ## VIZIANAGARAM
 
 - 117.VARUN MOTORS PVT.LTD. (4603-0C-), OPPOSITE SUN SCHOOL, 100 FEET RING ROAD, VIZIANAGARAM, VIZIANAGARAM 535001 PH :8886721213.
-
 ---
-
+## Page 386
 ## DealerNetwork（ASON31.10.2023)
 
 - 118.JAYABHERIAUTOMOTIVES PVT.LTD AGRAHARAM VILLAGE, VIZIANAGARAM, (N801-01-), PLOT NO.B-1,DOOR NO.8-32-1,SURVEY NO.108/12A &amp; 109/2A, INDUSTRIAL ESTATE, VANTITHADI ANDHRA PRADESH - 535001 PH:7702333514.
@@ -12807,7 +13505,9 @@ PH:9864052488.
 - 158.JAIN UDYOG (6901-04-), STEAMER GHAT ROAD, KARIMGANJ, ASSAM -788710 PH :9435179025.
 
 ## KAYAKUCHI
+---
 
+## Page 387
 - 159.MITTAL AUTO ZONE (--), B.B ROAD, KAYAKUCHI, BARPETA, ASSAM -781352 PH :8638487401.
 
 ## KHARUPATIA
@@ -12968,7 +13668,9 @@ PH :7004529271.
 - 198.RAJKRISHNA MOTORS LLP (1V02-02-), VIP ROAD, ALLALPATTI, DARBHANGA (BIHAR) 846003 PH :9693127351.
 
 ## DEHRIONSONE
+---
 
+## Page 388
 ## DealerNetwork（ASON31.10.2023)
 
 - 199.PEARL CARS (1X01-02-), MOUZA -KHASRA, KHATA NO. 141, PLOT NO. 186, SAAT KATDA THANA - DEHRI-ONE-SONE, DIST.-ROHTAS, BIHAR. - 821307 PH :8294634602.
@@ -13120,7 +13822,9 @@ PH :7087035482.
 239. HDN MOTORS (SEB1-01-), M/S HDN MOTORS, BESIDE R.N RICE MILL, NEW MAHAVEER COMPLEX, MAHASAMUND ROAD, BAGBAHARA - 493449 PH :7909800004.
 
 ## BAIKUNTHPUR
+---
 
+## Page 389
 - 240.MAHAMAYA AUTOCARS PVT LTD (CQU1-01-), WARD NO.01, KHATA NO.91/6, TEHSIL BAIKUNTHPUR, DISTT. - KORIYA, CHATTISGARH-497335 PH :9179350707.
 
 ## BALOD
@@ -13288,7 +13992,9 @@ PH :7909800093.
 - 283.SPARSH AUTOMOBILES PVT LTD (LQ02-01-), NEAR HANUMAN TEMPLE, VILL-MANKI , NH-6, RAJNANDGAON, CHHATTISGARH - 491441 PH :7887518100.
 
 ## SARAIPALLI
+---
 
+## Page 390
 ## DealerNetwork（ASON31.10.2023)
 
 - 284.SKY AUTOMOBILES PVT.LTD. (BUF1-01-), KHASRA NO.482/5 AND 482/6, RAIPUR ROAD, SARAIPALI, DIST-MASAMUND, SARAIPALI 493558
@@ -13415,9 +14121,8 @@ PH:2763062, 2763063,9850398057.
 - 330.CHOWGULE INDUSTRIES PVT.LTD. (3408-07-), AT- KHANDEPAR- USGAON, TAL-DHARBANDORA, SOUTH GOA - 403401 PH:0832-6623477/7888004357.
 
 ## MAPUSA
-
 ---
-
+## Page 391
 - 331.SAI SERVICE PRIVATE LIMITED (3402-05-), D-2/9,MAPUSA INDUSTRIAL ESTATE,MAPUSA, GOA,-403507 PH:2267000, 8660432266.
 
 332.CHOWGULE INDUSTRIES PVT.LTD. (3408-03-),
@@ -13557,7 +14262,9 @@ PH :7623089000.
 - 374.KATARIA AUTOMOBILES PVT.LTD. (F703-01-), JAKAT NAKA, NEAR RAILWAY OVERBRIDGE, SURVEY NO.189/1+2/A+3/A/K 190/P, OPP. OLD PH :7698954466. 388 120 ANAND-CHIKHODRA ROAD, ANAND, GUJARAT. -
 
 ## ANKLAV
+---
 
+## Page 392
 ## DealerNetwork（ASON31.10.2023)
 
 - 375.KATARIA AUTOMOBILES(SEO1-01-),AMBICA COMPLEX, GROUND FLOOR SHOP NO. B, C AND D, ASODAR CHOKDI, TAL.ASODAR, CITY ANKLAV, DIST. ANAND, PIN-388510, GUJARAT PH :7227917151. 388510
@@ -13706,7 +14413,9 @@ PH :7623089000.
 PH:9909006099, 8401784018.
 
 ## DHARAMPUR
+---
 
+## Page 393
 - 413.KATARIA AUTOMOBILES PVT.LTD. (BSK1-01-), SURVEY NO.29/3/P1, VILLAGE ASHURA NR. ASHURA CIRCALE, DHARAMPUR DISTT. VALSHAD,GUJARAT-396050 PH :9723455291.
 
 ## DHARI
@@ -13857,7 +14566,9 @@ PH :9574004704 / 9574004717.
 - 452.AMAR CARS PVT.LTD. (BNA1-01-), S.NO.708, PLOT NO.1, VILLAGE-SOKHDA, TAL: MATER, DISTT. KHEDA, GUJARAT - 387570 PH :9909960761.
 
 ## KHEDBRAHMA
+---
 
+## Page 394
 ## DealerNetwork（ASON31.10.2023)
 
 - 453.KIRAN MOTORS (CMU1-01-),AMBAJI ROAD, KHEDBRAHMA, DIST. - SABARKANTHA, PIN PH :9824010721. 383255-383255
@@ -14017,7 +14728,9 @@ PH :9687691044; 9687632647.
 ## PALITANA
 
 - 491.KATARIA AUTOMOBILES(CSD2-01-),PLOT NO 15, YASOVIJAYNAGAR, NEAR RAILWAY CROSSING, PALITANA HIGHWAY, PALITANA-364270 DIST BHAVNAGAR. - 364270 PH:6357314891.
+---
 
+## Page 395
 ## PALSANA
 
 - 492.KATARIA AUTOMOBILES PVT. LTD. (4004-07-), BESIDE SAINATH COMPLEX, KADODARA AHMEDABAD ROAD , NH-8, UMBHEL GAM,TALUKA: PALSANA KADODARA, SURAT. 382721
@@ -14176,9 +14889,8 @@ PH :9924119020.
 533. KIRAN MOTORS LTD (4005-01-), PLOT NO. 443, FP NO. 26 MOJE PALGAM, ADAJAN, SURAT 395009
 
 PH:9824611153/9824701590.
-
 ---
-
+## Page 396
 ## DealerNetwork（ASON31.10.2023)
 
 - 534.AMAR CARS PVT.LTD.(4009-02-),PLOT NO.10&amp;11, SURVEY NO.7 &amp; 9,SONARAS COMPOUND, NEAR DGVCL OFFICE,KARMNATH MAHADEV TEMPLE LANE, KAPODARA, VARACHHA ROAD,SURAT-395006 PH :7069026512.
@@ -14311,7 +15023,9 @@ PH :9712984522.
 - 574.KATARIA AUTOMOBILES PVT.LTD. (BZZ1-01-), TALUKA-WAGHODIA, DISTRICT-VADODARA, GUJARAT.-391760 PH :7203013712. OPPOSITE BHARAT PETROLEUM, WAGHODIA,
 
 ## WANKANER
+---
 
+## Page 397
 575. ATUL MOTORS PVT LTD (BAL1-01-), RAJKOT-WANKANER HIGHWAY, NEAR JADESHWAR CHAMBERS, NEAR INTERNATIONAL CERAMIC, WANKANER (GUJARAT)-363621 PH:9904922333.
 
 ## GUJRAT
@@ -14463,7 +15177,9 @@ PH :9821308849.
 - 612.PLATINUM MOTOCORP LLP (KE01-01-),KHEVAT NO. 299, MUSTIL NO.-12, KHASRA NO.-19/3 AND TEHSIL-FARRUKHNAGAR, DISTRICT 22/2, VILLAGE - SEHADPUR MOHAMADPUR, GURGAON.- 122506 PH:9599007357/9953345380.
 
 ## FATEHABAD
+---
 
+## Page 398
 ## DealerNetwork（ASON31.10.2023)
 
 613. SHAKTI MOTORS PVT.LTD. (2H02-01-), NH-10, SIRSA ROAD, FATEHABAD -125050 PH :8222900217.
@@ -14598,7 +15314,9 @@ PH :7082007138.
 ## LOHARU
 
 - 657.JAGMOHAN MOTORS (HB02-01-), BHIWANI ROAD , OPP. ITI, CITY: LOHARU - 127201 PH:9812000425.
+---
 
+## Page 399
 ## MADLAUDA
 
 - 658.AUTO GALLERY (A UNIT OF RKH AUTOMOBILES PRIVATE LIMITED) (CFK2-01-), VILLAGE-BHALSI, ASSANDH-PANIPAT ROAD, MADLAUDA, PIN-132113, HARYANA - 132113 PH :9053400524.
@@ -14758,7 +15476,9 @@ PH:08683000902/9873711127/8683000919.
 - 697.SHAKTI MOTORS PVT.LTD. (XP01-01-), NEAR GREEN VALLEY PUBLIC SCHOOL, RATIA ROAD, TOHANA - 125120 PH :8572800991.
 
 ## TOSHAM
+---
 
+## Page 400
 ## DealerNetwork(ASON31.10.2023)
 
 - 698.JAGMOHAN MOTORS PVTLTD (0Y01-01-), BHIWANI ROAD, TEH. TOSHAM, DIST. BHIWANI. PH:8059900566. - 127040
@@ -14907,9 +15627,8 @@ PH :9812455896.
 734.KANGRA VEHICLEADES (SCR1-01-),VILLAGE PH :9459900241. MANJHGRAN, P.O. DRAMMAN, TEHSIL SHAHPUR, DISTT. KANGRA, HIMACHAL PRADESH - 176206
 
 SHIMLA
-
 ---
-
+## Page 401
 735. GOYAL MOTORS PVT LTD (A901-01-), TARADEVI, SHIMLA,(H.P.) - 171010 PH :9418663572.
 
 ## SOLAN
@@ -15057,7 +15776,9 @@ SHIMLA
 PH :7006037255.
 
 776. PEAKS AUTO PVT. LTD. (1204-01-), BYE PASS ROAD, NH - 1A, NEAR HOTAL SILVER STAR, SRINAGAR - 191101 PH :9519275151.
+---
 
+## Page 402
 - 777.JAMKASH VEHICLEADES (KASHMIR) PVTLTD (1205-05-), NARBAL CROSSING, NH-1A, SRINAGAR, JAMMU &amp; KASHMIR - 190017 PH :9796700750.
 
 ## SUNDERBANI
@@ -15214,7 +15935,9 @@ PH :9431347164, 9570168342.
 816. HILLTOP MOTORS (BVE2-01-), NEAR BANK OF INDIA, SILLI MAIN ROAD, MURI, PIN - 835102 835102 PH :7061157502.
 
 ## PAKUR
+---
 
+## Page 403
 - 817.RELIABLE (CLO1-01-), CIO KHOKHAN RAY,HIRANPUR,PAKUR, MAIN ROAD,VILL.SAHERKOL,PS PAKUR REGISTRY OFFICE-816107 PH:9031096662.
 
 ## RAMGARH
@@ -15303,7 +16026,9 @@ PH :9431347164, 9570168342.
 11. 861.RNS MOTORS (7301-0G-), 106/7, BELLARY ROAD, NEAR IOC PETROL BUNK, AMRUTHAALLI, NEAR HEBBAL FLYOVER, BENGALURU (KARNATAKA) - 560092 PH :6364884787.
 12. 862.PRATHAM MOTORS PVT.LTD (205-05-), #58/5 KUDLU VILLAGE, NEXT TO ZEE SCHOOL, SARJAPUR HOBLI, ANEKAL TALUK, BANGALORE - 560034 PH :9900058466.
 13. 863.RNS MOTORS LIMITED (7301-0H-), PLOT NO.129, KIADB INDUSTRIAL AREA, HEBBAGODI VILLAGE, BOMMASANDRA, JIGINI LINK ROAD, BANGALORE-562158 PH :9538965771.
+---
 
+## Page 404
 ## DealerNetwork（ASON31.10.2023)
 
 864. KALYANI MOTORS PVT. LTD. (291-02-), 10/1, HEBBAL , AMANIKERE KASABA HOBLI, YOGESH NAGAR, BANGALORE - 560024 PH:9740985324,7760983887.
@@ -15400,7 +16125,9 @@ PH :94498 65666.
 - 904.MANDOVI MOTORS PVT LTD. (0E01-01-), RAJ KAMAL BUILDING, SATHYAMANGALA ROAD, KUVEMPU EXTENSION, CHAMRAJNAGAR (KARNATAKA)- 571313 PH :9845445586.
 
 ## CHANNAGIRI
+---
 
+## Page 405
 905.SHRUTI MOTORS (BUQ1-01-), SURVEY NO.5, MACHANAYAKANAHALLI, OPP. FIRE STATION, CHITRADURGA ROAD, N.H.13, CHANNAGIRI DISTT. DAVANGERE-577213 PH :7899934143.
 
 ## CHANNAPATNA
@@ -15542,9 +16269,8 @@ PH :9480825014. 925.LAHOTI MOTORS PVT.LTD (E902-02-),DOOR NO. 7-12-11, 2ND BLOCK
 - 941.REVANKAR MOTORS PVT.LTD. (7303-01-), CTS NO.165/A, WARD NO.III, DESHPANDE NAGAR, HUBLI (KARNATAKA) - 580029 PH :8792008301.
 
 ## HUNSUR
-
 ---
-
+## Page 406
 ## DealerNetwork（ASON31.10.2023)
 
 942. KALYANI MOTORS PVT. LTD (GLI2-01-), M-18 &amp; M-19, KSSIDC INDUSTRIAL ESTATE, BM BYPASSROAD,HUNSUR, MYSORE DISTRICT, KARNATAKA - 571105 PH :7022669699.
@@ -15679,7 +16405,9 @@ PH:9480830255.
 ## NARASIMHARAJAPURA
 
 - 981.SHRUTI MOTORS(SPP1-01-),SURVEY NO # SURVEY NO.173,/P KOPPA ROAD, NAGALAPURA VILLAGE,NARASIMHARAJAPURA, CHIKMAGALU R DIST.,KARNATAKA - 577134 PH:8310187660.
+---
 
+## Page 407
 ## NARAV
 
 982.MANDOVI MOTORS (SRS1-01-),SURVEY NO:122/1B1,DOOR NO:4/59,SHRI CHAITHANYA, ARASAKATTE, NARAVI, BELTHANGADY TALUK, DAKSHINA KANNADA DIST, KARNATAKA574109. - 574109 PH :9740392005.
@@ -15820,7 +16548,9 @@ PH:9480830255.
 1018. MANDOVI MOTORS PVT LTD. (CCE1-01-), DOOR NO. 1-287 (9), JISHAN COMPLEX, VITTAL TOWN, TALUKA -BANTWAL, DISTRICT - DAKSHIN KANNADA - 574243 PH :9008810123.
 
 ## YADGIR
+---
 
+## Page 408
 ## DealerNetwork（ASON31.10.2023)
 
 1019. LAHOTI MOTORS (SFP1-01-), SURVEY NO. 101/1, GULSARAM VILLAGE, YADGIR TOWN &amp; DISTT, SHAHPUR TALUKA, KARNATAKA PH :9480825031.
@@ -15936,7 +16666,9 @@ PH:7592898888，7594997888.
 2. 1055.POPULAR VEHICLES&amp; SERVICES PVT.LTD. VILLAGE, CHERTHALA, ALAPPUZHA DISTT., PH :9072530127. (VL02-01-), RE-SURVEY NO.150/2-1,147/3, BUILDING NO.KP-18/80, N.H. KANJIKUZHI 688582
 
 ## CHINGAVANAM
+---
 
+## Page 409
 1056. POPULAR (I602-01-), BUILDING NO. VI 461, RE SURVEY NO.290/9, GOMATHIJUNCTION, MAVILANGU KARA, CHINGAVANAM P.O., DISTT. KOTTAYAM, KERALA - 686531 PH :9778690817.
 
 ## CHITTUR
@@ -16052,7 +16784,9 @@ PH :9539009443.
 - 1097.INDUS MOTOR COMPANY PRIVATE LIMITED TALUK, KASARAGOD, KERALA -671541 PH :9747550747. (RO02-03-),18/304A&amp; 18/304B,SY.NO.39/3B, RE SY. NO. 57/6,MOGRAL, MANJESHWAR
 
 ## KATTAPANA
+---
 
+## Page 410
 ## DealerNetwork（ASON31.10.2023)
 
 - 1098.INDUS MOTOR COMPANY PRIVATE LIMITED (ZN01-01-), KATTAPPANA-IDUKKI KAVALA, BYE PASS ROAD, KATTAPPANA, IDUKKI (DIST.). 685508
@@ -16171,9 +16905,8 @@ PH :9747562299.
 PH :9745995946.
 
 ## MAVELIKARA
-
 ---
-
+## Page 411
 - 1139.POPULARVEHICLES&amp;SERVICESLTD (B802-02-), KONNAYIL SUVAKO INDUSTRIAL COMPLEX,SHED A-1,KOLLAKADAVU INDUSTRIAL ESTATE, KOCHAL MOODU, KALLIMEL P.O., MAVELIKKARA, KERALA 690570 PH:9400052338.
 - 1140.INDUS MOTOR COMPANY PRIVATE LIMITED (1602-07-), NEAR PRATHIBA THEATRE, PUTTHIYAKAVU, MAVELIKKARA - 690101 PH :9745998137.
 
@@ -16279,7 +17012,9 @@ PH :9072609638.
 ## PERUMBAVOOR
 
 1178. SAI SERVICE PRIVATE LIMITED (2705-04-), DIST,KERALA - 683542 M.C.ROAD,PERUMBAVOOR,ERNAKULAM PH:7034258335.
+---
 
+## Page 412
 ## DealerNetwork（ASON31.10.2023)
 
 - 1179.INDUS MOTOR COMPANY PRIVATE LIMITED (8W03-01-), SURVEY NO. 72/2-3, 72/3-3, TALUK KUNNATHUNADU, VILLAGE - RAYAMANGALAM, - 683 541 PH :9747591803. SUB DIST.-PERUMBAVOOR, DIST.ERNAKULAM.
@@ -16402,7 +17137,9 @@ PH :9745998849.
 1219. SOUTH PARK MOTORS PVT. LTD. (1604-01-), KADAKAMPALLY, CHACKAI BYPASS, TALUKA TRIVANDRUM, TRIVANDRUM, KERALA. - 695029 PH :9526100008. SURVEY NO. 985/3-4-5-6, VILLAGE -
 1220. SARATHY AUTODRIVES PVT LTD (1607-03-), 77/2-11, NEMOM VILLAGE, PAPPANAMCODU THIRUVANANTHPURAM, KERALA. - 695019 INDUSTRIAL AREA, TALUKA AND DISTRICTPH:9961665865.
 - 1221.POPULAR VEHICLES (1601-12-),RE-SURVEY NO. 26/4-1, MANANTHALA STADIUM ROAD, NEAR SURYAPRABHA AUDITORIUM, ULOOR VILLAGE, MANANTHALA, TRIVANDRUM DIST., KERALA. - 695 015 PH :9846498605.
+---
 
+## Page 413
 1222. POPULAR VEHICLES (1601-17-), BUILDING NO. 13/632,632-A,633,633-A1,633-A2,634-636,6TH MILE STONE, VAZHAYILA PO, PEROORKADA, THIRUVANANTHAPURAM, KERALA - 695521 - 695521
 
 PH:9288023313.
@@ -16580,7 +17317,9 @@ PH :6261900423.
 1259. UNITARA (0F02-01-), OLD AB ROAD, KACHNARIA,BIAORA (M.P)-465674 PH:9575650883.
 
 ## BIJURI
+---
 
+## Page 414
 ## DealerNetwork（ASON31.10.2023)
 
 1260. SHUBH MOTORS (SMJ1-01-), GRAM-NEAR GENTRI GATE, NAGAR PALIKA PARISHAD BIJURI, DISTRICT -ANUPPUR, MADHYA PRADESH - 484116 PH :9755580253.
@@ -16740,7 +17479,9 @@ PH:9926809803.
 ## INDERGARH
 
 1298. PREM MOTORS (SPU1-01-),NEAR KHERAPATI GARDEN, INDERGARH, MP - 475675 . - 475675 PH:9926809818.
+---
 
+## Page 415
 ## INDORE
 
 1299. PATEL MOTORS (INDORE) PVT. LTD. (5303-01-), 428/3/3,NIRANJANPUR,A B ROAD,INDORE 452010
@@ -16868,9 +17609,8 @@ PH :7694011436, 9669569496.
 1340. STANDARD MOTOCORP PVT LTD (WD02-01-), KATARA ROAD, MANDLA, DIST. MANDLA MP PH :260600,260622 9301090184 481661 8959280989.
 
 ## MANDSAUR
-
 ---
-
+## Page 416
 ## DealerNetwork（ASON31.10.2023)
 
 1341. PATEL MOTORS (INDORE) PVT. LTD. (WC01-01-), NEAR SHIVANA BRIDGE,RATLAM MANDSAUR ROAD,MANDSAUR - 458001 PH :07422-400450, 220372.
@@ -17030,7 +17770,9 @@ PH :7354252525.
 1378. STANDARD MOTOCORP PVT LTD (CRD2-01-), KHASARA NO.172/3, BHERAV MATA MANDIR PH :7771000392. NEAR TOLL NAKA MAIN ROAD, JABALPUR NARSINGHPUR ROAD, SHAHPURA.-483119
 
 ## SHAJAPUR
+---
 
+## Page 417
 1379. UNITARA (RH03-01-), LAL GHATI, A B ROAD, SHAJAPUR, MP - 465001 PH :9993406993.
 
 ## SHAMGARH
@@ -17172,7 +17914,9 @@ PH :7354252525.
 ## AURANGABAD
 
 1417. AUTOMOTIVE MANUFACTURERS PVT. LTD. (2102-01-), PLOT NO. 1,P.B.NO. 716,CHIKALTHANA,AURANGABAD - 431210 PH :9158000046.
+---
 
+## Page 418
 1418. PAGARIYA AUTO PVT. LTD. (2103-01-), OPP. OLD HIGH COURT, NEAR HOTEL ASHOKA EXECUTIVE, JALANA ROAD, AURANGABAD 431005
 
 PH :02406659902.
@@ -17323,7 +18067,9 @@ PH :7722067843.
 ## INDAPUR
 
 - 1456.MAHALAXMIAUTOMOTIVES PVT.LTD. PH:8308807314. (7R01-02-), STATE HIGHWAY NO. 151, INDAPUR - 412219
+---
 
+## Page 419
 ## ISLAMPUR
 
 1457. CHOWGULE INDUSTRIES PVT. LTD. (PJ02-01-), GATE NO.905/A/3, NEAR BOMBAY RAYAN, TALUKA : WALVA, DIST:SANGLI - 415409 PUNE-BANGALOE HIGHWAY (NH-4), ISLAMPUR PH :02342-225757.
@@ -17463,7 +18209,9 @@ AURANGABAD ROAD, KARMAD - 431007. 431007 PH:7575077181/ 9687668929.
 :9607999091/9607999092/9607999093/9607999094
 
 ## LONAVALA
+---
 
+## Page 420
 ## DealerNetwork（ASON31.10.2023)
 
 - 1495.SEHGAL AUTORIDERS PVT.LTD. (CGA1-01-), GATE NO. 120/1, VILLAGE - WAKSAI, TALUKA MAVAL, LUNAVALA, DISTRICT - PUNE, MAHARASHTRA.-410405 PH :89753 73431.
@@ -17578,9 +18326,8 @@ PH:8888859506/8888859534.
 1535. ARUN MOTORS (2008-02-), C-48/1,MIDC PIN-440028, MAHARASHTRA - 440028 PH :7757988800. HINGNA MAIN ROAD, WADI, NAGPUR,
 
 ## NALASOPARA
-
 ---
-
+## Page 421
 - 1536.SHIVAM AUTO (CUH1-01-), SURVEY NO.91,92, PH :9152001458/7777002930. PLOT NO. 7, VILLAGE- DHANIV, NALASOPARA, DIST. PALGHAR, MAHARASHTRA. - 401209
 
 ## NANDED
@@ -17716,7 +18463,9 @@ PH :8308304444, 020-41463625, 020-41463627.
 1578. SAI SERVICE PRIVATE LIMITED (1901-06-), SURVEY NO.244/1, PHASE-II, NEAR BANK OF MAHARASHTRA, HINGEWADI, TAL - MULSHI, DISTRICT-PUNE,MAHARASHTRA - 411057 PH:9923208302.
 1579. ACE KUDALE CAR PVT. LTD. (1910-02-), ATLAS TANKS VESSELS, SR. NO 232/2, PUNE-NASIK ROAD, KHANDOBAMAL, BHOSARI, PUNE. 411039 PH :9552193904.
 1580. KOTHARI AUTO WHEELS PVT LTD (1984-03-), DIST. PUNE - 411019 PLOT NO. 2B, D1 BLOCK, CHINCHWAD, PUNE, PH :9168662302.
+---
 
+## Page 422
 ## DealerNetwork（ASON31.10.2023)
 
 1581. MAHALAXMI AUTOMOTIVES PVT. LTD (1912-03-), 59/A, MUNDHWA KHARADI ROAD, OPP. MUNDHWA POLICE STATION, MUNDHWA, PUNE, MAHARASHTRA - 411036 PH :8888874980.
@@ -17845,7 +18594,9 @@ PH :7718893483.
 ## SILLOD
 
 1619. PAGARIYA AUTO PVT. LTD. (2103-04-), PLOT NO. 19/20, SURVEY NO.386,AURANGABAD PH:8600037213. NAKA, SILLOD, AURANGABAD - 431112
+---
 
+## Page 423
 ## SINNAR
 
 1620. SHAAN CARS PRIVATE LIMITED (3703-03-), A-24, MIDC AREA MALEGAON,SINNAR TAL- SINNAR, - 422103 PH :02551-230305.
@@ -17995,7 +18746,9 @@ PH:9167980004/9167980084/9594950000.
 ## IMPHAL
 
 1659. EASTERN MOTORS (7401-01-), CHINGMEIRONG EAST, IMPHAL, MANIPUR - 795 001 PH :8415945626.
+---
 
+## Page 424
 1660. EASTERN MOTORS (7401-02-), NH,39, CHINGMEIRONG, WEST, IMPHAL. -795010 PH :8415945626.
 1661. SAMADON ENTERPRISE (7402-01-), 82 GHARI MAKHA LEIKAI, IMPHAL WEST, MANIPUR. - 795 140 PH :7005987123.
 
@@ -18160,7 +18913,9 @@ PH:9167980004/9167980084/9594950000.
 1699. JYOTE MOTORS (CWG1-01-), .M/S PLOT NO 350/30,MOUZA-GOBARDHANPUR,BALUGAON, PH :9776615001. 758/31,KHATA NO DISTRICT-KHORDA,ODISHA-752030-752030
 
 ## BAMRA
+---
 
+## Page 425
 - 1700.ODYSSEYMOTORS (SIA1-01-),M/S ODYSSEY MOTORS,NEAR SATSANG KENDRA, DUMERMUNDA COLLEGE ROAD, BAMRA,GOVINDPUR-768221. - 768221 PH :9439314464.
 
 ## BARGARH
@@ -18301,9 +19056,8 @@ PH :9583022020.
 ## SUNDERGARH
 
 1741. ORBIT MOTORS PVT. LTD. (BWJ1-01-), M/S PH :8249354447. SUNDERGARH, BY PASS ROAD, NEAR BJP OFFICE,SUNDERGARH-770001 ORBIT MOTORS,AT-PATRAPALI,PO
-
 ---
-
+## Page 426
 ## DealerNetwork（ASON31.10.2023)
 
 ## TANGI
@@ -18469,7 +19223,9 @@ PH:9815131766, 9872312371.
 1779. HIRA AUTOMOBILES LTD (OG01-01-), CHANNA MOUR, PEHOWA PATIALA ROAD, DEVIGARH, DISTT. PATIALA (PUNJAB). - 147111 PH:8872034118, 9217048250.
 
 ## DHILWAN
+---
 
+## Page 427
 1780. MARWAHA AUTOS (SGU1-01-), MIANI BAKARPUR,AMRITSAR ROAD, OPP-INDIAN OIL PETROL PUMP, DHILWAN DISTT KAPURTHALA PH :9779166004. 144804
 
 ## DORAHA
@@ -18623,7 +19379,9 @@ PH:9875928451, 9875928450.
 1821. MARWAHA AUTOS (A UNIT OF INDERJIT MARWAHA AUTOS PRIVATE LIMITED) (6210-01-), GT ROAD, OPPOSITE GOYAL LUDHIANA, DISTRICT -LUDHIANA, PUNJAB PH:8054399990. HYUNDAI, VILLAGE DHANDHARI KHURD, 141010
 
 ## MACHIWARA
+---
 
+## Page 428
 ## DealerNetwork（ASON31.10.2023)
 
 - 1822.HOSHIARPUR AUTOMOBILES (9T03-01-), SAMRALA ROAD, MACHIWARA, NEAR SHEEVA MARRIAGE PALACE-141115 PH :9875900147.
@@ -18778,7 +19536,9 @@ PH :2232295, 2232296, 9217048250.
 1862. HOSHIARPUR AUTOMOBILES (TF03-01-), KHEWAT KHATONI NO. 802/1049 &amp; 821/1070 KHEWAT KHAS NO. 43/1/2/1 (1-0), BESIDE SBI BANK, BASSI ROAD, SIRHIND, TEHSIL AND DISTRICT-FATEHGARH SAHIB-140406 PH:9815131766, 7527082471.
 
 SULTANPURLODHI
+---
 
+## Page 429
 1863. MARWAHA AUTOS (A UNIT OF INDERJIT MARWAHA AUTOS PVT. LTD.) (ZY02-01-), NEAR TALWADI BRIDGE, TALWANDI ROAD, SULTANPUR LODHI, DISTRICT -KAPURTHALA 144626 PH :9779166004.
 
 ## TALWANDI BHAI
@@ -18931,7 +19691,9 @@ PH :95876 87000, 84400 41027.
 1902. TM MOTORS PVT. LTD. (5J01-01-), BRIJ VIHAR PH :9251423392. ROAD,BHARATPUR,RAJASTHAN -321001 COLONY,MADARPUR
 
 ## BHAWANI MANDI
+---
 
+## Page 430
 ## DealerNetwork（ASON31.10.2023)
 
 - 1903.SUWALKA MOTORS PVT LTD (SDB1-01-), K.NO 327 MANDAVIOPPOSITE SDM OFFICE JHALAWAR ROAD, BHAWANIMANDI,JHALAWAR- 326502. - 326502 PH :9414242256.
@@ -19091,9 +19853,8 @@ PH :01552-231295,9166712222, 9413311745.
 1944. AURIC MOTORS (7101-06-), PLOT NUMBER 134, INDUSTRIAL AREA, HANUMANGARH, RAJASTHAN. - 335512 PH :9413311745.
 
 ## HINDAUN
-
 ---
-
+## Page 431
 1945.FORTUNE CARS (A UNIT OFJYOTI AUTOMOBILES PVT LTD) (S002-01-), KHASRA NO. 737, VILLAGE - PATTI NARAINPUR, NEAR HANUMAN MANDIR, HINDAUN-MAHWA ROAD, HINDAUN. - 322230 PH :7017024146,7017024146.
 
 ## JAIPUR
@@ -19225,7 +19986,9 @@ PH :0744-2439008,2439006,9587894887
 - 1990.BHATIA &amp; COMPANY (A UNIT OF BHATIA INDUSTRIAL AREA, KOTA, RAJASTHAN. CORPORATION PVT. LTD.) (6101-06-), PLOT NO. E-222, ROAD NUMBER 5, INDRAPRASTHA 324005
 
 PH:0744-2439008,2439006,9587894887.
+---
 
+## Page 432
 1991. SUWALKA MOTORS PVT. LTD. (6104-01-), RIDDHI SIDDHI NAGAR, KUNHARI, BUNDI ROAD, KOTA, RAJASTHAN.-324008 PH :0744-2661226,7742121212.
 
 ## KOTPUTLI
@@ -19382,7 +20145,9 @@ PH :8306009399.
 ## RAISINGHNAGAR
 
 2029.AURIC MOTORS(A UNIT OFAUDI MOTORSPVT LTD) (BHK1-01-), PLOT NO. H-2, INDUSTRIAL AREA,RAISINGHNAGAR, DISTRICTSRIGANGANAGAR.-335051 PH:9982638516.
+---
 
+## Page 433
 ## RAJGARH
 
 2030. MG MOTORS (IY01-01-), ALWAR SIKANDRA MEGA HIGHWAY, VILLAGE DIGAWARA, TEHSIL RAJGARH DISTT. ALWAR - 301408 PH :9001795520.
@@ -19526,7 +20291,9 @@ PH :8306009399.
 ## SUMERPUR
 
 2067. LMJ SERVICES LTD. (6502-08-), G-14 JAKHAMATA INDUSTRIAL AREA, OPP. DASHEREA GROUND, SUMERPUR-306902 PH:8094002633.
+---
 
+## Page 434
 ## DealerNetwork（ASON31.10.2023)
 
 ## SURATGARH
@@ -19661,7 +20428,9 @@ PH :044-24462020.
 2104. ABT LIMITED (1401-05-), A/A2, BHARANI STUDIO COMPLEX, DR. BHANUMATHI KRISHNA ROAD,22, ARCOT ROAD, SALIGRAMMAM, CHENNAI- 600093
 - PH :044-23650488, 23650490. 2105. ABT LIMITED (1401-06-), NO. 1 &amp; 2, VASANTHA PRESS,ROAD, OPPOSITE MALAR HOSPITAL, ADYAR, CHENNAI - 600020 PH :044-24465814 , 24465815.
 2106. CARS INDIA PVT. LTD. (1403-03-), 4/321, OLD MAHABALIKPURAM RD. , KOTTIVAKKAM, CHENNAI - 600040 PH :044-24540182 /43590913.
+---
 
+## Page 435
 - 2107.POPULARVEHICLES&amp;SERVICES LTD (1410-01-), NO.11, ARUNACHALAM ROAD, SALIGRAMAM, CHENNAI - 600093 PH:9282405819, 9282348331,8939915206.
 2108. ABT LIMITED (1401-07-), NO. 422, KOLAPERUMAL SCHOOL STREET, POONMA MALLE HIGH ROAD, CHENNAI - 600106 PH :044-42267628/604.
 2109. CRESCO (A UNIT OF NEXGEN VENTURES PVT LTD). (1493-01-), 5,THIRUMURUGAN ST, KOYAMBEDU, CHENNAI - 600107 PH :7305087055.
@@ -19733,9 +20502,8 @@ PH :98414 23569.
 ## CUDDALORE
 
 2156. ABT LIMITED (5Q01-01-), K. V. SUBRAMANIAM NAGAR, CHIDAMBARAM MAIN ROAD, CUDDALORE O.T-607003 PH :04142-224567.
-
 ---
-
+## Page 436
 ## DealerNetwork（ASON31.10.2023)
 
 2157. VISHNU CARS PVT.LTD. (5Q02-01-), SURVEY NO.35/8,35/8A,35/21,35/6,35/6A1A,35/20, VILLAGE - PERIYA KANANGAKUPPAM, CUDDALORE - 607 001 PH:7338884131.
@@ -19875,7 +20643,9 @@ PH :9500202416/ 8220004270.
 2193. PILLAI &amp; SONS MOTOR CO. (E701-02-), 369/2 B, KUMBAKONAM CHENNAI MAIN ROAD, KUMBAKONAM , TANJAVUR -612501 PH:0435-2442566,2442565,9443264696
 
 ## MADURAI
+---
 
+## Page 437
 2194. ABT LIMITED (4202-02-), MADURAI-DINDIGAL BYE PASS ROAD,NEAR FATHIMA COLLEGE,MADURAI -625018 PH :9994400615.
 
 2195. ABT LIMITED (4202-04-), 09, 109A, GST ROAD, PH :9600966164. TIRUPARANKUNDRAM, MADURAI - 625005
@@ -20008,7 +20778,9 @@ PH :9500202416/ 8220004270.
 2231. SRI AMMAN CARS INDIA PVT LTD (SRA1-01-), SURVEY NO:708,PLOT NO: 87,88 &amp; 89, PERNAMBUT TO GUDIYATTAM ROAD, PERNAMBUT,VELLORE DISTRICT, TAMIL NADU -635810-635810 PH :7094403100.
 
 ## PERUNDURAI
+---
 
+## Page 438
 2232.SREE SARADHAMBAL AUTOMOBILES PVT LTD (BTX1-01-), SF NO.542/1, KOVAI MAIN ROAD, ERODE, TAMIL NADU - 638052 PERUNDURAI VILLAGE, PERUNDURAI DISTT. PH :9597490777.
 
 ## POCHAMPALLI
@@ -20160,7 +20932,9 @@ PH:04362-271723, 271724, 9443264164.
 2268. KHIVRAJ MOTORS PVT LTD. (1404-05-), PLOT NOS.218,219,220,225,226,227.228 AND S.NOS.18/5,18/6, EMPIRE CITY PART-3, PH :97103 94818. KAKKALLUR VILLAGE, THIRUVALLUR THALUK, THIRUVALLUR - 602001
 
 ## THIRUVANNAMALAI
+---
 
+## Page 439
 2269. GANESH CARS PVT. LTD. (C601-03-), NO.-5, NH-78, KRISHANAGIRI PONDY ROAD, CHINA KANKEYANUR, OPP SKP ENGG. COLLEGE, THIRUVANNAMALAI - 606601 PH :9842305072.
 
 ## THIRUVARUR
@@ -20308,7 +21082,9 @@ PH:95009 98368
 ## ALANGUDI
 
 2306. PLA MOTORS (SLR1-01-), S. NO. 400/6-A-2, NO. 1/85, MANGALAPURAM, PUDDUKOTTAI TO ALANGUDI ROAD, NEAR KNP KALYANA MANDAPAM, ALANGUDI TOWN &amp; TALUK, PUDUKKOTTAI DIST., TN -622301 -622301 PH :8870454466.
+---
 
+## Page 440
 ## DealerNetwork(ASON31.10.2023)
 
 ## CHENNAI
@@ -20452,9 +21228,8 @@ PH:9841591558.
 2340. SRI JAYARAMA MOTORS PVT. LTD. (WP01-02-), PLOT NO. 5 &amp; 6, BESIDE RURAL POLICE DISTRICT, ANDHRA PRADESH - 500125 STATION, KURNOOL ROAD, MAHABUB NAGAR PH :8096990074, 8096996671.
 
 ## GAJWEL
-
 ---
-
+## Page 441
 2341. ACER MOTORS (A DIVISION OF KRISHNAIAH MOTORS PVT. LTD) (BYU1-01-), SURVEY NO. 220, VILLAGE-PRAGNAYPUR, GAJWEL, DISTRICT - MEDAK, TELANGANA . - 502311 PH:8885088080, 9849017827.
 
 ## GHATKESAR
@@ -20542,7 +21317,9 @@ PH:4553395, 4547676, 9885093360.
 ## DealerNetwork（ASON31.10.2023)
 
 2375. KALYANI MOTORS PVT. LTD. (1018-02-), M/S VIDHATA BINNY MODERN RICE MILL, BEARING NO. 8-4-15 IN SURVEY NO. 239 &amp; 240 OF VILLAGE - KARMANGHAT, MANDAL SAROORNAGAR,DISTRICT-RANGA REDDY, HYDERABAD. - 500079 PH :9100222377. 2376. ADARSHA AUTOMOTIVES PVT LTD (1019-01-), H. NO. 2-4-43/15, SURVEY NO. 34, SOGBOWLI (PILLER NO. 185 OF P.V. NARSIMHA RAO EXPRESSWAY), RAJENDRANAGAR, UPPERPALLY, ATTAPUR, RANGA REDDY, HYDERABAD, TELENGANA. - 500048 PH:9705436633,8297426633. 2377. THE MITHRA AGENCIES (1002-06-), SURVEY NO.57, D.NO.8-2-108, BIRAMALGUDA, KARMANGHAT NAGARJUN SAGAR ROAD, HYDERABAD, TELANGANA. - 500079 PH :8886621232. 2378. VARUN MOTORS PVT. LTD. (4603-0M-), KSN GARDENS, 5-162/6, BORABANDA MAIN ROAD, HYDERABAD. - 500018 PH :9885579623. 2379.JAYABHERIAUTOMOTIVES PVT.LTD (1017-03-), SURVEY NO.283, PLOT NO.D-46 &amp; 47, PHASE-V, IDA, JEEDIMETLA, QUTUBULLAPUR MANDAL, RANGA REDDY DISTT., HYDERABAD (TELANGANA). -500055 PH :7799784567. 2380.ADARSHA AUTOMOTIVES PVT LTD (1014-03-), SURVEY NO.220/A, AMBEDKAR ROAD, OPP HERITAGE FRESH, NEAR AMBAEDKAR STATUE, NEAR ALWAL, SECUNDERABAD. - 500 010 PH :9291859954. 2381. KALYANI MOTORS PVT. LTD. (1018-03-), SURVEY NO. 305, NIZAMPET, MANDAL QUTBULLAPUR, DIST.-RANGA REDDY, HYDERABAD. - 500 072 PH :040 68158999, 9121223221. 2382. THE MITHRA AGENCIES (1002-07-), SURVEY NO,12,13,14&amp; 15, MEDIPALLY, GHATKESAR MANDAL, RANGA REDDY DISTRICT, HYDERABAD, TELANGANA - 500098 PH :8886697954. 2383. JAYABHERI(1085-01-), SURVEY NO 686,UPPAL, MEDCHAL-MALKAJGIRI DISTRICT,HYDERABAD,TELANGANA - 500013 PH:8142506666. IBRAHIMPATNAM 2384. PAVAN MOTORS PVT. LTD (CSF1-01-), S.NO.123/E, MPP PATELGUDA, IBRAHIMPATNAM, RANGA REDDY - 501506 PH :8790144499. JAGITIAL
+---
 
+## Page 442
 ## DealerNetwork(ASON31.10.2023)
 
 2385. ADARSHA AUTOMOTIVES PVT LTD (N601-04-), HOUSE NO.-1-5-216/A,OPPOSITE TO KVA PH :8886152222. SUBSTATION, KARIMNAGAR ROAD, JAGTIAL, 505327
@@ -20684,7 +21461,9 @@ PH:4553395, 4547676, 9885093360.
 2422. VARUN MOTORS PVT. LTD. (CDO1-01-), BLOCK NO. 16, RAMAYAMPET, DISTRICT SURVEY NO.1626 &amp; 1626/2 SITUATED AT MEDAK. - 502101 PH:9885208555,9703803399.
 
 ## SADHASHIVPET
+---
 
+## Page 443
 2423. SAI SERVICE (SFQ1-01-), PLOT NO. 2, SY NO. 974, GURUNAGAR COLONY, OLD BOMBAY HIGHWAY ROAD, SADASHIVPET, SANGAREDDY DIST. 502291. - 502291 PH:9966377888.
 
 ## SANGAREDDY
@@ -20820,7 +21599,9 @@ OPP.INDUSTRIAL ESTATE, AGARTALA -799003 PH :9862149275. 2453. JAIN UDYOG (6901-0
 2461. MADHUSUDAN MOTORS PVT LTD (6603-01-), B-5 LAWYERS COLONY, BYE PASS ROAD, AGRA-282005 PH :531102-05. 2462. MADHUSUDAN MOTORS PVT LTD (6603-02-), GANESH GANJ, PRATAPPURA, AGRA - 282001 PH :9837097887. 2463. MADHUSUDAN MOTORS PVT LTD (6603-03-),
 
 6-A , VIBHAV INDUSTRIAL STATE, AGRA 282007 PH:3299221.
+---
 
+## Page 444
 2464. MADHUSUDAN MOTORS PVT LTD (6603-04-), 26/253, SULTAN GANJ KI PULIA, MAUZA LASKARPUR, AGRA-283203 PH :9837097894.
 
 2465. KTL PVT. LTD. (6606-01-), MUGHAL ROAD, KAMLA NAGAR, AGRA - 282004 PH:8449715033,8449715099.
@@ -20982,7 +21763,9 @@ PH :286294.
 2506. SHAKUMBARI AUTOMOBILES (P) LTD (6D01-01-), PLOT&amp;KHASRA NO.253/3&amp; 258/1 HOSPITAL, DELHI-BIJNOR HIGHWAY, BIJNOR, PH :8630881409. ADJACENT KHEDI CHAURAHA, NEAR PULKIT DIST.-BIJNOR, UTTAR PRADESH. - 246701
 
 ## BILARI
+---
 
+## Page 445
 2507. AKANKSHA AUTOMOBILES PVT. LTD (SDM1-01-), 2KM-BILARI NH 509, NEAR SBS SCHOOL, BILARI, MORADABAD 244001 - 244001 PH :7900600008.
 
 ## BILASPUR
@@ -21157,9 +21940,8 @@ PH :8588872804.
 ## GORAKHPUR
 
 2548. SMARTWHEELS PVT. LTD. (7201-01-), 2549. SMARTWHEELS PVT. LTD. (7201-06-), NEAR T B MOHADDIPUR, (NEAR RAMGARH TAL), GORAKHPUR (U.P.)- 273012 PH :7705803152. HOSPITAL, LACHCHIPUR, NEPAL ROAD, GORAKHPUR-273012 PH :7705803109.
-
 ---
-
+## Page 446
 ## DealerNetwork（ASON31.10.2023）
 
 2550. SMARTWHEELS PVT. LTD. (7202-01-), PLOT NO.AL-4, SECTOR-9, GIDA, GORAKHPUR. 273209
@@ -21323,7 +22105,9 @@ PH:9837097863,9690003034.
 ## LAKHIMPUR
 
 2594. SUMITRA DS MOTORS PVT LTD (W201-02-), LAKHIMPUR KHERI - 242001 PH :7522888333, 9415770000. GATA NO. 66,LRP ROAD, TOWARDS GOLA,
+---
 
+## Page 447
 2595. SUMITRA DS (M301-01-), GATE NO 604, PALIA ROAD, NEAR FCI WEAR HOUSE, VILLAGE BHARDSARIYA, KHERI, LAKHIMPUR - 262702 PH:7522888333, 9415770000.
 
 ## LALGANJ
@@ -21469,7 +22253,9 @@ KHASRA NO 1926/ MINJUMLA &amp; 1927/1, MAHAL LEKHRAJ MUJBITA, MAIN DELHI ROAD, M
 2638. MOTORCRAFT SALES PVT. LTD. (5903-02-), OPPOSITE SONIA ENCLAVE,ADJACENT SUMAN CINEMA, NH-58, MODINAGAR - 201204 PH :09557338222 &amp; 07042427140.
 
 ## MOHANLAL GANJ
+---
 
+## Page 448
 2639. BRIGHT 4 WHEEL SALES PVT. LTD. (BWU1-01-), KHASARA PLOT NO.581, VILLAGE PURSANI, PARGANA AND TEHSIL MOHANLALGANJ, LUCKNOW DISTT, UTTAR PRADESH - 227305 PH :7571905966.
 
 ## MOOSANAGAR
@@ -21601,7 +22387,9 @@ ROAD, NAUTANWA, DISTT - MAHARAJGANJ 273164 PH :77058 00602.
 2680. T.R. SAWHNEY MOTORS PVT LTD (819-03-), 28/1/1, SITE-IV, SAHIBABAD INDUSTRIAL PH:9999399152; 9999399143. AREA,DISTT- GHAZIHABAD, UTTAR PRADESH 201010
 
 ## SALEMPUR
+---
 
+## Page 449
 2681. SMARTWHEELS PVTLTD (GKA1-01-), GHATA NO. 48, GRAM: DEVPAR, TEHSILL: SALEMPUR, PARGANA: SALEMPUR MAUJHAULI, DISTT: DEORIA - 274509 PH:7705800602, 7705803321.
 
 ## SALON
@@ -21753,7 +22541,9 @@ PH :0135-2725376, 0135-2720342, 7217014647.
 4. PH :9760444430.
 
 ## DIDIHAT
+---
 
+## Page 450
 2721. NAINITAL MOTORS (SKN1-01-), SUBHASH PH :9634092692. CHANDRA BOSE WARD, NEAR D.1.E.T, DIDIHAT, DISTT PITHORAGARH, PINCODE: 262551. 262551
 
 ## DOIWALA
@@ -21907,9 +22697,8 @@ PH :8650876815.
 2758. SANEI MOTORS PVT. LTD. (BON1-01-), C/O, DINABANDHU TARAFDAR, S/O LATE PARGANAS,WEST BENGAL.-743270 PH :8584050184. HALENCHA SOUTH, P.O. -HALENCHA COLONY, P.S.-BAGDAH, DISTRICT -NORTH 24 NARENDRANATH TARAFDAR, VILLAGE -
 
 ## BAHRAMPUR
-
 ---
-
+## Page 451
 2759. BEEKAY AUTO PVT LTD (DJ02-01-), BOKULTALA (PASCHIM GAMINI), NH-34, BAHARAMPUR, PH :267340. DISTT. MURSHIDABAD. -742101
 
 ## BAJKUL
@@ -22047,7 +22836,9 @@ PH:8945526833.
 2792. BHANDARI AUTOMOBILES PVT LTD (AAD1-01-), VILL. NIMTOLA, P.O. &amp; P.S. DASPUR, PH:9933055539. 721211 GHATAL,WEST MIDNAPORE,WEST BENGAL -
 
 ## GOPIBALLAVPUR
+---
 
+## Page 452
 ## DealerNetwork（ASON31.10.2023)
 
 2793. BHANDARI AUTOMOBILES PVT LTD (BPQ1-01-), JL NO. 1103, KHATIAN NO. 1103, PLOT NO. 438, VILLAGE + P.O. + P.S. -GOPIBALLVPUR , MOUZA - GOPIBALLVPUR, WEST MIDNAPUR, WEST BENGAL.-721506 PH:9933055539, 8170018577.
@@ -22181,7 +22972,9 @@ PH :8584050184.
 2830. BHANDARI AUTOMOBILES PVT LTD (BMJ1-01-), NAKASHIPARA, DIST.-NADIA, WEST BENGAL. PH :9163314418. L R DAG NO. 7271, UNDER L R KHATIAN NO 6734, MOUZA - DEBAGRAM, J L NO. 60, POLICE STATION - KALIGANJ, BLOCK - KALIGANJ, 741138
 
 ## NAXALBARI
+---
 
+## Page 453
 2831.BEEKAY AUTO PVT LTD (CSJ1-01-),MOUZAGENI, KHATIAN NO.275, PARGANA-HATIGHISHA, P.S. NAXALBARI, DISTT. DARJEELING, WEST BENGAL - 734429 PH:9932049347 9932049382 7478004430 9563370099.
 
 ## PANCHLA
@@ -22279,7 +23072,9 @@ PH:9932049347
 ## ULUBERIA
 
 2855. BHANDARI AUTOMOBILES PVT LTD (2401-01-), HOLDING 1242A, BANITABLA, P.O+P.S: ULUBERIA, NH-6, DISTT: HOWRAH, WEST BENGAL - 711316 PH:8335052335.
+---
 
+## Page 454
 ## Maruti Service Master(AS ON30.10.2023)
 
 ## DELHI
@@ -22295,7 +23090,9 @@ PH:41612194, 40685500.
 ## CHENNAI
 
 3. J J IMPEX (DELHI) LTD(MARUTI SERVICE MASTERS) (1485-14-01), # 9, (SP),THIRU-VI-KA INDUSTRIAL ESTATE, GUINDY, CHENNAI 600032 PH:044-43563366,43563367, 9176615000.
+---
 
+## Page 455
 ## ARUNACHALPRADESH
 
 ## ITANAGAR
@@ -22472,9 +23269,8 @@ PH :4581111; 4581131/9650631111.
 ## KOLKATA
 
 38. MANOCO SALES (P) LTD. (0681-06-01), 25/1, PH:24568326,24486568,24568325 CHETLA CENTRAL ROAD, OPPOSITE CHETLA PARK, KOLKATA -700027
-
 ---
-
+## Page 456
 ## BATTERYLABELSYMBOLMEANINGS
 
 <!-- image -->
@@ -22487,4 +23283,11 @@ Part No.99011M80T05-74W Printed in India
 
 For 24 X7 assistance, contact Toll Free number 1800 102 6392" / 1800 200 6392 (NEXA) # No STD code to be prefixed.
 
+> **[DIAGRAM]:** A
+
+
+---
+
+## Page 457
 SerwiceDivision MARUTISUZUKIINDIALIMITED Palam Gurgaon Road,Gurgaon /122 015 (Haryana) www.marutisuzuki.com
+---
