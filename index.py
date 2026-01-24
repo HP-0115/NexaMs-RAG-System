@@ -1,171 +1,237 @@
-"""
-Nexa Knowledge Base Indexer
----------------------------
-This pipeline handles the "ETL" (Extract, Transform, Load) process for RAG.
-1. LOADS markdown files from the 'data/parsed_docs' directory.
-2. CHUNKS them using a Hybrid Strategy (Semantic + Recursive Fallback).
-3. EMBEDS them using the BGE-Small model.
-4. UPSERTS vectors to the Pinecone serverless database.
-
-It includes safety checks to ensure no single chunk exceeds Pinecone's 40KB metadata limit.
-"""
-
 import os
 import sys
-import nest_asyncio
-from typing import List
+import re
+import logging
+import random
+from typing import List, Dict, Optional
 from dotenv import load_dotenv
 
 from llama_index.core import VectorStoreIndex, StorageContext, Settings, Document
-from llama_index.core.schema import BaseNode
-from llama_index.core.node_parser import SemanticSplitterNodeParser, SentenceSplitter
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.vector_stores.pinecone import PineconeVectorStore
 from pinecone import Pinecone, ServerlessSpec
 
-# --- INIT ---
-load_dotenv()
-nest_asyncio.apply()
-
 # --- CONFIGURATION ---
+load_dotenv()
+logging.basicConfig(level=logging.INFO, format='%(message)s')
+logger = logging.getLogger(__name__)
+
 INDEX_NAME = "nexa-knowledge-base"
 EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
+EMBEDDING_DIM = 384
 PARSED_DOCS_DIR = "data/parsed_docs"
-# Pinecone has a strict 40KB limit for metadata. We set a safe buffer.
-PINECONE_METADATA_LIMIT_BYTES = 30000 
 
-# Global Settings
-print(f"--> Loading Professional Embedding Model ({EMBEDDING_MODEL})...")
+# Universal Safety Keywords (Do not split on these; keep them in the chunk)
+SAFETY_KEYWORDS = {
+    "WARNING", "CAUTION", "NOTICE", "NOTE", "TIP", "DANGER", "IMPORTANT"
+}
+
+# --- SETUP LLAMA INDEX & PINECONE ---
 Settings.embed_model = HuggingFaceEmbedding(
     model_name=EMBEDDING_MODEL,
     trust_remote_code=True
 )
 
 def get_pinecone_index():
-    """
-    Connects to Pinecone and ensures the index exists.
-    If not, it creates a new Serverless index.
-    """
     api_key = os.getenv("PINECONE_API_KEY")
     if not api_key:
-        print("[Error] PINECONE_API_KEY not found in .env")
+        print("Error: PINECONE_API_KEY missing in .env")
         sys.exit(1)
     
     pc = Pinecone(api_key=api_key)
-    
-    existing_indexes = [index.name for index in pc.list_indexes()]
-    
-    if INDEX_NAME not in existing_indexes:
-        print(f"--> Creating new Index: {INDEX_NAME}...")
-        try:
-            pc.create_index(
-                name=INDEX_NAME,
-                dimension=384, # Matches BGE-Small dimensions
-                metric="cosine",
-                spec=ServerlessSpec(cloud="aws", region="us-east-1")
-            )
-        except Exception as e:
-            print(f"[!] Failed to create index: {e}")
-            sys.exit(1)
-            
+    if INDEX_NAME not in [i.name for i in pc.list_indexes()]:
+        pc.create_index(
+            name=INDEX_NAME, 
+            dimension=EMBEDDING_DIM, 
+            metric="cosine", 
+            spec=ServerlessSpec(cloud="aws", region="us-east-1")
+        )
     return pc.Index(INDEX_NAME)
 
-def adaptive_chunking(documents: List[Document]) -> List[BaseNode]:
-    """
-    Hybrid Chunking Strategy:
-    1. Attempt Semantic Chunking (Split by Meaning/Topic).
-    2. Safety Check: If any chunk is too large for Pinecone, recursively split it
-       using a standard SentenceSplitter.
-    """
-    print("--> 1. Running Semantic Chunking (Analyzing topic shifts)...")
-    
-    # Semantic Splitter uses embeddings to find "natural breaks"
-    semantic_splitter = SemanticSplitterNodeParser(
-        buffer_size=1,
-        breakpoint_percentile_threshold=95, # Higher = stricter splitting
-        embed_model=Settings.embed_model
-    )
-    
-    initial_nodes = semantic_splitter.get_nodes_from_documents(documents)
-    print(f"    Generated {len(initial_nodes)} semantic nodes.")
+def is_file_in_database(index, filename):
+    """Checks if a file has already been indexed to avoid duplicates."""
+    try:
+        # Query with a dummy vector just to check metadata filtering
+        dummy_vector = [0.1] * EMBEDDING_DIM
+        response = index.query(
+            vector=dummy_vector, 
+            filter={"filename": {"$eq": filename}}, 
+            top_k=1, 
+            include_metadata=False
+        )
+        return len(response['matches']) > 0
+    except Exception:
+        return False
 
-    print("--> 2. Running Adaptive Safety Check (Pinecone Compliance)...")
-    final_nodes = []
-    
-    # Fallback splitter for massive nodes
-    safety_splitter = SentenceSplitter(chunk_size=512, chunk_overlap=50)
-
-    for node in initial_nodes:
-        # Check size of text + metadata roughly
-        node_size = len(node.text.encode('utf-8'))
+# --- CORE LOGIC: HIERARCHICAL MARKDOWN CHUNKER ---
+class HierarchicalBuilder:
+    def __init__(self):
+        # State tracking
+        self.current_chapter = "General"
+        self.current_topic = "Introduction"
+        self.current_page = 1
         
-        if node_size > PINECONE_METADATA_LIMIT_BYTES:
-            print(f"    [!] Found massive node ({node_size} bytes). Applying fallback splitting...")
-            # Recursively split just this massive node
-            sub_nodes = safety_splitter.get_nodes_from_documents([
-                Document(text=node.text, metadata=node.metadata)
-            ])
-            final_nodes.extend(sub_nodes)
-        else:
-            final_nodes.append(node)
-            
-    print(f"    Final Node Count: {len(final_nodes)} (Safe for Pinecone)")
-    return final_nodes
+        # Buffer for the current chunk being built
+        self.chunk_buffer = []
+        self.chunk_start_page = 1
 
+    def is_chapter_header(self, text: str) -> bool:
+        """Heuristic: Main Chapters are usually ALL CAPS (e.g., 'BEFORE DRIVING')."""
+        clean_text = re.sub(r'[^a-zA-Z\s]', '', text).strip()
+        return clean_text.isupper() and len(clean_text) > 3
+
+    def is_safety_header(self, text: str) -> bool:
+        """Checks if header is a safety alert (WARNING/NOTE) that should remain in-text."""
+        first_word = text.split()[0].upper().strip(":")
+        return first_word in SAFETY_KEYWORDS
+
+    def flush_chunk(self, car_model: str, filename: str) -> Optional[Dict]:
+        """Packages the current buffer into a structured chunk dictionary."""
+        text_content = "\n".join(self.chunk_buffer).strip()
+        
+        # Skip empty or noise chunks
+        if len(text_content) < 50:
+            return None
+
+        # Create the Context Path string (The RAG Secret Sauce)
+        context_path = f"{self.current_chapter} > {self.current_topic}"
+        
+        # Page Range Logic (e.g., "Page 5-6")
+        if self.chunk_start_page == self.current_page:
+            page_str = str(self.chunk_start_page)
+        else:
+            page_str = f"{self.chunk_start_page}-{self.current_page}"
+
+        chunk_data = {
+            "text": text_content,
+            "metadata": {
+                "car_model": car_model,
+                "filename": filename,
+                "chapter": self.current_chapter,
+                "topic": self.current_topic,
+                "page_number": page_str,
+                "context_path": context_path
+            }
+        }
+        return chunk_data
+
+def process_file_hierarchical(filepath: str, filename: str, car_model: str) -> List[Document]:
+    """
+    Reads file line-by-line (M1 Memory Safe), builds a hierarchy tree, 
+    and returns LlamaIndex Documents.
+    """
+    builder = HierarchicalBuilder()
+    documents = []
+
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            for line in f:
+                stripped_line = line.strip()
+
+                # --- 1. NOISE REMOVAL (Just-in-Time) ---
+                # Detect and ignore page markers to "heal" split sentences/tables
+                page_match = re.match(r'^## Page (\d+)', stripped_line)
+                if page_match:
+                    builder.current_page = int(page_match.group(1))
+                    continue  # SKIP: Do not add this line to the text buffer
+                
+                if stripped_line == '---':
+                    continue # SKIP: Visual separators
+
+                # --- 2. HEADER DETECTION ---
+                if stripped_line.startswith('## '):
+                    header_text = stripped_line[3:].strip()
+                    
+                    # A. Safety Header Glue: Downgrade to bold, keep in current chunk
+                    if builder.is_safety_header(header_text):
+                        builder.chunk_buffer.append(f"**{header_text}**")
+                        continue
+
+                    # B. Structural Split: Flush current buffer before starting new section
+                    if builder.chunk_buffer:
+                        chunk_data = builder.flush_chunk(car_model, filename)
+                        if chunk_data:
+                            # INJECT CONTEXT into the raw text for the embedding model
+                            enriched_text = f"Context: {chunk_data['metadata']['context_path']}\n\n{chunk_data['text']}"
+                            
+                            doc = Document(
+                                text=enriched_text,
+                                metadata=chunk_data['metadata']
+                            )
+                            documents.append(doc)
+                        
+                        # Reset Buffer for the new section
+                        builder.chunk_buffer = []
+                        builder.chunk_start_page = builder.current_page
+
+                    # C. Update Context Hierarchy
+                    if builder.is_chapter_header(header_text):
+                        builder.current_chapter = header_text
+                        builder.current_topic = "General" # Reset topic on new chapter
+                    else:
+                        builder.current_topic = header_text # It's a sub-topic
+                    
+                    # Add the header itself to the text for readability
+                    builder.chunk_buffer.append(f"# {header_text}")
+                    continue
+
+                # --- 3. ACCUMULATE CONTENT ---
+                builder.chunk_buffer.append(stripped_line)
+
+            # --- 4. FLUSH FINAL CHUNK ---
+            if builder.chunk_buffer:
+                chunk_data = builder.flush_chunk(car_model, filename)
+                if chunk_data:
+                    enriched_text = f"Context: {chunk_data['metadata']['context_path']}\n\n{chunk_data['text']}"
+                    doc = Document(text=enriched_text, metadata=chunk_data['metadata'])
+                    documents.append(doc)
+
+    except Exception as e:
+        print(f"Error processing {filename}: {e}")
+        return []
+
+    return documents
+
+# --- MAIN EXECUTION ---
 def load_and_index_data():
-    """
-    Main execution pipeline: Load MD -> Chunk -> Embed -> Upsert.
-    """
     if not os.path.exists(PARSED_DOCS_DIR):
-        print(f"[Error] Parsed docs directory '{PARSED_DOCS_DIR}' not found.")
-        print("Did you run 'ingest.py' first?")
+        print(f"Error: Directory '{PARSED_DOCS_DIR}' not found.")
         return
 
-    # 1. Setup Vector Store
     pinecone_index = get_pinecone_index()
     vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
-    # 2. Load Documents
-    print("--> Reading markdown files...")
-    all_documents = []
     files = [f for f in os.listdir(PARSED_DOCS_DIR) if f.endswith(".md")]
-    
-    if not files:
-        print("[Warning] No .md files found to index.")
-        return
+    print(f"--> Found {len(files)} manuals.")
 
     for filename in files:
-        filepath = os.path.join(PARSED_DOCS_DIR, filename)
-        # Convert "Grand_Vitara.md" -> "Grand Vitara"
         car_model = filename.replace(".md", "").replace("_", " ").title()
+        filepath = os.path.join(PARSED_DOCS_DIR, filename)
+
+        if is_file_in_database(pinecone_index, filename):
+            print(f" [SKIP] {car_model} already in DB.")
+            continue
+
+        print(f" [Indexing] {car_model} via Hierarchical Strategy...")
         
-        with open(filepath, "r", encoding="utf-8") as f:
-            content = f.read()
+        # PROCESS
+        documents = process_file_hierarchical(filepath, filename, car_model)
+        
+        if documents:
+            print(f"    -> Created {len(documents)} semantic chunks.")
             
-        doc = Document(
-            text=content,
-            metadata={
-                "car_model": car_model,
-                "filename": filename,
-                "type": "manual"
-            }
-        )
-        all_documents.append(doc)
-        print(f"    Loaded: {car_model}")
+            # INDEX
+            VectorStoreIndex.from_documents(
+                documents, 
+                storage_context=storage_context, 
+                show_progress=False
+            )
+            print(f"    -> {car_model} Indexing Complete.")
+        else:
+            print("    -> No valid chunks found.")
 
-    # 3. Chunking
-    nodes = adaptive_chunking(all_documents)
-
-    # 4. Embedding & Upsert
-    print(f"--> Embedding and Indexing {len(nodes)} chunks...")
-    VectorStoreIndex(
-        nodes,
-        storage_context=storage_context,
-        show_progress=True
-    )
-    
-    print("\n--> SUCCESS! Knowledge Base is updated and live.")
+    print("\n--> Sync Complete.")
 
 if __name__ == "__main__":
     load_and_index_data()

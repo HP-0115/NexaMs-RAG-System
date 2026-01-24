@@ -1,20 +1,20 @@
 """
-Nexa AI Chat Engine
--------------------
-This module handles the RAG (Retrieval-Augmented Generation) inference pipeline.
-It connects to Pinecone, retrieves semantic chunks, reranks them for relevance,
-and synthesizes answers using a Reasoning LLM.
-
-Author: [Your Name]
-Version: 1.0.0
+Nexa AI Chat Engine (V2.0)
+------------------------------------------------------
+Enhancements:
+1. Strict Grounding: Forbids answering outside retrieved context.
+2. Debug Tracing: Shows exactly which chunks were retrieved.
 """
 
 import os
 import sys
 import nest_asyncio
+import logging
 from dotenv import load_dotenv
 
-from llama_index.core import VectorStoreIndex, Settings
+from llama_index.core import VectorStoreIndex, Settings, get_response_synthesizer
+from llama_index.core.retrievers import VectorIndexRetriever
+from llama_index.core.query_engine import RetrieverQueryEngine
 from llama_index.vector_stores.pinecone import PineconeVectorStore
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.postprocessor.sbert_rerank import SentenceTransformerRerank
@@ -28,28 +28,26 @@ nest_asyncio.apply()
 # --- CONFIGURATION ---
 INDEX_NAME = "nexa-knowledge-base"
 EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
-LLM_MODEL = "openai/gpt-oss-20b"
+LLM_MODEL = "openai/gpt-oss-20b" 
 RERANKER_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
 
-# 1. Configure Global Settings
-# Embedding Model (Must match the one used in indexing)
+# 1. Global Settings
 Settings.embed_model = HuggingFaceEmbedding(
     model_name=EMBEDDING_MODEL,
     trust_remote_code=True
 )
 
-# LLM: Optimized for reasoning (GPT-OSS-20B via Groq)
+# 2. LLM Configuration (Temperature 0 = Strict Factuality)
 Settings.llm = Groq(
     model=LLM_MODEL,
     api_key=os.getenv("GROQ_API_KEY"),
-    temperature=0.1
+    temperature=0.0, 
+    max_tokens=1024
 )
 
-def get_chat_engine():
+def get_query_engine():
     """
-    Constructs the RAG engine with a two-stage retrieval process:
-    1. Vector Search (Top 20)
-    2. Cross-Encoder Reranking (Top 5)
+    Builds a custom Query Engine with explicit retrieval steps.
     """
     api_key = os.getenv("PINECONE_API_KEY")
     if not api_key:
@@ -62,66 +60,90 @@ def get_chat_engine():
     vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
     index = VectorStoreIndex.from_vector_store(vector_store=vector_store)
     
-    # --- RERANKER ---
-    # Filters false positives from the initial vector search
+    # --- STEP 1: RETRIEVAL (Wide Net) ---
+    # Retrieve 20 chunks to ensure we catch spread-out tables/contexts
+    retriever = VectorIndexRetriever(
+        index=index,
+        similarity_top_k=20,
+    )
+
+    # --- STEP 2: RERANKING (Sniper Shot) ---
+    # Re-score the 20 chunks and pick the top 5 most relevant ones
     reranker = SentenceTransformerRerank(
         model=RERANKER_MODEL, 
         top_n=5
     )
 
-    # --- SYSTEM PROMPT ---
-    # Engineered for technical manual interpretation
+    # --- STEP 3: SYSTEM PROMPT (Strict Grounding) ---
     system_prompt = (
-        "You are the Intelligent Manual Assistant for Nexa cars. "
-        "Your job is to extract technical data from the provided context and answer the user's question directly."
-        "\n\n"
-        "### CRITICAL INFERENCE RULES:\n"
-        "1. **Assume Intent:** If the user asks about 'Family' or 'Travel', they mean 'Gross Vehicle Weight' or 'Full Load'. Look for these terms in tables.\n"
-        "2. **Read Tables:** Most answers are inside Markdown tables. If a row matches the user's query (e.g., '195/80 R15'), quote it.\n"
-        "3. **Missing Header?** If you find a list of specs but no header, look at the chunk before it. Infer the context.\n"
+        "You are the official Nexa Technical Assistant. "
+        "Your goal is to answer questions strictly based on the provided retrieved context snippets.\n"
         "\n"
-        "### ANSWER FORMAT (Strict Order):\n"
-        "1. **The Direct Answer:** Start with the specific number, step, or fact. (e.g., 'The recommended pressure is 26 PSI').\n"
-        "2. **The Context:** Briefly mention which section this comes from (e.g., 'Based on the Full Load specifications...').\n"
-        "3. **Safety Notes (Bottom):** Put any warnings at the very end as a footer.\n"
+        "### STRICT RULES:\n"
+        "1. **NO OUTSIDE KNOWLEDGE:** Do not use your internal training data. If the answer is not in the context, say 'I cannot find that information in the manual.'\n"
+        "2. **CITE SOURCES:** When you provide a specific number (e.g., '29 PSI'), mention the section it came from (e.g., 'According to the Maintenance > Tires section...').\n"
+        "3. **HANDLE TABLES:** The context contains Markdown tables. Read the rows carefully. If a user asks for 'Full Load', look for the 'Gross Weight' or 'Max Occupants' columns.\n"
+        "4. **BE DIRECT:** Do not start with 'Based on the context provided'. Just state the answer.\n"
         "\n"
-        "### TONE:\n"
-        "- Confident and concise.\n"
-        "- Do NOT say 'The manual does not state...' unless the page is blank."
+        "Context:\n"
+    )
+
+    # Assemble the Engine
+    response_synthesizer = get_response_synthesizer(
+        response_mode="compact", # Concatenates chunks efficiently
+        structured_answer_filtering=False
+    )
+
+    query_engine = RetrieverQueryEngine(
+        retriever=retriever,
+        node_postprocessors=[reranker],
+        response_synthesizer=response_synthesizer,
     )
     
-    return index.as_chat_engine(
-        chat_mode="context",
-        system_prompt=system_prompt,
-        similarity_top_k=20,           # Wide Net: Catch huge tables
-        node_postprocessors=[reranker] # Sniper Shot: Filter noise
+    # Inject the system prompt override
+    query_engine.update_prompts(
+        {"response_synthesizer:text_qa_template_str": system_prompt + "{context_str}\n\nQuestion: {query_str}\nAnswer:"}
     )
+
+    return query_engine
 
 def main():
     print(f"--> Initializing Nexa AI ({LLM_MODEL})...")
     try:
-        chat_engine = get_chat_engine()
+        query_engine = get_query_engine()
         print("--> Ready! (Type 'exit' to quit)")
         print("-" * 50)
 
         while True:
             try:
-                user_input = input("You: ")
+                user_input = input("\nYou: ")
                 if user_input.lower() in ["exit", "quit"]:
                     break
                 
-                # Streaming response for low-latency feel
-                response = chat_engine.stream_chat(user_input)
-                print("AI: ", end="", flush=True)
-                for token in response.response_gen:
-                    print(token, end="", flush=True)
-                print("\n" + "-" * 50)
+                print("Retrieving & Reasoning...", end="\r")
+                
+                # Execute Query
+                response = query_engine.query(user_input)
+                
+                # --- DEBUG: SHOW SOURCES ---
+                # This proves IF the chunking worked. If you see unrelated chunks here, 
+                # then we adjust the retrieval. If you see the right chunks, the LLM is safe.
+                print("\n[DEBUG: Top Retrieved Sources]")
+                for node in response.source_nodes:
+                    # Parse our custom metadata
+                    meta = node.metadata
+                    path = meta.get('context_path', 'Unknown Section')
+                    score = f"{node.score:.3f}" if node.score else "N/A"
+                    print(f" - [{score}] {path}: {node.text[:60]}...")
+                print("-" * 50)
+
+                # Streaming or Text Response
+                print(f"AI: {response.response}\n")
                 
             except KeyboardInterrupt:
                 break
             except Exception as e:
-                print(f"\n[!] Error during generation: {e}")
-                print("-" * 50)
+                print(f"\n[!] Error: {e}")
 
     except Exception as e:
         print(f"[!] Startup Error: {e}")
